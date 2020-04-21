@@ -49,7 +49,7 @@ CREATE TEMPORARY TABLE neighbor_intersection AS
 
 -- Calculate the values for the summand
 CREATE TEMPORARY TABLE neighbor_intersectionWcounts AS
-       SELECT NI.Nieghbors, (SELECT 1/LOG(COUNT(foo1.neighborstemp))
+       SELECT NI.Nieghbors, (SELECT 1/LN(COUNT(foo1.neighborstemp))
        	                     FROM (SELECT e.objectid AS neighborstemp
                                    FROM edge AS e
        			           WHERE e.objectid=NI.nieghbors
