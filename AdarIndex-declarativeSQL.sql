@@ -12,61 +12,19 @@ CREATE TEMPORARY TABLE neighbor_intersection AS
        FROM (SELECT DISTINCT t.* 
              FROM (SELECT objectid AS Nieghbors
                    FROM edge
-                   WHERE objectid=:'node1name'
-                      OR attributetype=:'node1name'
-                      OR attributeid=:'node1name'
-                   UNION
-                   SELECT attributeid
-                   FROM edge
-                   WHERE objectid=:'node1name'
-                      OR attributetype=:'node1name' 
-                      OR attributeid=:'node1name' 
-                   UNION
-                   SELECT attributetype
-                   FROM edge
-                   WHERE objectid=:'node1name' 
-                      OR attributetype=:'node1name' 
-                      OR attributeid=:'node1name') AS t) as node1,
+                   WHERE objectid=:'node1name') AS t) as node1,
             (SELECT DISTINCT t.* 
              FROM (SELECT objectid AS Nieghbors
                    FROM edge
-                   WHERE objectid=:'node2name'
-                      OR attributetype=:'node2name'
-                      OR attributeid=:'node2name'
-                   UNION
-                   SELECT attributeid
-                   FROM edge
-                   WHERE objectid=:'node2name'
-                      OR attributetype=:'node2name'
-                      OR attributeid=:'node2name'
-                   UNION
-                   SELECT attributetype
-                   FROM edge
-                   WHERE objectid=:'node2name'
-                      OR attributetype=:'node2name'
-                      OR attributeid=:'node2name') AS t) as node2
+                   WHERE objectid=:'node2name') AS t) as node2
        WHERE node1.Nieghbors=node2.Nieghbors;
 
 -- Calculate the values for the summand
 CREATE TEMPORARY TABLE neighbor_intersectionWcounts AS
-       SELECT NI.Nieghbors, (SELECT 1/LN(COUNT(foo1.neighborstemp))
+       SELECT NI.Nieghbors, (SELECT 1/LN(COUNT(neighborneighbor.neighborstemp))
        	                     FROM (SELECT e.objectid AS neighborstemp
                                    FROM edge AS e
-       			           WHERE e.objectid=NI.nieghbors
-       			              OR e.attributetype=NI.nieghbors
-       			              OR e.attributeid=NI.nieghbors
-	                           UNION
-                                   SELECT e.attributeid	
-	                           FROM edge AS e
-	                           WHERE e.objectid=NI.nieghbors
-	                             OR e.attributetype=NI.nieghbors
-	                             OR e.attributeid=NI.nieghbors
-	                           UNION
-	                           SELECT attributetype
-	                           FROM edge
-	                           WHERE objectid=:NI.nieghbors
-	                              OR attributetype=:NI.nieghbors
-	                              OR attributeid=:NI.nieghbors)) AS foo1) AS oneOverLog	           
+       			           WHERE e.objectid=NI.nieghbors)) AS neighborneighbor) AS oneOverLog
        FROM neighbor_intersection AS NI;
 
 -- Sum over all summands for a index bewteen the nodes
