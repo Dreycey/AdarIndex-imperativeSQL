@@ -12,17 +12,19 @@ psql -f tableDefs.sql smithsoniandb2
 ```
 * Edges for the network. 
 ```
-psql -c "\copy edge FROM edge.csv delimiter ',' csv;" smithsoniandb2
+psql -c "\copy edge FROM edgeSample.csv delimiter ',' csv;" smithsoniandb2
 ```
 * Nodes for the network.
 ```
-psql -c "\copy node FROM node.csv delimiter ',' csv;" smithsoniandb2
+psql -c "\copy node FROM nodeSample.csv delimiter ',' csv;" smithsoniandb2
 ```
 
 # How to run the algorithm
 ```                     
-psql -f AdarIndex-imperativeSQL.sql smithsoniandb2
+psql -f AdarIndex-declarativeSQL.sql smithsoniandb2
 ```
+
+Make sure to set the variables within the .sql file. 
 
 # databases at this point.. 
 
@@ -113,6 +115,7 @@ FROM chndm_content;
  topic
  city
 
+```
 amusements,topic
 graphic arts,topic
 landscapes,topic
@@ -122,7 +125,7 @@ architecture,topic
 transportation,topic
 weaving,topic
 crickets,topic
-
+```
 
 * As for edges, 
 
@@ -143,6 +146,7 @@ crickets,topic
  topic
 (11 rows)
 
+```
 chndm_2009-6-57,object,architecture,topic
 chndm_2009-6-58,object,architecture,topic
 chndm_2009-6-6,object,architecture,topic
@@ -158,4 +162,8 @@ chndm_1958-137-3,object,1732–1735,dateFreeText
 chndm_1958-140-1,object,19th century,dateFreeText
 chndm_1958-140-10,object,19th century,dateFreeText
 chndm_1958-140-16-a_c,object,late 19th century,dateFreeText
+```
+
+Therefore, it is only the edge table that truly needs to be used for the 
+algorithm. 
 

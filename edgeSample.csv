@@ -1,0 +1,4609 @@
+objectid,objecttype,attributeid,attributetype
+chndm_1896-1-103,object,1600s,date
+chndm_1896-1-103,object,1700s,date
+chndm_1896-1-119,object,1700s,date
+chndm_1896-1-119,object,1720s,date
+chndm_1896-1-25,object,1600s,date
+chndm_1896-1-25,object,1700s,date
+chndm_1896-1-34,object,1600s,date
+chndm_1896-1-34,object,1700s,date
+chndm_1896-1-58,object,1600s,date
+chndm_1896-1-58,object,1700s,date
+chndm_1896-1-87,object,1600s,date
+chndm_1896-1-87,object,1700s,date
+chndm_1896-16-19,object,1850s,date
+chndm_1896-16-19,object,1860s,date
+chndm_1896-16-9,object,1840s,date
+chndm_1896-17-28,object,1850s,date
+chndm_1896-17-28,object,1900s,date
+chndm_1896-2-41,object,1700s,date
+chndm_1896-2-41,object,1800s,date
+chndm_1896-3-190,object,1630s,date
+chndm_1896-3-190,object,1640s,date
+chndm_1896-3-216,object,1660s,date
+chndm_1896-3-23,object,1400s,date
+chndm_1896-3-23,object,1500s,date
+chndm_1896-3-24,object,1400s,date
+chndm_1896-3-24,object,1500s,date
+chndm_1896-3-281,object,1760s,date
+chndm_1896-3-281,object,1770s,date
+chndm_1896-3-347,object,1730s,date
+chndm_1896-3-347,object,1780s,date
+chndm_1896-3-358,object,1780s,date
+chndm_1896-3-87,object,1550s,date
+chndm_1896-3-90,object,1600s,date
+chndm_1896-4-4,object,1800s,date
+chndm_1896-4-4,object,1820s,date
+chndm_1897-8-140,object,1600s,date
+chndm_1897-8-140,object,1620s,date
+chndm_1897-8-189,object,1600s,date
+chndm_1897-8-189,object,1700s,date
+chndm_1897-8-242,object,1700s,date
+chndm_1897-8-242,object,1800s,date
+chndm_1897-8-50,object,1800s,date
+chndm_1897-8-50,object,1900s,date
+chndm_1897-9-8,object,1770s,date
+chndm_1897-9-8,object,1780s,date
+chndm_1898-18-2,object,1800s,date
+chndm_1898-18-2,object,1900s,date
+chndm_1898-21-5-e,object,1780s,date
+chndm_1898-6-73,object,1860s,date
+chndm_1899-17-1-d,object,1600s,date
+chndm_1899-17-1-d,object,1690s,date
+chndm_1899-2-7,object,1750s,date
+chndm_1899-2-7,object,1790s,date
+chndm_1900-25-9,object,1770s,date
+chndm_1900-25-9,object,1800s,date
+chndm_1900-4-2,object,1800s,date
+chndm_1900-4-2,object,1900s,date
+chndm_1901-30-33,object,1740s,date
+chndm_1901-30-33,object,1750s,date
+chndm_1901-39-1063,object,1850s,date
+chndm_1901-39-1073,object,1800s,date
+chndm_1901-39-1251,object,1820s,date
+chndm_1901-39-1251,object,1850s,date
+chndm_1901-39-1258,object,1770s,date
+chndm_1901-39-1258,object,1800s,date
+chndm_1901-39-1270,object,1800s,date
+chndm_1901-39-1270,object,1820s,date
+chndm_1901-39-1361,object,1800s,date
+chndm_1901-39-1361,object,1810s,date
+chndm_1901-39-1392,object,1780s,date
+chndm_1901-39-1392,object,1790s,date
+chndm_1901-39-1541,object,1790s,date
+chndm_1901-39-1541,object,1800s,date
+chndm_1901-39-1549,object,1790s,date
+chndm_1901-39-1549,object,1800s,date
+chndm_1901-39-1593,object,1770s,date
+chndm_1901-39-1593,object,1800s,date
+chndm_1901-39-1702,object,1690s,date
+chndm_1901-39-1718,object,1720s,date
+chndm_1901-39-1718,object,1770s,date
+chndm_1901-39-1760,object,1600s,date
+chndm_1901-39-1760,object,1620s,date
+chndm_1901-39-1809,object,1650s,date
+chndm_1901-39-1809,object,1670s,date
+chndm_1901-39-1925,object,1800s,date
+chndm_1901-39-1987,object,1770s,date
+chndm_1901-39-1987,object,1800s,date
+chndm_1901-39-2056,object,1780s,date
+chndm_1901-39-2179,object,1770s,date
+chndm_1901-39-2179,object,1790s,date
+chndm_1901-39-2217,object,1720s,date
+chndm_1901-39-2217,object,1750s,date
+chndm_1901-39-2466,object,1810s,date
+chndm_1901-39-2466,object,1820s,date
+chndm_1901-39-2482,object,1590s,date
+chndm_1901-39-2489,object,1810s,date
+chndm_1901-39-2673,object,1580s,date
+chndm_1901-39-2673,object,1590s,date
+chndm_1901-39-2681,object,1570s,date
+chndm_1901-39-2681,object,1590s,date
+chndm_1901-39-2773,object,1850s,date
+chndm_1901-39-2773,object,1900s,date
+chndm_1901-39-2782,object,1720s,date
+chndm_1901-39-2782,object,1770s,date
+chndm_1901-39-2785,object,1700s,date
+chndm_1901-39-2785,object,1720s,date
+chndm_1901-39-2801,object,1770s,date
+chndm_1901-39-2801,object,1820s,date
+chndm_1901-39-2824,object,1770s,date
+chndm_1901-39-2824,object,1800s,date
+chndm_1901-39-2852,object,1700s,date
+chndm_1901-39-2852,object,1750s,date
+chndm_1901-39-3066,object,1770s,date
+chndm_1901-39-3066,object,1800s,date
+chndm_1901-39-316,object,1570s,date
+chndm_1901-39-316,object,1600s,date
+chndm_1901-39-3217,object,1780s,date
+chndm_1901-39-3311,object,1810s,date
+chndm_1901-39-3343,object,1780s,date
+chndm_1901-39-3343,object,1800s,date
+chndm_1901-39-3345,object,1810s,date
+chndm_1901-39-3345,object,1820s,date
+chndm_1901-39-414,object,1750s,date
+chndm_1901-39-414,object,1800s,date
+chndm_1901-39-51,object,1790s,date
+chndm_1901-39-51,object,1800s,date
+chndm_1901-39-511,object,1810s,date
+chndm_1901-39-511,object,1820s,date
+chndm_1901-39-560,object,1700s,date
+chndm_1901-39-560,object,1750s,date
+chndm_1901-39-623,object,1770s,date
+chndm_1901-39-623,object,1790s,date
+chndm_1901-39-632,object,1740s,date
+chndm_1901-39-632,object,1760s,date
+chndm_1901-39-689,object,1750s,date
+chndm_1901-39-777,object,1500s,date
+chndm_1901-39-777,object,1600s,date
+chndm_1901-39-83,object,1820s,date
+chndm_1901-39-83,object,1850s,date
+chndm_1901-39-994,object,1770s,date
+chndm_1901-39-994,object,1880s,date
+chndm_1902-1-1016,object,1770s,date
+chndm_1902-1-1016,object,1800s,date
+chndm_1902-1-186,object,1200s,date
+chndm_1902-1-187,object,1200s,date
+chndm_1902-1-187,object,1400s,date
+chndm_1902-1-240,object,1200s,date
+chndm_1902-1-240,object,1300s,date
+chndm_1902-1-296,object,1300s,date
+chndm_1902-1-296,object,1400s,date
+chndm_1902-1-424,object,1600s,date
+chndm_1902-1-424,object,1800s,date
+chndm_1902-1-554,object,1600s,date
+chndm_1902-1-554,object,1700s,date
+chndm_1902-1-555,object,1600s,date
+chndm_1902-1-555,object,1700s,date
+chndm_1902-1-647-a_d,object,1600s,date
+chndm_1902-1-647-a_d,object,1700s,date
+chndm_1902-1-714,object,1600s,date
+chndm_1902-1-714,object,1700s,date
+chndm_1902-1-779,object,1500s,date
+chndm_1902-1-779,object,1600s,date
+chndm_1902-1-811,object,1720s,date
+chndm_1902-1-811,object,1770s,date
+chndm_1902-1-858,object,1500s,date
+chndm_1902-1-858,object,1600s,date
+chndm_1902-1-904,object,1600s,date
+chndm_1902-1-904,object,1620s,date
+chndm_1902-10-2,object,1900s,date
+chndm_1903-11-24,object,1670s,date
+chndm_1903-11-24,object,1680s,date
+chndm_1904-16-125,object,1870s,date
+chndm_1904-16-157,object,1870s,date
+chndm_1904-16-16-b,object,1890s,date
+chndm_1904-16-242,object,1880s,date
+chndm_1904-16-302,object,1880s,date
+chndm_1904-16-338,object,1880s,date
+chndm_1904-16-45-c,object,1880s,date
+chndm_1904-20-100,object,1780s,date
+chndm_1904-20-320,object,1800s,date
+chndm_1904-20-320,object,1900s,date
+chndm_1904-20-431,object,1800s,date
+chndm_1904-20-431,object,1850s,date
+chndm_1904-21-19,object,1630s,date
+chndm_1904-21-19,object,1640s,date
+chndm_1905-2-100,object,1600s,date
+chndm_1905-2-100,object,1700s,date
+chndm_1905-2-135,object,1600s,date
+chndm_1905-2-135,object,1700s,date
+chndm_1905-2-189-a_b,object,1700s,date
+chndm_1905-2-189-a_b,object,1800s,date
+chndm_1905-2-71,object,1800s,date
+chndm_1905-2-71,object,1900s,date
+chndm_1906-15-21,object,1760s,date
+chndm_1906-15-21,object,1850s,date
+chndm_1906-15-31,object,1810s,date
+chndm_1906-15-31,object,1820s,date
+chndm_1906-15-35-a_b,object,1820s,date
+chndm_1906-15-35-a_b,object,1830s,date
+chndm_1906-21-222,object,1780s,date
+chndm_1906-21-222,object,1800s,date
+chndm_1907-17-27,object,1810s,date
+chndm_1907-17-67,object,1820s,date
+chndm_1907-17-8,object,1820s,date
+chndm_1907-5-27,object,1800s,date
+chndm_1907-5-27,object,1820s,date
+chndm_1907-7-10,object,1710s,date
+chndm_1907-7-10,object,1720s,date
+chndm_1908-13-15,object,1720s,date
+chndm_1908-13-15,object,1770s,date
+chndm_1908-15-6,object,1800s,date
+chndm_1908-15-6,object,1900s,date
+chndm_1908-17-2,object,1790s,date
+chndm_1908-17-2,object,1800s,date
+chndm_1908-26-137,object,1770s,date
+chndm_1908-26-137,object,1800s,date
+chndm_1908-26-96,object,1600s,date
+chndm_1908-26-96,object,1700s,date
+chndm_1908-6-1,object,1800s,date
+chndm_1908-6-1,object,1890s,date
+chndm_1909-13-127,object,1820s,date
+chndm_1909-13-127,object,1850s,date
+chndm_1909-13-17,object,1830s,date
+chndm_1909-13-17,object,1840s,date
+chndm_1909-13-26,object,1810s,date
+chndm_1909-13-26,object,1840s,date
+chndm_1909-13-39,object,1820s,date
+chndm_1909-13-39,object,1850s,date
+chndm_1909-13-4,object,1800s,date
+chndm_1909-13-4,object,1820s,date
+chndm_1909-13-91,object,1810s,date
+chndm_1909-13-91,object,1840s,date
+chndm_1909-2-193,object,1800s,date
+chndm_1909-2-193,object,1900s,date
+chndm_1909-2-20,object,1800s,date
+chndm_1909-2-20,object,1900s,date
+chndm_1909-2-37,object,1820s,date
+chndm_1909-2-37,object,1830s,date
+chndm_1909-2-4,object,1800s,date
+chndm_1909-2-4,object,1900s,date
+chndm_1909-2-5,object,1800s,date
+chndm_1909-2-5,object,1900s,date
+chndm_1909-22-1-25,object,1600s,date
+chndm_1909-22-1-25,object,1690s,date
+chndm_1909-22-4-31,object,1600s,date
+chndm_1909-22-4-31,object,1690s,date
+chndm_1909-25-25,object,1740s,date
+chndm_1909-25-25,object,1750s,date
+chndm_1909-26-2-a_b,object,1810s,date
+chndm_1909-26-2-a_b,object,1820s,date
+chndm_1910-24-13,object,1760s,date
+chndm_1910-24-13,object,1770s,date
+chndm_1910-45-2-a,object,1770s,date
+chndm_1910-45-2-a,object,1800s,date
+chndm_1911-28-154,object,1740s,date
+chndm_1911-28-154,object,1750s,date
+chndm_1911-28-19-3,object,1760s,date
+chndm_1911-28-19-3,object,1770s,date
+chndm_1911-28-196,object,1760s,date
+chndm_1911-28-196,object,1780s,date
+chndm_1911-28-266,object,1770s,date
+chndm_1911-28-266,object,1780s,date
+chndm_1911-28-332,object,1820s,date
+chndm_1911-28-332,object,1830s,date
+chndm_1911-28-361,object,1820s,date
+chndm_1911-28-361,object,1830s,date
+chndm_1911-28-376,object,1820s,date
+chndm_1911-28-376,object,1830s,date
+chndm_1911-28-377,object,1820s,date
+chndm_1911-28-377,object,1830s,date
+chndm_1911-28-396,object,1680s,date
+chndm_1911-28-400,object,1720s,date
+chndm_1911-28-400,object,1730s,date
+chndm_1911-28-437,object,1800s,date
+chndm_1911-28-442,object,1780s,date
+chndm_1911-28-64,object,1750s,date
+chndm_1911-28-64,object,1770s,date
+chndm_1911-28-82-1,object,1780s,date
+chndm_1911-28-82-1,object,1790s,date
+chndm_1911-28-9,object,1730s,date
+chndm_1911-28-9,object,1750s,date
+chndm_1911-31-7,object,1750s,date
+chndm_1911-31-7,object,1760s,date
+chndm_1911-7-5,object,1830s,date
+chndm_1911-7-5,object,1840s,date
+chndm_1912-12-142,object,1860s,date
+chndm_1912-12-252,object,1890s,date
+chndm_1912-12-260,object,1860s,date
+chndm_1912-12-41,object,1880s,date
+chndm_1912-12-52,object,1850s,date
+chndm_1912-12-52,object,1860s,date
+chndm_1912-12-66,object,1870s,date
+chndm_1912-16-1,object,1870s,date
+chndm_1912-16-1,object,1880s,date
+chndm_1912-16-33,object,1870s,date
+chndm_1912-16-52,object,1890s,date
+chndm_1912-16-52,object,1900s,date
+chndm_1912-16-64,object,1870s,date
+chndm_1913-17-26-a_b,object,1830s,date
+chndm_1913-34-11,object,1750s,date
+chndm_1913-45-9-a_b,object,1840s,date
+chndm_1913-45-9-a_b,object,1850s,date
+chndm_1914-21-121,object,1800s,date
+chndm_1914-21-121,object,1810s,date
+chndm_1914-21-14,object,1640s,date
+chndm_1914-38-140,object,1890s,date
+chndm_1914-38-140,object,1900s,date
+chndm_1914-38-154,object,1890s,date
+chndm_1914-38-154,object,1900s,date
+chndm_1914-38-186,object,1890s,date
+chndm_1914-38-186,object,1900s,date
+chndm_1914-38-194,object,1890s,date
+chndm_1914-38-194,object,1900s,date
+chndm_1914-38-208,object,1890s,date
+chndm_1914-38-208,object,1900s,date
+chndm_1914-38-228-a,object,1890s,date
+chndm_1914-38-228-a,object,1900s,date
+chndm_1914-38-239,object,1890s,date
+chndm_1914-38-239,object,1900s,date
+chndm_1914-38-323,object,1890s,date
+chndm_1914-38-323,object,1900s,date
+chndm_1914-38-339,object,1880s,date
+chndm_1914-38-352,object,1880s,date
+chndm_1914-38-352,object,1890s,date
+chndm_1914-38-56,object,1890s,date
+chndm_1914-38-60,object,1890s,date
+chndm_1914-38-90,object,1880s,date
+chndm_1914-38-90,object,1890s,date
+chndm_1915-16-8-a,object,1730s,date
+chndm_1915-16-8-a,object,1760s,date
+chndm_1916-33-205-a_b,object,1850s,date
+chndm_1916-33-205-a_b,object,1900s,date
+chndm_1916-33-49-a_b,object,1870s,date
+chndm_1916-33-49-a_b,object,1880s,date
+chndm_1917-14-4,object,1870s,date
+chndm_1917-4-115,object,1860s,date
+chndm_1917-4-1313,object,1870s,date
+chndm_1917-4-1318,object,1850s,date
+chndm_1917-4-1332-b,object,1860s,date
+chndm_1917-4-1363,object,1850s,date
+chndm_1917-4-1363,object,1860s,date
+chndm_1917-4-15-b,object,1850s,date
+chndm_1917-4-157,object,1860s,date
+chndm_1917-4-158-b,object,1860s,date
+chndm_1917-4-173,object,1860s,date
+chndm_1917-4-178,object,1860s,date
+chndm_1917-4-203,object,1850s,date
+chndm_1917-4-221,object,1850s,date
+chndm_1917-4-245,object,1850s,date
+chndm_1917-4-284-a,object,1850s,date
+chndm_1917-4-296-b,object,1850s,date
+chndm_1917-4-34-b,object,1850s,date
+chndm_1917-4-353-b,object,1860s,date
+chndm_1917-4-363,object,1850s,date
+chndm_1917-4-365-a,object,1850s,date
+chndm_1917-4-366-a,object,1850s,date
+chndm_1917-4-464-a,object,1860s,date
+chndm_1917-4-497,object,1870s,date
+chndm_1917-4-497,object,1880s,date
+chndm_1917-4-516,object,1850s,date
+chndm_1917-4-516,object,1870s,date
+chndm_1917-4-534,object,1860s,date
+chndm_1917-4-534,object,1880s,date
+chndm_1917-4-537,object,1860s,date
+chndm_1917-4-537,object,1880s,date
+chndm_1917-4-677,object,1860s,date
+chndm_1917-4-825,object,1850s,date
+chndm_1917-9-1,object,1700s,date
+chndm_1917-9-1,object,1800s,date
+chndm_1918-52-1,object,1640s,date
+chndm_1918-52-1,object,1660s,date
+chndm_1919-10-70,object,1720s,date
+chndm_1919-10-70,object,1730s,date
+chndm_1919-30-11,object,1730s,date
+chndm_1919-30-11,object,1740s,date
+chndm_1920-15-28,object,1770s,date
+chndm_1920-15-28,object,1820s,date
+chndm_1920-3-2-a_b,object,1860s,date
+chndm_1920-3-2-a_b,object,1870s,date
+chndm_1920-36-170,object,1800s,date
+chndm_1920-36-170,object,1810s,date
+chndm_1920-36-179,object,1780s,date
+chndm_1920-36-179,object,1790s,date
+chndm_1920-36-218,object,1780s,date
+chndm_1920-36-218,object,1790s,date
+chndm_1920-36-295,object,1720s,date
+chndm_1920-36-295,object,1800s,date
+chndm_1920-36-318,object,1780s,date
+chndm_1920-36-319,object,1780s,date
+chndm_1920-36-319,object,1790s,date
+chndm_1920-36-43,object,1770s,date
+chndm_1920-36-43,object,1790s,date
+chndm_1921-22-233,object,1780s,date
+chndm_1921-22-233,object,1790s,date
+chndm_1921-22-286,object,1750s,date
+chndm_1921-22-286,object,1770s,date
+chndm_1921-22-348,object,1770s,date
+chndm_1921-22-359,object,1770s,date
+chndm_1921-22-38,object,1700s,date
+chndm_1921-22-38,object,1800s,date
+chndm_1921-41-29,object,1770s,date
+chndm_1921-41-29,object,1800s,date
+chndm_1921-6-11-1,object,1770s,date
+chndm_1921-6-11-1,object,1780s,date
+chndm_1921-6-123-1,object,1650s,date
+chndm_1921-6-123-1,object,1660s,date
+chndm_1921-6-147-3,object,1640s,date
+chndm_1921-6-147-3,object,1650s,date
+chndm_1921-6-205,object,1750s,date
+chndm_1921-6-212-41,object,1690s,date
+chndm_1921-6-212-41,object,1750s,date
+chndm_1921-6-212-66,object,1740s,date
+chndm_1921-6-212-7-a,object,1740s,date
+chndm_1921-6-213-7,object,1740s,date
+chndm_1921-6-231-13,object,1730s,date
+chndm_1921-6-231-27,object,1700s,date
+chndm_1921-6-231-27,object,1770s,date
+chndm_1921-6-281-33,object,1730s,date
+chndm_1921-6-282-17,object,1730s,date
+chndm_1921-6-282-17,object,1740s,date
+chndm_1921-6-282-62,object,1690s,date
+chndm_1921-6-282-62,object,1760s,date
+chndm_1921-6-282-74,object,1690s,date
+chndm_1921-6-282-74,object,1760s,date
+chndm_1921-6-285-38,object,1740s,date
+chndm_1921-6-285-84,object,1740s,date
+chndm_1921-6-285-95,object,1740s,date
+chndm_1921-6-313-80,object,1740s,date
+chndm_1921-6-326-25,object,1740s,date
+chndm_1921-6-40-4,object,1660s,date
+chndm_1921-6-40-4,object,1670s,date
+chndm_1921-6-42-8,object,1770s,date
+chndm_1921-6-450-154,object,1750s,date
+chndm_1921-6-450-36,object,1750s,date
+chndm_1921-6-469-6,object,1580s,date
+chndm_1921-6-472-6,object,1590s,date
+chndm_1921-6-472-6,object,1600s,date
+chndm_1921-6-504-11,object,1730s,date
+chndm_1921-6-504-11,object,1770s,date
+chndm_1921-6-82,object,1680s,date
+chndm_1921-6-82,object,1690s,date
+chndm_1921-6-94-3,object,1660s,date
+chndm_1921-6-97-1,object,1670s,date
+chndm_1921-6-97-2,object,1670s,date
+chndm_1921-6-99,object,1660s,date
+chndm_1923-14-1,object,1800s,date
+chndm_1923-14-1,object,1820s,date
+chndm_1923-22-28,object,1800s,date
+chndm_1923-22-28,object,1830s,date
+chndm_1923-22-4,object,1800s,date
+chndm_1923-22-4,object,1830s,date
+chndm_1923-41-5,object,1870s,date
+chndm_1923-41-7,object,1870s,date
+chndm_1923-46-117,object,1800s,date
+chndm_1923-46-117,object,1900s,date
+chndm_1923-51-1,object,1810s,date
+chndm_1923-51-15,object,1800s,date
+chndm_1923-51-15,object,1900s,date
+chndm_1923-6-25,object,1890s,date
+chndm_1923-6-44,object,1900s,date
+chndm_1923-7-35-a_b,object,1750s,date
+chndm_1923-7-35-a_b,object,1800s,date
+chndm_1923-7-48,object,1800s,date
+chndm_1923-7-48,object,1820s,date
+chndm_1924-15-134,object,1720s,date
+chndm_1924-15-134,object,1770s,date
+chndm_1924-15-43-b,object,1750s,date
+chndm_1924-15-43-b,object,1800s,date
+chndm_1924-33-1-a_b,object,1720s,date
+chndm_1924-33-1-a_b,object,1770s,date
+chndm_1924-36-2,object,1770s,date
+chndm_1924-36-2,object,1820s,date
+chndm_1924-38-167,object,1820s,date
+chndm_1924-38-167,object,1840s,date
+chndm_1925-2-21-a,object,1770s,date
+chndm_1925-2-21-a,object,1800s,date
+chndm_1926-22-118-b,object,1730s,date
+chndm_1926-22-118-b,object,1800s,date
+chndm_1926-22-184,object,1660s,date
+chndm_1926-22-184,object,1720s,date
+chndm_1926-22-65-a,object,1860s,date
+chndm_1926-22-65-a,object,1870s,date
+chndm_1926-37-169,object,1800s,date
+chndm_1926-37-169,object,1900s,date
+chndm_1926-43-1-81,object,1710s,date
+chndm_1926-43-1-81,object,1730s,date
+chndm_1926-43-4-155,object,1710s,date
+chndm_1926-43-4-155,object,1730s,date
+chndm_1926-43-4-169,object,1710s,date
+chndm_1926-43-4-169,object,1730s,date
+chndm_1926-43-4-213,object,1710s,date
+chndm_1926-43-4-213,object,1730s,date
+chndm_1926-43-4-379,object,1710s,date
+chndm_1926-43-4-379,object,1730s,date
+chndm_1926-43-4-435,object,1710s,date
+chndm_1926-43-4-435,object,1730s,date
+chndm_1926-43-4-45,object,1710s,date
+chndm_1926-43-4-45,object,1730s,date
+chndm_1926-43-4-50,object,1710s,date
+chndm_1926-43-4-50,object,1730s,date
+chndm_1926-43-4-550,object,1710s,date
+chndm_1926-43-4-550,object,1730s,date
+chndm_1926-43-4-625,object,1710s,date
+chndm_1926-43-4-625,object,1730s,date
+chndm_1926-43-4-74,object,1710s,date
+chndm_1926-43-4-74,object,1730s,date
+chndm_1926-43-4-95,object,1710s,date
+chndm_1926-43-4-95,object,1730s,date
+chndm_1926-43-5-104,object,1710s,date
+chndm_1926-43-5-104,object,1730s,date
+chndm_1926-43-5-211,object,1710s,date
+chndm_1926-43-5-211,object,1730s,date
+chndm_1926-43-5-217,object,1710s,date
+chndm_1926-43-5-217,object,1730s,date
+chndm_1926-43-5-300,object,1710s,date
+chndm_1926-43-5-300,object,1730s,date
+chndm_1926-43-5-345,object,1710s,date
+chndm_1926-43-5-345,object,1730s,date
+chndm_1926-43-5-432,object,1710s,date
+chndm_1926-43-5-432,object,1730s,date
+chndm_1926-43-5-458,object,1710s,date
+chndm_1926-43-5-458,object,1730s,date
+chndm_1926-43-5-481,object,1710s,date
+chndm_1926-43-5-481,object,1730s,date
+chndm_1926-43-5-540,object,1710s,date
+chndm_1926-43-5-540,object,1730s,date
+chndm_1926-43-5-551,object,1710s,date
+chndm_1926-43-5-551,object,1730s,date
+chndm_1926-43-6-a-135,object,1710s,date
+chndm_1926-43-6-a-135,object,1730s,date
+chndm_1926-43-6-a-75,object,1710s,date
+chndm_1926-43-6-a-75,object,1730s,date
+chndm_1926-43-6-a-99,object,1710s,date
+chndm_1926-43-6-a-99,object,1730s,date
+chndm_1926-43-6-b-135,object,1710s,date
+chndm_1926-43-6-b-135,object,1730s,date
+chndm_1926-43-6-b-153,object,1710s,date
+chndm_1926-43-6-b-153,object,1730s,date
+chndm_1926-43-6-b-155,object,1710s,date
+chndm_1926-43-6-b-155,object,1730s,date
+chndm_1926-43-6-b-252,object,1710s,date
+chndm_1926-43-6-b-252,object,1730s,date
+chndm_1926-43-6-b-3,object,1710s,date
+chndm_1926-43-6-b-3,object,1730s,date
+chndm_1926-43-6-b-78,object,1710s,date
+chndm_1926-43-6-b-78,object,1730s,date
+chndm_1926-43-6-b-84,object,1710s,date
+chndm_1926-43-6-b-84,object,1730s,date
+chndm_1926-43-6-b-96,object,1710s,date
+chndm_1926-43-6-b-96,object,1730s,date
+chndm_1926-43-7-b-118,object,1710s,date
+chndm_1926-43-7-b-118,object,1730s,date
+chndm_1926-43-7-c-12,object,1710s,date
+chndm_1926-43-7-c-12,object,1730s,date
+chndm_1926-43-7-d-32,object,1710s,date
+chndm_1926-43-7-d-32,object,1730s,date
+chndm_1926-43-7-d-45,object,1710s,date
+chndm_1926-43-7-d-45,object,1730s,date
+chndm_1928-16-2,object,1760s,date
+chndm_1928-16-2,object,1770s,date
+chndm_1928-2-95,object,1770s,date
+chndm_1928-2-95,object,1780s,date
+chndm_1928-5-35-a_b,object,1820s,date
+chndm_1928-5-35-a_b,object,1870s,date
+chndm_1929-1-7-a_b,object,1800s,date
+chndm_1929-1-7-a_b,object,1900s,date
+chndm_1931-27-4,object,1500s,date
+chndm_1931-27-4,object,1600s,date
+chndm_1931-4-62,object,1790s,date
+chndm_1931-4-62,object,1800s,date
+chndm_1931-4-81,object,1700s,date
+chndm_1931-4-81,object,1800s,date
+chndm_1931-4-9,object,1800s,date
+chndm_1931-4-9,object,1850s,date
+chndm_1931-40-47-a_b,object,1700s,date
+chndm_1931-40-47-a_b,object,1800s,date
+chndm_1931-41-25-a_b,object,1870s,date
+chndm_1931-41-25-a_b,object,1900s,date
+chndm_1931-44-17-a_b,object,1770s,date
+chndm_1931-44-17-a_b,object,1800s,date
+chndm_1931-45-41,object,1780s,date
+chndm_1931-45-41,object,1790s,date
+chndm_1931-45-75,object,1810s,date
+chndm_1931-45-75,object,1820s,date
+chndm_1931-45-8,object,1780s,date
+chndm_1931-45-8,object,1790s,date
+chndm_1931-45-88,object,1800s,date
+chndm_1931-45-88,object,1810s,date
+chndm_1931-45-92-a_b,object,1870s,date
+chndm_1931-45-92-a_b,object,1880s,date
+chndm_1931-59-141,object,1800s,date
+chndm_1931-59-141,object,1850s,date
+chndm_1931-59-219-b,object,1770s,date
+chndm_1931-59-219-b,object,1800s,date
+chndm_1931-59-238-d,object,1770s,date
+chndm_1931-59-238-d,object,1800s,date
+chndm_1931-59-402-a,object,1880s,date
+chndm_1931-59-402-a,object,1900s,date
+chndm_1931-59-446-a_b,object,1700s,date
+chndm_1931-59-446-a_b,object,1800s,date
+chndm_1931-59-90-b,object,1800s,date
+chndm_1931-59-90-b,object,1900s,date
+chndm_1931-6-125,object,1730s,date
+chndm_1931-6-125,object,1740s,date
+chndm_1931-61-15,object,1800s,date
+chndm_1931-61-15,object,1900s,date
+chndm_1931-64-169,object,1770s,date
+chndm_1931-64-279,object,1750s,date
+chndm_1931-64-279,object,1770s,date
+chndm_1931-66-160,object,1720s,date
+chndm_1931-66-160,object,1770s,date
+chndm_1931-66-2,object,1820s,date
+chndm_1931-67-65-a,object,1750s,date
+chndm_1931-67-65-a,object,1760s,date
+chndm_1931-70-38,object,1760s,date
+chndm_1931-70-38,object,1780s,date
+chndm_1931-70-44,object,1760s,date
+chndm_1931-70-44,object,1780s,date
+chndm_1931-71-83,object,1860s,date
+chndm_1931-71-83,object,1870s,date
+chndm_1931-73-295,object,1800s,date
+chndm_1931-73-298,object,1800s,date
+chndm_1931-73-7,object,1820s,date
+chndm_1931-73-7,object,1830s,date
+chndm_1931-80-101,object,1700s,date
+chndm_1931-80-101,object,1720s,date
+chndm_1931-80-95,object,1800s,date
+chndm_1931-80-95,object,1820s,date
+chndm_1931-82-12,object,1800s,date
+chndm_1931-82-12,object,1900s,date
+chndm_1931-85-1,object,1700s,date
+chndm_1931-85-1,object,1800s,date
+chndm_1931-86-115-a_c,object,1720s,date
+chndm_1931-86-115-a_c,object,1770s,date
+chndm_1931-86-152-a_b,object,1650s,date
+chndm_1931-86-152-a_b,object,1750s,date
+chndm_1931-86-53,object,1660s,date
+chndm_1931-88-40-a_b,object,1600s,date
+chndm_1931-88-40-a_b,object,1700s,date
+chndm_1931-94-139,object,1690s,date
+chndm_1931-94-139,object,1700s,date
+chndm_1931-94-177,object,1730s,date
+chndm_1931-94-177,object,1740s,date
+chndm_1931-94-186,object,1690s,date
+chndm_1931-94-186,object,1700s,date
+chndm_1931-94-232,object,1540s,date
+chndm_1931-94-232,object,1550s,date
+chndm_1931-94-260,object,1910s,date
+chndm_1931-94-39,object,1770s,date
+chndm_1931-94-39,object,1780s,date
+chndm_1931-94-79,object,1820s,date
+chndm_1931-94-79,object,1900s,date
+chndm_1931-95-12-a_c,object,1720s,date
+chndm_1931-95-12-a_c,object,1770s,date
+chndm_1932-1-41,object,1790s,date
+chndm_1932-1-41,object,1800s,date
+chndm_1932-1-50,object,1770s,date
+chndm_1932-1-50,object,1800s,date
+chndm_1932-1-7,object,1760s,date
+chndm_1932-1-7,object,1770s,date
+chndm_1933-1-148,object,1600s,date
+chndm_1933-1-148,object,1800s,date
+chndm_1933-1-5,object,1700s,date
+chndm_1933-1-5,object,1800s,date
+chndm_1934-12-1,object,1860s,date
+chndm_1934-12-1,object,1890s,date
+chndm_1934-13-5,object,1880s,date
+chndm_1934-13-5,object,1890s,date
+chndm_1935-12-1-6,object,1850s,date
+chndm_1935-12-1-6,object,1860s,date
+chndm_1935-2-1-a_b,object,1820s,date
+chndm_1935-2-1-a_b,object,1830s,date
+chndm_1935-2-3-a,object,1800s,date
+chndm_1935-2-3-a,object,1830s,date
+chndm_1935-2-6,object,1830s,date
+chndm_1935-2-6,object,1840s,date
+chndm_1935-2-7,object,1750s,date
+chndm_1935-2-7,object,1850s,date
+chndm_1936-13-16-a_b,object,1780s,date
+chndm_1937-22-10,object,1870s,date
+chndm_1937-22-10,object,1880s,date
+chndm_1937-38-2-b,object,1740s,date
+chndm_1937-38-2-b,object,1760s,date
+chndm_1937-49-2,object,1700s,date
+chndm_1937-49-2,object,1800s,date
+chndm_1937-96-2,object,1820s,date
+chndm_1937-96-2,object,1870s,date
+chndm_1938-1-32,object,1840s,date
+chndm_1938-57-102,object,1850s,date
+chndm_1938-57-102,object,1860s,date
+chndm_1938-57-1028,object,1890s,date
+chndm_1938-57-1070-175,object,1890s,date
+chndm_1938-57-1070-19,object,1880s,date
+chndm_1938-57-1070-198,object,1870s,date
+chndm_1938-57-1070-198,object,1880s,date
+chndm_1938-57-1070-230,object,1870s,date
+chndm_1938-57-1070-37,object,1890s,date
+chndm_1938-57-1070-37,object,1900s,date
+chndm_1938-57-108,object,1850s,date
+chndm_1938-57-108,object,1860s,date
+chndm_1938-57-1219-b,object,1800s,date
+chndm_1938-57-1219-b,object,1900s,date
+chndm_1938-57-1518,object,1860s,date
+chndm_1938-57-321,object,1820s,date
+chndm_1938-57-418-e,object,1750s,date
+chndm_1938-57-418-e,object,1800s,date
+chndm_1938-57-489-a_b,object,1790s,date
+chndm_1938-57-489-a_b,object,1830s,date
+chndm_1938-57-730-l,object,1800s,date
+chndm_1938-57-730-l,object,1900s,date
+chndm_1938-57-736-c,object,1800s,date
+chndm_1938-57-736-c,object,1900s,date
+chndm_1938-58-1092,object,1810s,date
+chndm_1938-58-1092,object,1830s,date
+chndm_1938-58-1424,object,1800s,date
+chndm_1938-58-1424,object,1900s,date
+chndm_1938-62-21,object,1840s,date
+chndm_1938-62-21,object,1850s,date
+chndm_1938-62-28,object,1820s,date
+chndm_1938-62-28,object,1830s,date
+chndm_1938-73-1,object,1700s,date
+chndm_1938-73-1,object,1790s,date
+chndm_1938-82-106-a_d,object,1910s,date
+chndm_1938-88-1005,object,1770s,date
+chndm_1938-88-2476,object,1620s,date
+chndm_1938-88-2476,object,1650s,date
+chndm_1938-88-2601,object,1560s,date
+chndm_1938-88-2601,object,1600s,date
+chndm_1938-88-2621,object,1580s,date
+chndm_1938-88-2621,object,1590s,date
+chndm_1938-88-270,object,1840s,date
+chndm_1938-88-270,object,1850s,date
+chndm_1938-88-2797,object,1700s,date
+chndm_1938-88-2797,object,1800s,date
+chndm_1938-88-284,object,1800s,date
+chndm_1938-88-284,object,1820s,date
+chndm_1938-88-2948,object,1750s,date
+chndm_1938-88-2948,object,1770s,date
+chndm_1938-88-2966,object,1750s,date
+chndm_1938-88-2966,object,1770s,date
+chndm_1938-88-2996,object,1730s,date
+chndm_1938-88-2996,object,1740s,date
+chndm_1938-88-3090,object,1810s,date
+chndm_1938-88-3129,object,1720s,date
+chndm_1938-88-3129,object,1750s,date
+chndm_1938-88-321,object,1800s,date
+chndm_1938-88-321,object,1820s,date
+chndm_1938-88-3313,object,1770s,date
+chndm_1938-88-3313,object,1780s,date
+chndm_1938-88-3498,object,1720s,date
+chndm_1938-88-3498,object,1740s,date
+chndm_1938-88-3540,object,1770s,date
+chndm_1938-88-3540,object,1780s,date
+chndm_1938-88-3647,object,1630s,date
+chndm_1938-88-3764,object,1790s,date
+chndm_1938-88-416,object,1800s,date
+chndm_1938-88-416,object,1820s,date
+chndm_1938-88-4310,object,1720s,date
+chndm_1938-88-4310,object,1770s,date
+chndm_1938-88-4458,object,1700s,date
+chndm_1938-88-4458,object,1770s,date
+chndm_1938-88-4616,object,1780s,date
+chndm_1938-88-4616,object,1800s,date
+chndm_1938-88-4620,object,1780s,date
+chndm_1938-88-4620,object,1800s,date
+chndm_1938-88-467,object,1810s,date
+chndm_1938-88-467,object,1820s,date
+chndm_1938-88-473,object,1810s,date
+chndm_1938-88-473,object,1830s,date
+chndm_1938-88-5386,object,1800s,date
+chndm_1938-88-5386,object,1820s,date
+chndm_1938-88-570,object,1810s,date
+chndm_1938-88-570,object,1840s,date
+chndm_1938-88-599,object,1770s,date
+chndm_1938-88-599,object,1790s,date
+chndm_1938-88-687,object,1820s,date
+chndm_1938-88-687,object,1850s,date
+chndm_1938-88-699,object,1800s,date
+chndm_1938-88-699,object,1810s,date
+chndm_1938-88-7057,object,1740s,date
+chndm_1938-88-7057,object,1760s,date
+chndm_1938-88-7160,object,1770s,date
+chndm_1938-88-7160,object,1790s,date
+chndm_1938-88-7161,object,1770s,date
+chndm_1938-88-7161,object,1790s,date
+chndm_1938-88-7279,object,1710s,date
+chndm_1938-88-7279,object,1720s,date
+chndm_1938-88-733,object,1810s,date
+chndm_1938-88-733,object,1830s,date
+chndm_1938-88-736,object,1820s,date
+chndm_1938-88-736,object,1870s,date
+chndm_1938-88-746,object,1810s,date
+chndm_1938-88-746,object,1830s,date
+chndm_1938-88-793,object,1770s,date
+chndm_1938-88-793,object,1790s,date
+chndm_1938-88-8164,object,1790s,date
+chndm_1938-88-8164,object,1800s,date
+chndm_1938-88-8417,object,1570s,date
+chndm_1938-88-860,object,1770s,date
+chndm_1938-88-860,object,1800s,date
+chndm_1938-88-88,object,1830s,date
+chndm_1938-88-88,object,1840s,date
+chndm_1938-88-893,object,1760s,date
+chndm_1938-88-893,object,1780s,date
+chndm_1938-9-2,object,1770s,date
+chndm_1938-9-2,object,1820s,date
+chndm_1939-12-4,object,1800s,date
+chndm_1939-12-4,object,1900s,date
+chndm_1939-27-21,object,1840s,date
+chndm_1939-27-21,object,1860s,date
+chndm_1939-55-1,object,1870s,date
+chndm_1939-55-1,object,1910s,date
+chndm_1939-57-13,object,1750s,date
+chndm_1939-57-13,object,1800s,date
+chndm_1939-64-14-a_d,object,1600s,date
+chndm_1939-64-14-a_d,object,1700s,date
+chndm_1939-66-12-b_c,object,1700s,date
+chndm_1939-66-12-b_c,object,1890s,date
+chndm_1939-66-37,object,1800s,date
+chndm_1939-66-37,object,1900s,date
+chndm_1939-69-2,object,1870s,date
+chndm_1939-69-2,object,1900s,date
+chndm_1939-7-3,object,1700s,date
+chndm_1939-7-3,object,1800s,date
+chndm_1939-84-42-c,object,1910s,date
+chndm_1939-85-22,object,1880s,date
+chndm_1940-105-1,object,1870s,date
+chndm_1940-105-1,object,1900s,date
+chndm_1940-110-3,object,1720s,date
+chndm_1940-110-3,object,1730s,date
+chndm_1940-117-7,object,1860s,date
+chndm_1940-120-37,object,1820s,date
+chndm_1940-120-37,object,1830s,date
+chndm_1940-21-37,object,1700s,date
+chndm_1940-21-37,object,1720s,date
+chndm_1940-66-2-a_d,object,1820s,date
+chndm_1940-66-2-a_d,object,1870s,date
+chndm_1940-76-15,object,1910s,date
+chndm_1940-76-20,object,1910s,date
+chndm_1940-90-18,object,1890s,date
+chndm_1940-90-18,object,1900s,date
+chndm_1940-93-27,object,1600s,date
+chndm_1940-93-27,object,1700s,date
+chndm_1940-94-6,object,1800s,date
+chndm_1940-94-6,object,1900s,date
+chndm_1940-96-1-a_k,object,1870s,date
+chndm_1940-96-1-a_k,object,1880s,date
+chndm_1941-11-2,object,1870s,date
+chndm_1941-11-5,object,1870s,date
+chndm_1941-11-5,object,1880s,date
+chndm_1941-17-3,object,1880s,date
+chndm_1941-17-3,object,1890s,date
+chndm_1941-19-1,object,1820s,date
+chndm_1941-19-1,object,1830s,date
+chndm_1941-31-215,object,1850s,date
+chndm_1941-31-250,object,1850s,date
+chndm_1941-45-1-a_b,object,1770s,date
+chndm_1941-45-1-a_b,object,1800s,date
+chndm_1941-46-6,object,1800s,date
+chndm_1941-46-6,object,1900s,date
+chndm_1941-49-1,object,1890s,date
+chndm_1941-51-1,object,1700s,date
+chndm_1941-51-1,object,1800s,date
+chndm_1941-69-172,object,1800s,date
+chndm_1941-69-172,object,1900s,date
+chndm_1941-69-217,object,1630s,date
+chndm_1941-69-217,object,1640s,date
+chndm_1941-69-233,object,1810s,date
+chndm_1941-69-243,object,1780s,date
+chndm_1941-69-35,object,1680s,date
+chndm_1941-69-60,object,1700s,date
+chndm_1941-69-86,object,1800s,date
+chndm_1941-76-1-pp,object,1720s,date
+chndm_1941-76-1-pp,object,1730s,date
+chndm_1941-99-14,object,1880s,date
+chndm_1942-50-1,object,1840s,date
+chndm_1942-50-117,object,1840s,date
+chndm_1942-50-13,object,1840s,date
+chndm_1942-50-131,object,1880s,date
+chndm_1942-50-138,object,1860s,date
+chndm_1942-50-174,object,1840s,date
+chndm_1942-50-207,object,1850s,date
+chndm_1942-50-207,object,1860s,date
+chndm_1942-50-227,object,1870s,date
+chndm_1942-50-267,object,1850s,date
+chndm_1942-50-271,object,1850s,date
+chndm_1942-50-322,object,1840s,date
+chndm_1942-50-4,object,1850s,date
+chndm_1942-50-412,object,1870s,date
+chndm_1942-50-426-a,object,1870s,date
+chndm_1942-50-513,object,1880s,date
+chndm_1942-50-79,object,1840s,date
+chndm_1942-50-79,object,1850s,date
+chndm_1942-7-17,object,1800s,date
+chndm_1942-7-17,object,1900s,date
+chndm_1942-8-5-a,object,1850s,date
+chndm_1942-8-5-a,object,1890s,date
+chndm_1943-33-1-15,object,1880s,date
+chndm_1943-33-1-15,object,1900s,date
+chndm_1943-33-1-34,object,1880s,date
+chndm_1943-33-1-34,object,1900s,date
+chndm_1943-46-26,object,1700s,date
+chndm_1943-46-26,object,1800s,date
+chndm_1943-46-30,object,1700s,date
+chndm_1943-46-30,object,1800s,date
+chndm_1943-46-4,object,1700s,date
+chndm_1943-46-4,object,1720s,date
+chndm_1943-51-103,object,1880s,date
+chndm_1943-51-133,object,1880s,date
+chndm_1943-51-324,object,1880s,date
+chndm_1943-51-402,object,1880s,date
+chndm_1943-51-402,object,1900s,date
+chndm_1943-69-10,object,1600s,date
+chndm_1943-69-10,object,1700s,date
+chndm_1944-21-1,object,1200s,date
+chndm_1944-21-1,object,1300s,date
+chndm_1944-24-36-1,object,1630s,date
+chndm_1944-24-36-1,object,1640s,date
+chndm_1944-36-2-3,object,1640s,date
+chndm_1944-36-2-3,object,1660s,date
+chndm_1944-61-4,object,1890s,date
+chndm_1944-61-4,object,1900s,date
+chndm_1944-93-2,object,1800s,date
+chndm_1944-93-2,object,1900s,date
+chndm_1945-20-4-a_f,object,1820s,date
+chndm_1945-3-7,object,1920s,date
+chndm_1945-6-4-2,object,1550s,date
+chndm_1945-6-4-2,object,1560s,date
+chndm_1945-7-1-a,object,1800s,date
+chndm_1945-7-1-a,object,1820s,date
+chndm_1946-4-1,object,1800s,date
+chndm_1946-4-1,object,1900s,date
+chndm_1946-42-9-a,object,1600s,date
+chndm_1946-42-9-a,object,1690s,date
+chndm_1946-68-5,object,1860s,date
+chndm_1947-113-1,object,1850s,date
+chndm_1947-113-1,object,1870s,date
+chndm_1947-121-1,object,1850s,date
+chndm_1947-121-1,object,1870s,date
+chndm_1947-131-114,object,1680s,date
+chndm_1947-15-1,object,1500s,date
+chndm_1947-15-1,object,1620s,date
+chndm_1947-4-30,object,1870s,date
+chndm_1947-49-12,object,1100s,date
+chndm_1947-63-1-b,object,1700s,date
+chndm_1947-63-1-b,object,1750s,date
+chndm_1948-118-19,object,1850s,date
+chndm_1948-118-19,object,1860s,date
+chndm_1948-118-41,object,1600s,date
+chndm_1948-118-41,object,1620s,date
+chndm_1948-118-6,object,1770s,date
+chndm_1948-118-6,object,1790s,date
+chndm_1948-125-4-30,object,1900s,date
+chndm_1948-128-18,object,1770s,date
+chndm_1948-128-18,object,1820s,date
+chndm_1948-128-71,object,1770s,date
+chndm_1948-128-71,object,1870s,date
+chndm_1948-134-3,object,1820s,date
+chndm_1948-134-3,object,1830s,date
+chndm_1948-134-53,object,1820s,date
+chndm_1948-134-53,object,1830s,date
+chndm_1948-39-3,object,1580s,date
+chndm_1948-39-3,object,1590s,date
+chndm_1948-40-12,object,1810s,date
+chndm_1948-40-154,object,1800s,date
+chndm_1948-40-154,object,1900s,date
+chndm_1948-40-4,object,1810s,date
+chndm_1948-40-4,object,1820s,date
+chndm_1948-47-189,object,1880s,date
+chndm_1948-47-189,object,1890s,date
+chndm_1948-47-211,object,1870s,date
+chndm_1948-47-211,object,1880s,date
+chndm_1948-47-240,object,1880s,date
+chndm_1948-47-244,object,1880s,date
+chndm_1948-47-297,object,1880s,date
+chndm_1948-47-319,object,1890s,date
+chndm_1948-47-338,object,1870s,date
+chndm_1948-47-338,object,1880s,date
+chndm_1948-47-339,object,1870s,date
+chndm_1948-47-339,object,1880s,date
+chndm_1948-47-346,object,1870s,date
+chndm_1948-47-346,object,1880s,date
+chndm_1948-65-15,object,1870s,date
+chndm_1948-65-15,object,1900s,date
+chndm_1948-89-9,object,1860s,date
+chndm_1949-101-1,object,1750s,date
+chndm_1949-101-1,object,1760s,date
+chndm_1949-119-1,object,1700s,date
+chndm_1949-119-1,object,1800s,date
+chndm_1949-151-14,object,1800s,date
+chndm_1949-151-14,object,1900s,date
+chndm_1950-102-8,object,1880s,date
+chndm_1950-121-21,object,1700s,date
+chndm_1950-121-21,object,1720s,date
+chndm_1950-121-28-c,object,1570s,date
+chndm_1950-121-28-c,object,1620s,date
+chndm_1950-121-34,object,1670s,date
+chndm_1950-121-34,object,1700s,date
+chndm_1950-121-40,object,1700s,date
+chndm_1950-121-40,object,1800s,date
+chndm_1950-121-51,object,1600s,date
+chndm_1950-121-51,object,1700s,date
+chndm_1950-121-55,object,1670s,date
+chndm_1950-121-55,object,1700s,date
+chndm_1950-131-23,object,1520s,date
+chndm_1950-131-64,object,1540s,date
+chndm_1950-30-4,object,1500s,date
+chndm_1950-5-25,object,1510s,date
+chndm_1950-58-11,object,1850s,date
+chndm_1950-58-11,object,1900s,date
+chndm_1950-59-9,object,1810s,date
+chndm_1950-59-9,object,1820s,date
+chndm_1951-103-25,object,1880s,date
+chndm_1951-103-54,object,1870s,date
+chndm_1951-106-2,object,1870s,date
+chndm_1951-106-2,object,1900s,date
+chndm_1951-111-59,object,1850s,date
+chndm_1951-111-59,object,1900s,date
+chndm_1951-134-6,object,1700s,date
+chndm_1951-134-6,object,1800s,date
+chndm_1951-158-6,object,1740s,date
+chndm_1951-158-6,object,1750s,date
+chndm_1951-185-33-i_k,object,1800s,date
+chndm_1951-185-33-i_k,object,1900s,date
+chndm_1951-90-12,object,1870s,date
+chndm_1952-105-27,object,1880s,date
+chndm_1952-105-27,object,1890s,date
+chndm_1952-127-20,object,1770s,date
+chndm_1952-127-20,object,1780s,date
+chndm_1952-161-37,object,1770s,date
+chndm_1952-161-37,object,1810s,date
+chndm_1952-164-21,object,1670s,date
+chndm_1952-164-21,object,1720s,date
+chndm_1952-164-35,object,1800s,date
+chndm_1952-164-35,object,1900s,date
+chndm_1952-166-109,object,1770s,date
+chndm_1952-166-109,object,1780s,date
+chndm_1952-166-43-a_b,object,1670s,date
+chndm_1952-166-43-a_b,object,1720s,date
+chndm_1952-166-46-b,object,1730s,date
+chndm_1952-166-46-b,object,1770s,date
+chndm_1952-166-98,object,1790s,date
+chndm_1952-37-18,object,1570s,date
+chndm_1952-37-18,object,1600s,date
+chndm_1952-80-5-h,object,1780s,date
+chndm_1953-106-82,object,1840s,date
+chndm_1953-106-82,object,1870s,date
+chndm_1953-143-33,object,1700s,date
+chndm_1953-143-33,object,1800s,date
+chndm_1953-176-1,object,1700s,date
+chndm_1953-176-1,object,1800s,date
+chndm_1953-178-42,object,1870s,date
+chndm_1953-178-42,object,1890s,date
+chndm_1953-179-84-10,object,1880s,date
+chndm_1953-179-84-10,object,1890s,date
+chndm_1953-179-85-31,object,1880s,date
+chndm_1953-179-85-31,object,1900s,date
+chndm_1953-179-87-8,object,1880s,date
+chndm_1953-179-87-8,object,1900s,date
+chndm_1953-179-88-34,object,1870s,date
+chndm_1953-179-88-34,object,1900s,date
+chndm_1953-179-88-68,object,1870s,date
+chndm_1953-179-88-68,object,1900s,date
+chndm_1953-179-89-70,object,1890s,date
+chndm_1953-179-89-70,object,1900s,date
+chndm_1953-20-3,object,1720s,date
+chndm_1953-20-3,object,1750s,date
+chndm_1953-202-1,object,1830s,date
+chndm_1953-202-1,object,1850s,date
+chndm_1953-206-6,object,1840s,date
+chndm_1953-206-6,object,1860s,date
+chndm_1953-38-6,object,1770s,date
+chndm_1953-38-6,object,1820s,date
+chndm_1953-48-15,object,1890s,date
+chndm_1953-60-11,object,1800s,date
+chndm_1953-60-11,object,1900s,date
+chndm_1954-166-2-a_b,object,1570s,date
+chndm_1954-166-2-a_b,object,1650s,date
+chndm_1954-18-30,object,1600s,date
+chndm_1954-94-1,object,1400s,date
+chndm_1955-1-5,object,1800s,date
+chndm_1955-1-5,object,1900s,date
+chndm_1955-133-19,object,1800s,date
+chndm_1955-133-19,object,1900s,date
+chndm_1955-163-11,object,1750s,date
+chndm_1955-163-12,object,1750s,date
+chndm_1955-28-2,object,1500s,date
+chndm_1955-28-2,object,1550s,date
+chndm_1955-38-12-a,object,1870s,date
+chndm_1955-38-12-a,object,1890s,date
+chndm_1955-38-19,object,1870s,date
+chndm_1955-38-25,object,1880s,date
+chndm_1955-38-25,object,1890s,date
+chndm_1955-38-53-d,object,1880s,date
+chndm_1955-38-53-d,object,1900s,date
+chndm_1955-78-14-13,object,1870s,date
+chndm_1955-78-14-13,object,1890s,date
+chndm_1955-78-14-30,object,1870s,date
+chndm_1955-78-14-30,object,1890s,date
+chndm_1955-78-14-38,object,1870s,date
+chndm_1955-78-14-38,object,1890s,date
+chndm_1955-89-1,object,1780s,date
+chndm_1955-89-1,object,1790s,date
+chndm_1956-181-113,object,1800s,date
+chndm_1956-181-113,object,1900s,date
+chndm_1956-181-38,object,1860s,date
+chndm_1956-23-6-4,object,1560s,date
+chndm_1956-23-6-4,object,1570s,date
+chndm_1956-64-3,object,1610s,date
+chndm_1956-64-3,object,1860s,date
+chndm_1957-123-9,object,1800s,date
+chndm_1957-123-9,object,1900s,date
+chndm_1957-162-22,object,1600s,date
+chndm_1957-162-22,object,1620s,date
+chndm_1957-180-105,object,1700s,date
+chndm_1957-180-105,object,1720s,date
+chndm_1957-180-21,object,1700s,date
+chndm_1957-180-21,object,1790s,date
+chndm_1957-180-73,object,1800s,date
+chndm_1957-180-73,object,1900s,date
+chndm_1957-190-1,object,1820s,date
+chndm_1957-190-1,object,1870s,date
+chndm_1957-30-6,object,1540s,date
+chndm_1957-46-61,object,1800s,date
+chndm_1957-46-61,object,1810s,date
+chndm_1957-58-31,object,1880s,date
+chndm_1957-58-72,object,1890s,date
+chndm_1957-61-46-h,object,1880s,date
+chndm_1957-61-46-h,object,1890s,date
+chndm_1957-66-1,object,1820s,date
+chndm_1957-67-1,object,1770s,date
+chndm_1957-67-1,object,1780s,date
+chndm_1957-92-21,object,1800s,date
+chndm_1957-92-21,object,1900s,date
+chndm_1958-140-7,object,1770s,date
+chndm_1958-140-7,object,1850s,date
+chndm_1958-143-27,object,1750s,date
+chndm_1958-143-27,object,1770s,date
+chndm_1958-143-3,object,1720s,date
+chndm_1958-143-3,object,1740s,date
+chndm_1958-148-11-a_d,object,1850s,date
+chndm_1958-148-11-a_d,object,1900s,date
+chndm_1958-148-2,object,1840s,date
+chndm_1958-148-2,object,1850s,date
+chndm_1958-30-1,object,1600s,date
+chndm_1958-30-1,object,1800s,date
+chndm_1958-39-1-b_d,object,1720s,date
+chndm_1958-39-1-b_d,object,1770s,date
+chndm_1959-140-11,object,1770s,date
+chndm_1959-140-11,object,1820s,date
+chndm_1959-170-8,object,1600s,date
+chndm_1959-170-8,object,1700s,date
+chndm_1959-172-1,object,1800s,date
+chndm_1959-172-1,object,1900s,date
+chndm_1959-26-4,object,1900s,date
+chndm_1959-49-11,object,1720s,date
+chndm_1959-49-229,object,1890s,date
+chndm_1959-56-1-f,object,1770s,date
+chndm_1959-56-1-f,object,1800s,date
+chndm_1959-66-306-e,object,1870s,date
+chndm_1959-66-306-e,object,1920s,date
+chndm_1959-66-46,object,1700s,date
+chndm_1959-66-46,object,1800s,date
+chndm_1960-126-1-a,object,1890s,date
+chndm_1960-126-1-a,object,1900s,date
+chndm_1960-128-3-8,object,1860s,date
+chndm_1960-128-3-8,object,1870s,date
+chndm_1960-158-1-a_c,object,1750s,date
+chndm_1960-158-1-a_c,object,1790s,date
+chndm_1960-164-9,object,1820s,date
+chndm_1960-164-9,object,1870s,date
+chndm_1960-233-3-a_h,object,1800s,date
+chndm_1960-233-3-a_h,object,1900s,date
+chndm_1960-249-1,object,1890s,date
+chndm_1960-249-1,object,1910s,date
+chndm_1960-78-1-1_102,object,1910s,date
+chndm_1960-83-155,object,1890s,date
+chndm_1960-83-423,object,1910s,date
+chndm_1960-83-427,object,1910s,date
+chndm_1960-86-1,object,1800s,date
+chndm_1960-86-1,object,1820s,date
+chndm_1961-1-37,object,1520s,date
+chndm_1961-115-15,object,1800s,date
+chndm_1961-115-15,object,1900s,date
+chndm_1961-115-37,object,1800s,date
+chndm_1961-115-37,object,1900s,date
+chndm_1961-148-49,object,1910s,date
+chndm_1961-178-1,object,1820s,date
+chndm_1961-178-1,object,1830s,date
+chndm_1962-143-121-61,object,1680s,date
+chndm_1962-156-1-10,object,1880s,date
+chndm_1962-192-8,object,1660s,date
+chndm_1962-198-31,object,1720s,date
+chndm_1962-198-31,object,1740s,date
+chndm_1962-218-12,object,1750s,date
+chndm_1962-233-7,object,1800s,date
+chndm_1962-233-7,object,1900s,date
+chndm_1962-50-120,object,1740s,date
+chndm_1962-50-120,object,1760s,date
+chndm_1962-50-136,object,1520s,date
+chndm_1962-50-136,object,1570s,date
+chndm_1962-50-137,object,1700s,date
+chndm_1962-50-137,object,1750s,date
+chndm_1962-50-262,object,1670s,date
+chndm_1962-50-262,object,1720s,date
+chndm_1962-50-320-c,object,1570s,date
+chndm_1962-50-320-c,object,1600s,date
+chndm_1962-50-64,object,1670s,date
+chndm_1962-50-64,object,1700s,date
+chndm_1962-50-65,object,1700s,date
+chndm_1962-50-65,object,1750s,date
+chndm_1962-50-76,object,1730s,date
+chndm_1962-50-76,object,1760s,date
+chndm_1962-55-14-a_b,object,1800s,date
+chndm_1962-55-14-a_b,object,1820s,date
+chndm_1962-56-13-a_b,object,1670s,date
+chndm_1962-56-13-a_b,object,1700s,date
+chndm_1962-56-142,object,1700s,date
+chndm_1962-56-142,object,1800s,date
+chndm_1962-56-26-d,object,1770s,date
+chndm_1962-56-26-d,object,1790s,date
+chndm_1962-56-89,object,1500s,date
+chndm_1962-56-89,object,1600s,date
+chndm_1962-59-1,object,1770s,date
+chndm_1962-59-1,object,1780s,date
+chndm_1962-59-2,object,1770s,date
+chndm_1962-59-2,object,1780s,date
+chndm_1962-65-2,object,1900s,date
+chndm_1962-8-1-c,object,1400s,date
+chndm_1962-8-1-c,object,1500s,date
+chndm_1962-8-1-d,object,1400s,date
+chndm_1962-8-1-d,object,1500s,date
+chndm_1963-9-245,object,1520s,date
+chndm_1963-9-245,object,1570s,date
+chndm_1966-55-30,object,1890s,date
+chndm_1966-55-30,object,1900s,date
+chndm_1966-7-31,object,1850s,date
+chndm_1967-10-17-b,object,1820s,date
+chndm_1967-10-17-b,object,1870s,date
+chndm_1967-10-3-a,object,1850s,date
+chndm_1967-10-3-a,object,1860s,date
+chndm_1967-10-6-a,object,1850s,date
+chndm_1967-10-6-a,object,1860s,date
+chndm_1967-16-5,object,1700s,date
+chndm_1967-16-5,object,1800s,date
+chndm_1967-16-8,object,1750s,date
+chndm_1967-16-8,object,1800s,date
+chndm_1967-20-43,object,1880s,date
+chndm_1967-20-43,object,1890s,date
+chndm_1967-46-31,object,1500s,date
+chndm_1967-46-31,object,1700s,date
+chndm_1967-46-45,object,1700s,date
+chndm_1967-46-45,object,1730s,date
+chndm_1967-84-6,object,1760s,date
+chndm_1967-84-6,object,1770s,date
+chndm_1968-101-30-13,object,1920s,date
+chndm_1968-107-14,object,1800s,date
+chndm_1968-107-14,object,1900s,date
+chndm_1968-107-22,object,1800s,date
+chndm_1968-107-22,object,1900s,date
+chndm_1968-111-87,object,1850s,date
+chndm_1968-111-87,object,1860s,date
+chndm_1968-116-2-a,object,1820s,date
+chndm_1968-116-2-a,object,1870s,date
+chndm_1968-135-16-a,object,1600s,date
+chndm_1968-135-16-a,object,1800s,date
+chndm_1968-135-4,object,1600s,date
+chndm_1968-135-4,object,1690s,date
+chndm_1968-135-87-a,object,1850s,date
+chndm_1968-135-87-a,object,1900s,date
+chndm_1968-78-3-a,object,1770s,date
+chndm_1968-78-3-a,object,1800s,date
+chndm_1968-87-1,object,1700s,date
+chndm_1968-87-1,object,1790s,date
+chndm_1969-121-40,object,1850s,date
+chndm_1969-121-44,object,1850s,date
+chndm_1969-34-18-a_b,object,1800s,date
+chndm_1969-34-18-a_b,object,1900s,date
+chndm_1969-40-41,object,1860s,date
+chndm_1969-40-41,object,1880s,date
+chndm_1969-62-8,object,1600s,date
+chndm_1969-62-8,object,1690s,date
+chndm_1970-26-21,object,1850s,date
+chndm_1970-26-21,object,1870s,date
+chndm_1970-26-4-ac,object,1870s,date
+chndm_1970-26-4-ac,object,1880s,date
+chndm_1970-26-4-ccc,object,1870s,date
+chndm_1970-26-4-ccc,object,1880s,date
+chndm_1970-26-4-cdd,object,1870s,date
+chndm_1970-26-4-cdd,object,1880s,date
+chndm_1970-28-25,object,1770s,date
+chndm_1970-28-25,object,1820s,date
+chndm_1970-58-9,object,1770s,date
+chndm_1970-58-9,object,1780s,date
+chndm_1971-46-1-a_b,object,1850s,date
+chndm_1971-46-1-a_b,object,1860s,date
+chndm_1971-50-103,object,1500s,date
+chndm_1971-50-103,object,1700s,date
+chndm_1971-50-206,object,1500s,date
+chndm_1971-50-206,object,1700s,date
+chndm_1971-50-288,object,1650s,date
+chndm_1971-50-288,object,1660s,date
+chndm_1971-50-302,object,1500s,date
+chndm_1971-50-302,object,1700s,date
+chndm_1971-50-375,object,1670s,date
+chndm_1971-50-375,object,1720s,date
+chndm_1971-50-402,object,1600s,date
+chndm_1971-50-402,object,1700s,date
+chndm_1971-50-428,object,1650s,date
+chndm_1971-50-428,object,1700s,date
+chndm_1971-50-62-a_c,object,1500s,date
+chndm_1971-50-62-a_c,object,1700s,date
+chndm_1971-50-77,object,1500s,date
+chndm_1971-50-77,object,1600s,date
+chndm_1971-79-2-a_b,object,1810s,date
+chndm_1971-82-10,object,1870s,date
+chndm_1971-82-10,object,1910s,date
+chndm_1972-36-12,object,1700s,date
+chndm_1972-36-12,object,1900s,date
+chndm_1972-39-5,object,1870s,date
+chndm_1972-39-5,object,1900s,date
+chndm_1972-42-137-a_d,object,1830s,date
+chndm_1972-42-137-a_d,object,1850s,date
+chndm_1972-42-194,object,1810s,date
+chndm_1972-42-194,object,1830s,date
+chndm_1972-42-214-a_f,object,1830s,date
+chndm_1972-42-214-a_f,object,1840s,date
+chndm_1972-42-219-a_d,object,1800s,date
+chndm_1972-42-219-a_d,object,1820s,date
+chndm_1972-42-35,object,1810s,date
+chndm_1972-42-35,object,1830s,date
+chndm_1972-42-38-a_c,object,1800s,date
+chndm_1972-42-38-a_c,object,1820s,date
+chndm_1972-49-1,object,1900s,date
+chndm_1972-49-1,object,1910s,date
+chndm_1972-5-3-a,object,1900s,date
+chndm_1972-81-10,object,1600s,date
+chndm_1972-81-10,object,1700s,date
+chndm_1972-81-22,object,1200s,date
+chndm_1973-25-8,object,1800s,date
+chndm_1973-25-8,object,1900s,date
+chndm_1973-29-20,object,1800s,date
+chndm_1973-29-20,object,1900s,date
+chndm_1973-29-22,object,1800s,date
+chndm_1973-29-22,object,1900s,date
+chndm_1973-32-9,object,1900s,date
+chndm_1973-42-23-a_b,object,1890s,date
+chndm_1973-42-23-a_b,object,1910s,date
+chndm_1973-51-110-a_b,object,1770s,date
+chndm_1973-51-110-a_b,object,1800s,date
+chndm_1973-51-138,object,1790s,date
+chndm_1973-51-18-a_d,object,1700s,date
+chndm_1973-51-18-a_d,object,1800s,date
+chndm_1973-51-24-a_c,object,1700s,date
+chndm_1973-51-24-a_c,object,1800s,date
+chndm_1973-51-27,object,1700s,date
+chndm_1973-51-27,object,1800s,date
+chndm_1973-51-30,object,1700s,date
+chndm_1973-51-30,object,1800s,date
+chndm_1973-51-5-a_b,object,1770s,date
+chndm_1973-51-5-a_b,object,1800s,date
+chndm_1973-6-5,object,1840s,date
+chndm_1973-6-5,object,1850s,date
+chndm_1973-76-21-a,object,1400s,date
+chndm_1973-76-21-a,object,1800s,date
+chndm_1974-100-23,object,1780s,date
+chndm_1974-100-23,object,1790s,date
+chndm_1974-101-11,object,1700s,date
+chndm_1974-101-11,object,1900s,date
+chndm_1974-101-13,object,1770s,date
+chndm_1974-101-13,object,1800s,date
+chndm_1974-101-23,object,1400s,date
+chndm_1974-101-23,object,1600s,date
+chndm_1974-112-17-a_h,object,1700s,date
+chndm_1974-112-17-a_h,object,1820s,date
+chndm_1974-27-10,object,1870s,date
+chndm_1974-27-10,object,1900s,date
+chndm_1974-27-5,object,1860s,date
+chndm_1974-27-5,object,1880s,date
+chndm_1974-41-8,object,1850s,date
+chndm_1974-41-8,object,1870s,date
+chndm_1974-42-11,object,1780s,date
+chndm_1974-52-30,object,1620s,date
+chndm_1974-52-30,object,1670s,date
+chndm_1974-52-6,object,1770s,date
+chndm_1974-52-6,object,1800s,date
+chndm_1974-52-62,object,1800s,date
+chndm_1974-52-62,object,1820s,date
+chndm_1974-52-69,object,1670s,date
+chndm_1974-52-69,object,1700s,date
+chndm_1974-72-10,object,1800s,date
+chndm_1974-74-1-a_j,object,1600s,date
+chndm_1974-74-1-a_j,object,1700s,date
+chndm_1975-44-2,object,1800s,date
+chndm_1975-44-2,object,1850s,date
+chndm_1975-60-19-a,object,1800s,date
+chndm_1975-60-19-a,object,1820s,date
+chndm_1975-60-44-c,object,1780s,date
+chndm_1975-81-2,object,1790s,date
+chndm_1975-85-4-3-a_e,object,1800s,date
+chndm_1975-85-4-3-a_e,object,1900s,date
+chndm_1975-86-15,object,1800s,date
+chndm_1975-86-15,object,1820s,date
+chndm_1975-86-4,object,1790s,date
+chndm_1976-1-55,object,1770s,date
+chndm_1976-1-55,object,1800s,date
+chndm_1976-103-16,object,1720s,date
+chndm_1976-103-16,object,1820s,date
+chndm_1976-103-229,object,1770s,date
+chndm_1976-103-229,object,1820s,date
+chndm_1976-116-2,object,1870s,date
+chndm_1976-116-2,object,1900s,date
+chndm_1976-46-7,object,1810s,date
+chndm_1976-46-7,object,1830s,date
+chndm_1976-48-61-2,object,1800s,date
+chndm_1976-86-1-a_b,object,1400s,date
+chndm_1976-86-1-a_b,object,1500s,date
+chndm_1977-110-1-11,object,1750s,date
+chndm_1977-110-1-11,object,1770s,date
+chndm_1977-110-1-36,object,1750s,date
+chndm_1977-110-1-36,object,1770s,date
+chndm_1977-110-1-5,object,1750s,date
+chndm_1977-110-1-5,object,1770s,date
+chndm_1977-110-3-19,object,1750s,date
+chndm_1977-110-3-19,object,1770s,date
+chndm_1977-31-2-a_g,object,1870s,date
+chndm_1977-31-2-a_g,object,1880s,date
+chndm_1977-65-2,object,1830s,date
+chndm_1977-65-2,object,1840s,date
+chndm_1977-80-1,object,1800s,date
+chndm_1977-80-1,object,1900s,date
+chndm_1978-146-6,object,1900s,date
+chndm_1978-146-765,object,1880s,date
+chndm_1978-146-765,object,1900s,date
+chndm_1978-4-1,object,1750s,date
+chndm_1978-4-1,object,1850s,date
+chndm_1979-91-1073,object,1900s,date
+chndm_1979-91-1073,object,1910s,date
+chndm_1979-91-1081,object,1900s,date
+chndm_1979-91-1081,object,1910s,date
+chndm_1979-91-1127,object,1900s,date
+chndm_1979-91-1127,object,1910s,date
+chndm_1979-91-1160,object,1900s,date
+chndm_1979-91-1160,object,1910s,date
+chndm_1979-91-1203,object,1900s,date
+chndm_1979-91-1203,object,1910s,date
+chndm_1979-91-1276,object,1900s,date
+chndm_1979-91-1276,object,1910s,date
+chndm_1979-91-1287,object,1900s,date
+chndm_1979-91-1287,object,1910s,date
+chndm_1979-91-1317,object,1900s,date
+chndm_1979-91-1317,object,1910s,date
+chndm_1979-91-214,object,1900s,date
+chndm_1979-91-214,object,1910s,date
+chndm_1979-91-220,object,1900s,date
+chndm_1979-91-220,object,1910s,date
+chndm_1979-91-250,object,1900s,date
+chndm_1979-91-250,object,1910s,date
+chndm_1979-91-274,object,1900s,date
+chndm_1979-91-274,object,1910s,date
+chndm_1979-91-283,object,1900s,date
+chndm_1979-91-283,object,1910s,date
+chndm_1979-91-312,object,1900s,date
+chndm_1979-91-312,object,1910s,date
+chndm_1979-91-319,object,1900s,date
+chndm_1979-91-319,object,1910s,date
+chndm_1979-91-391,object,1900s,date
+chndm_1979-91-391,object,1910s,date
+chndm_1979-91-438,object,1900s,date
+chndm_1979-91-438,object,1910s,date
+chndm_1979-91-499,object,1900s,date
+chndm_1979-91-499,object,1910s,date
+chndm_1979-91-521,object,1900s,date
+chndm_1979-91-521,object,1910s,date
+chndm_1979-91-570,object,1900s,date
+chndm_1979-91-570,object,1910s,date
+chndm_1979-91-580,object,1900s,date
+chndm_1979-91-580,object,1910s,date
+chndm_1979-91-607-a_b,object,1900s,date
+chndm_1979-91-607-a_b,object,1910s,date
+chndm_1979-91-631,object,1900s,date
+chndm_1979-91-631,object,1910s,date
+chndm_1979-91-647,object,1900s,date
+chndm_1979-91-647,object,1910s,date
+chndm_1979-91-703,object,1900s,date
+chndm_1979-91-703,object,1910s,date
+chndm_1979-91-858,object,1900s,date
+chndm_1979-91-858,object,1910s,date
+chndm_1979-91-883,object,1900s,date
+chndm_1979-91-883,object,1910s,date
+chndm_1979-91-886,object,1900s,date
+chndm_1979-91-886,object,1910s,date
+chndm_1979-91-915,object,1900s,date
+chndm_1979-91-915,object,1910s,date
+chndm_1979-91-919,object,1900s,date
+chndm_1979-91-919,object,1910s,date
+chndm_1979-91-920,object,1900s,date
+chndm_1979-91-920,object,1910s,date
+chndm_1979-91-951,object,1900s,date
+chndm_1979-91-951,object,1910s,date
+chndm_1979-91-959,object,1900s,date
+chndm_1979-91-959,object,1910s,date
+chndm_1980-33-11,object,1770s,date
+chndm_1980-33-11,object,1790s,date
+chndm_1980-73-10,object,1870s,date
+chndm_1980-73-10,object,1900s,date
+chndm_1980-73-18,object,1830s,date
+chndm_1980-73-18,object,1840s,date
+chndm_1981-11-15,object,1870s,date
+chndm_1981-17-1-a_b,object,1870s,date
+chndm_1981-17-1-a_b,object,1880s,date
+chndm_1981-28-118,object,1600s,date
+chndm_1981-28-118,object,1700s,date
+chndm_1981-28-306,object,1850s,date
+chndm_1981-28-31,object,1720s,date
+chndm_1981-28-324,object,1850s,date
+chndm_1981-28-324,object,1900s,date
+chndm_1981-28-325,object,1800s,date
+chndm_1981-28-325,object,1900s,date
+chndm_1981-28-387,object,1800s,date
+chndm_1981-28-387,object,1820s,date
+chndm_1981-28-389,object,1800s,date
+chndm_1981-28-389,object,1900s,date
+chndm_1981-28-394,object,1800s,date
+chndm_1981-28-394,object,1900s,date
+chndm_1981-28-419,object,1800s,date
+chndm_1981-28-419,object,1900s,date
+chndm_1981-28-423,object,1820s,date
+chndm_1981-28-424,object,1820s,date
+chndm_1981-28-444,object,1810s,date
+chndm_1981-28-59,object,1660s,date
+chndm_1981-28-80,object,1730s,date
+chndm_1981-28-82,object,1760s,date
+chndm_1981-56-41,object,1870s,date
+chndm_1981-56-41,object,1900s,date
+chndm_1981-56-5,object,1870s,date
+chndm_1981-56-5,object,1900s,date
+chndm_1981-56-79,object,1870s,date
+chndm_1981-56-79,object,1900s,date
+chndm_1981-56-9,object,1870s,date
+chndm_1981-56-9,object,1900s,date
+chndm_1982-23-1139,object,1880s,date
+chndm_1982-23-516,object,1860s,date
+chndm_1982-23-516,object,1880s,date
+chndm_1982-23-72,object,1870s,date
+chndm_1982-23-72,object,1900s,date
+chndm_1982-33-1,object,1850s,date
+chndm_1983-29-14-a,object,1870s,date
+chndm_1983-29-14-a,object,1890s,date
+chndm_1983-29-9,object,1870s,date
+chndm_1983-29-9,object,1900s,date
+chndm_1983-3-1,object,1590s,date
+chndm_1984-125-72,object,1880s,date
+chndm_1984-125-72,object,1910s,date
+chndm_1984-133-10-a_b,object,1860s,date
+chndm_1984-133-10-a_b,object,1880s,date
+chndm_1984-84-13,object,1870s,date
+chndm_1984-84-13,object,1880s,date
+chndm_1984-84-26,object,1900s,date
+chndm_1984-86-18,object,1870s,date
+chndm_1984-86-18,object,1880s,date
+chndm_1984-86-3-42,object,1870s,date
+chndm_1984-86-3-7,object,1870s,date
+chndm_1984-86-4-39,object,1870s,date
+chndm_1984-86-4-56,object,1870s,date
+chndm_1984-86-5-32,object,1870s,date
+chndm_1984-86-5-45,object,1870s,date
+chndm_1984-86-5-53,object,1870s,date
+chndm_1984-86-6-21,object,1870s,date
+chndm_1984-86-7-3,object,1880s,date
+chndm_1985-103-137-c,object,1690s,date
+chndm_1985-103-137-c,object,1710s,date
+chndm_1985-103-139-a,object,1720s,date
+chndm_1985-103-139-a,object,1740s,date
+chndm_1985-103-172,object,1690s,date
+chndm_1985-103-172,object,1810s,date
+chndm_1985-103-201,object,1690s,date
+chndm_1985-103-201,object,1810s,date
+chndm_1985-103-204,object,1770s,date
+chndm_1985-103-204,object,1800s,date
+chndm_1985-103-217,object,1690s,date
+chndm_1985-103-217,object,1700s,date
+chndm_1985-103-28,object,1590s,date
+chndm_1985-103-28,object,1610s,date
+chndm_1985-103-36,object,1620s,date
+chndm_1985-103-36,object,1640s,date
+chndm_1985-103-43-a_b,object,1800s,date
+chndm_1985-103-43-a_b,object,1860s,date
+chndm_1985-103-91,object,1770s,date
+chndm_1985-103-91,object,1800s,date
+chndm_1985-103-94,object,1690s,date
+chndm_1985-103-94,object,1710s,date
+chndm_1985-14-17,object,1880s,date
+chndm_1985-14-17,object,1910s,date
+chndm_1985-14-54,object,1880s,date
+chndm_1985-14-54,object,1910s,date
+chndm_1985-19-106,object,1900s,date
+chndm_1985-19-107,object,1900s,date
+chndm_1985-19-139,object,1900s,date
+chndm_1985-19-47,object,1900s,date
+chndm_1985-19-8,object,1900s,date
+chndm_1985-21-2,object,1840s,date
+chndm_1985-21-2,object,1860s,date
+chndm_1985-68-7-a,object,1910s,date
+chndm_1985-68-7-a,object,1920s,date
+chndm_1985-68-7-d,object,1910s,date
+chndm_1985-68-7-d,object,1920s,date
+chndm_1986-113-8,object,1880s,date
+chndm_1986-24-1,object,1850s,date
+chndm_1986-24-1,object,1890s,date
+chndm_1986-61-160,object,1810s,date
+chndm_1986-61-160,object,1840s,date
+chndm_1986-61-178-a_b,object,1790s,date
+chndm_1986-61-178-a_b,object,1810s,date
+chndm_1986-61-188,object,1780s,date
+chndm_1986-61-188,object,1800s,date
+chndm_1986-61-20-a_b,object,1800s,date
+chndm_1986-61-20-a_b,object,1820s,date
+chndm_1986-61-224-a_b,object,1810s,date
+chndm_1986-61-224-a_b,object,1840s,date
+chndm_1986-61-242,object,1790s,date
+chndm_1986-61-242,object,1830s,date
+chndm_1987-96-3,object,1800s,date
+chndm_1987-96-3,object,1900s,date
+chndm_1989-80-31-a_b,object,1900s,date
+chndm_1989-80-31-a_b,object,1910s,date
+chndm_1989-80-34-a_g,object,1900s,date
+chndm_1989-80-34-a_g,object,1910s,date
+chndm_1990-48-2,object,1900s,date
+chndm_1991-156-1,object,1910s,date
+chndm_1991-17-5,object,1830s,date
+chndm_1992-156-18,object,1850s,date
+chndm_1992-168-3,object,1600s,date
+chndm_1992-168-3,object,1700s,date
+chndm_1992-5-60-a_b,object,1800s,date
+chndm_1992-5-60-a_b,object,1850s,date
+chndm_1992-5-7-a_b,object,1750s,date
+chndm_1992-5-7-a_b,object,1760s,date
+chndm_1992-92-1-7,object,1920s,date
+chndm_1993-1-1,object,1650s,date
+chndm_1993-1-1,object,1700s,date
+chndm_1993-134-25-a_c,object,1880s,date
+chndm_1993-134-25-a_c,object,1890s,date
+chndm_1994-129-3,object,1750s,date
+chndm_1994-129-3,object,1760s,date
+chndm_1994-3-3,object,1850s,date
+chndm_1995-165-13,object,1870s,date
+chndm_1995-165-13,object,1900s,date
+chndm_1995-50-122,object,1800s,date
+chndm_1995-50-122,object,1820s,date
+chndm_1995-50-150,object,1800s,date
+chndm_1995-50-150,object,1820s,date
+chndm_1995-50-189,object,1800s,date
+chndm_1995-50-189,object,1820s,date
+chndm_1995-50-198,object,1810s,date
+chndm_1995-50-198,object,1830s,date
+chndm_1995-50-199,object,1820s,date
+chndm_1995-50-217,object,1790s,date
+chndm_1995-50-217,object,1800s,date
+chndm_1995-50-332,object,1700s,date
+chndm_1995-50-332,object,1750s,date
+chndm_1995-50-338,object,1770s,date
+chndm_1995-50-338,object,1820s,date
+chndm_1995-50-347-a_d,object,1780s,date
+chndm_1995-50-347-a_d,object,1800s,date
+chndm_1995-50-8,object,1770s,date
+chndm_1995-50-8,object,1790s,date
+chndm_1995-50-81,object,1770s,date
+chndm_1995-50-81,object,1780s,date
+chndm_1995-70-1-a_b,object,1680s,date
+chndm_1995-70-1-a_b,object,1700s,date
+chndm_1997-133-1,object,1860s,date
+chndm_1997-133-1,object,1870s,date
+chndm_1997-136-1-1_145,object,1890s,date
+chndm_1997-136-1-1_145,object,1900s,date
+chndm_1998-59-2,object,1870s,date
+chndm_1998-62-7,object,1850s,date
+chndm_1998-62-7,object,1860s,date
+chndm_1998-75-103-a_b,object,1780s,date
+chndm_1998-75-103-a_b,object,1790s,date
+chndm_1998-75-90,object,1790s,date
+chndm_1998-75-90,object,1810s,date
+chndm_1999-17-1-2,object,1710s,date
+chndm_1999-17-1-2,object,1730s,date
+chndm_1999-29-1,object,1870s,date
+chndm_1999-29-1,object,1900s,date
+chndm_1999-42-10,object,1870s,date
+chndm_1999-42-10,object,1880s,date
+chndm_1999-42-6,object,1880s,date
+chndm_1999-42-6,object,1890s,date
+chndm_2000-69-168,object,1900s,date
+chndm_2000-69-205,object,1900s,date
+chndm_2000-69-220,object,1900s,date
+chndm_2000-69-227,object,1900s,date
+chndm_2000-69-248,object,1900s,date
+chndm_2000-69-286,object,1900s,date
+chndm_2000-69-4,object,1900s,date
+chndm_2000-69-54,object,1900s,date
+chndm_2000-69-74,object,1900s,date
+chndm_2000-69-79,object,1900s,date
+chndm_2006-20-17,object,1700s,date
+chndm_2006-20-17,object,1850s,date
+chndm_2006-32-1,object,1840s,date
+chndm_2007-27-26,object,1830s,date
+chndm_2007-53-1,object,1880s,date
+chndm_2009-18-23,object,1860s,date
+chndm_2009-18-24-a_b,object,1860s,date
+chndm_2013-21-40,object,1910s,date
+chndm_2017-41-3,object,1870s,date
+chndm_2017-41-3,object,1890s,date
+chndm_2018-33-4,object,1870s,date
+chndm_2018-33-4,object,1880s,date
+chndm_a-a-29,object,1720s,date
+chndm_a-a-29,object,1770s,date
+chndm_a-t-20,object,1850s,date
+chndm_a-t-775,object,1850s,date
+chndm_a-t-775,object,1900s,date
+chndm_a-w-240,object,1880s,date
+chndm_a-w-240,object,1890s,date
+chndm_1901-39-1251,object,architecture,topic
+chndm_1901-39-1258,object,architecture,topic
+chndm_1901-39-1392,object,landscapes,topic
+chndm_1901-39-1593,object,architecture,topic
+chndm_1901-39-1702,object,architecture,topic
+chndm_1901-39-2056,object,theater,topic
+chndm_1901-39-2179,object,architecture,topic
+chndm_1901-39-2489,object,architecture,topic
+chndm_1901-39-2785,object,architecture,topic
+chndm_1901-39-2801,object,architecture,topic
+chndm_1901-39-316,object,landscapes,topic
+chndm_1901-39-3217,object,architecture,topic
+chndm_1901-39-414,object,architecture,topic
+chndm_1901-39-511,object,nature,topic
+chndm_1901-39-623,object,architecture,topic
+chndm_1901-39-632,object,architecture,topic
+chndm_1901-39-689,object,architecture,topic
+chndm_1904-16-125,object,architecture,topic
+chndm_1904-16-157,object,nature,topic
+chndm_1908-26-137,object,architecture,topic
+chndm_1909-22-1-25,object,amusements,topic
+chndm_1911-28-64,object,architecture,topic
+chndm_1911-28-82-1,object,architecture,topic
+chndm_1912-12-260,object,nature,topic
+chndm_1912-12-52,object,landscapes,topic
+chndm_1912-16-33,object,landscapes,topic
+chndm_1912-16-64,object,landscapes,topic
+chndm_1914-38-186,object,nature,topic
+chndm_1917-4-115,object,landscapes,topic
+chndm_1917-4-1313,object,landscapes,topic
+chndm_1917-4-1318,object,landscapes,topic
+chndm_1917-4-1332-b,object,landscapes,topic
+chndm_1917-4-1363,object,landscapes,topic
+chndm_1917-4-15-b,object,nature,topic
+chndm_1917-4-157,object,architecture,topic
+chndm_1917-4-158-b,object,architecture,topic
+chndm_1917-4-173,object,landscapes,topic
+chndm_1917-4-178,object,landscapes,topic
+chndm_1917-4-203,object,landscapes,topic
+chndm_1917-4-221,object,landscapes,topic
+chndm_1917-4-245,object,landscapes,topic
+chndm_1917-4-34-b,object,landscapes,topic
+chndm_1917-4-353-b,object,landscapes,topic
+chndm_1917-4-366-a,object,landscapes,topic
+chndm_1917-4-464-a,object,landscapes,topic
+chndm_1917-4-497,object,landscapes,topic
+chndm_1917-4-516,object,landscapes,topic
+chndm_1917-4-534,object,landscapes,topic
+chndm_1917-4-537,object,landscapes,topic
+chndm_1917-4-677,object,landscapes,topic
+chndm_1917-4-825,object,landscapes,topic
+chndm_1923-41-5,object,landscapes,topic
+chndm_1923-41-7,object,landscapes,topic
+chndm_1931-64-169,object,nature,topic
+chndm_1931-70-38,object,architecture,topic
+chndm_1931-70-44,object,architecture,topic
+chndm_1937-22-10,object,amusements,topic
+chndm_1937-38-2-b,object,architecture,topic
+chndm_1938-88-1005,object,architecture,topic
+chndm_1938-88-2476,object,architecture,topic
+chndm_1938-88-270,object,theater,topic
+chndm_1938-88-284,object,theater,topic
+chndm_1938-88-321,object,theater,topic
+chndm_1938-88-3540,object,architecture,topic
+chndm_1938-88-3647,object,architecture,topic
+chndm_1938-88-3764,object,architecture,topic
+chndm_1938-88-416,object,theater,topic
+chndm_1938-88-4616,object,architecture,topic
+chndm_1938-88-4620,object,architecture,topic
+chndm_1938-88-467,object,theater,topic
+chndm_1938-88-473,object,theater,topic
+chndm_1938-88-7057,object,architecture,topic
+chndm_1938-88-7160,object,architecture,topic
+chndm_1938-88-7161,object,architecture,topic
+chndm_1938-88-88,object,theater,topic
+chndm_1940-110-3,object,landscapes,topic
+chndm_1940-21-37,object,architecture,topic
+chndm_1940-76-15,object,architecture,topic
+chndm_1941-31-215,object,landscapes,topic
+chndm_1941-31-250,object,landscapes,topic
+chndm_1941-49-1,object,architecture,topic
+chndm_1942-50-13,object,nature,topic
+chndm_1942-50-207,object,landscapes,topic
+chndm_1942-50-267,object,landscapes,topic
+chndm_1942-50-271,object,landscapes,topic
+chndm_1942-50-412,object,landscapes,topic
+chndm_1942-50-79,object,nature,topic
+chndm_1943-33-1-15,object,graphic arts,topic
+chndm_1943-33-1-34,object,graphic arts,topic
+chndm_1943-51-103,object,architecture,topic
+chndm_1943-51-402,object,architecture,topic
+chndm_1947-131-114,object,landscapes,topic
+chndm_1948-47-189,object,architecture,topic
+chndm_1948-47-211,object,landscapes,topic
+chndm_1948-47-244,object,architecture,topic
+chndm_1948-47-319,object,architecture,topic
+chndm_1950-102-8,object,graphic arts,topic
+chndm_1950-58-11,object,theater,topic
+chndm_1953-48-15,object,architecture,topic
+chndm_1954-18-30,object,graphic arts,topic
+chndm_1955-78-14-13,object,amusements,topic
+chndm_1955-78-14-30,object,amusements,topic
+chndm_1955-78-14-38,object,amusements,topic
+chndm_1957-30-6,object,landscapes,topic
+chndm_1957-58-31,object,architecture,topic
+chndm_1958-30-1,object,weaving,topic
+chndm_1959-49-229,object,architecture,topic
+chndm_1960-249-1,object,architecture,topic
+chndm_1961-148-49,object,architecture,topic
+chndm_1962-143-121-61,object,graphic arts,topic
+chndm_1966-7-31,object,theater,topic
+chndm_1969-121-40,object,nature,topic
+chndm_1969-121-44,object,architecture,topic
+chndm_1991-156-1,object,architecture,topic
+chndm_1991-17-5,object,architecture,topic
+chndm_2007-53-1,object,architecture,topic
+chndm_1950-102-8,object,"fenn, w. j.",creator
+chndm_1920-36-295,object,"pillement, jean-baptiste",creator
+chndm_1931-45-8,object,"réveillon, jean-baptiste",creator
+chndm_1921-6-212-66,object,meissonnier,creator
+chndm_1917-4-1313,object,"church, frederic edwin",creator
+chndm_1977-31-2-a_g,object,dearle,creator
+chndm_1898-6-73,object,durand,creator
+chndm_1956-23-6-4,object,rosso,creator
+chndm_1952-37-18,object,collaert,creator
+chndm_1920-36-179,object, martin,creator
+chndm_1920-36-179,object,de monchy,creator
+chndm_1907-7-10,object, giovanni,creator
+chndm_1904-16-338,object,"blum, robert frederick",creator
+chndm_1950-131-23,object,"beham, hans sebald",creator
+chndm_1921-6-205,object,cochin,creator
+chndm_1984-86-5-53,object,"cox, kenyon",creator
+chndm_1938-88-8417,object, philip,creator
+chndm_2013-21-40,object,sax,creator
+chndm_2000-69-4,object,a.n. davenport co.,creator
+chndm_1921-6-205,object, michel,creator
+chndm_1921-6-326-25,object,de lajoüe,creator
+chndm_1947-131-114,object, adam frans,creator
+chndm_1896-16-19,object,"martin, homer dodge",creator
+chndm_1979-91-1073,object,"maxwell & co., s.a.",creator
+chndm_1921-22-233,object,fabrique de saint ruf,creator
+chndm_1921-6-469-6,object, hans,creator
+chndm_1896-3-358,object, jean marie,creator
+chndm_1955-78-14-13,object, e.,creator
+chndm_1938-88-321,object,"toselli, angelo",creator
+chndm_1938-88-3498,object,gagliardi,creator
+chndm_1938-57-1070-175,object,tenney,creator
+chndm_1920-36-170,object,fabrique de saint ruf,creator
+chndm_1957-61-46-h,object,tiffany & company,creator
+chndm_1917-4-221,object,"church, frederic edwin",creator
+chndm_1942-50-117,object,"huntington, daniel",creator
+chndm_1921-6-205,object,de bonneval,creator
+chndm_1979-91-1287,object,w.h. mairs & co.,creator
+chndm_1921-6-504-11,object, a.,creator
+chndm_1920-36-43,object,fabrique de saint ruf,creator
+chndm_1921-6-212-7-a,object, gabriel,creator
+chndm_1973-32-9,object,robert graves co.,creator
+chndm_1896-3-281,object,barbieri,creator
+chndm_1947-121-1,object,"devrient, t. p.",creator
+chndm_1966-7-31,object,"kunisada, utagawa",creator
+chndm_1955-78-14-38,object,grimaud,creator
+chndm_1938-88-599,object,"righetti, luigi",creator
+chndm_1962-156-1-10,object,"haynes, frank jay",creator
+chndm_1985-68-7-d,object,"deerfield society of blue and white needlework (american, 1896–1926)",creator
+chndm_1921-6-213-7,object,huquier,creator
+chndm_1914-38-228-a,object,"lathrop, francis augustus",creator
+chndm_1896-3-347,object,wilson,creator
+chndm_1953-179-88-34,object,"richards, william trost",creator
+chndm_1984-84-13,object,frederick dallas hamilton road pottery,creator
+chndm_1901-39-1925,object,"giani, felice",creator
+chndm_1896-3-23,object,"dürer, albrecht",creator
+chndm_1921-6-282-17,object, françois de,creator
+chndm_1981-17-1-a_b,object,american wall paper manufacturers' association,creator
+chndm_1924-15-134,object,boucher,creator
+chndm_1938-57-1070-230,object, frederick stuart,creator
+chndm_1952-166-109,object,wedgwood,creator
+chndm_1921-6-282-74,object,de cuvilliés,creator
+chndm_1984-84-13,object,nichols,creator
+chndm_1989-80-31-a_b,object,orinoka mills,creator
+chndm_1995-50-198,object,"buquet, alexandre",creator
+chndm_1921-6-231-13,object,chéreau,creator
+chndm_1931-45-41,object,"réveillon, jean-baptiste",creator
+chndm_1977-110-1-11,object, michelangelo di lodovico,creator
+chndm_1904-16-157,object,"blum, robert frederick",creator
+chndm_1896-3-281,object,bartolozzi,creator
+chndm_1950-5-25,object,dürer,creator
+chndm_1917-4-677,object,"church, frederic edwin",creator
+chndm_1917-4-178,object,"church, frederic edwin",creator
+chndm_1999-17-1-2,object,schübler,creator
+chndm_1912-16-52,object,"shirlaw, walter",creator
+chndm_1921-6-213-7,object, gabriel,creator
+chndm_1967-10-6-a,object,schwartz-huguenin,creator
+chndm_1991-17-5,object,"duban, félix-jacques",creator
+chndm_1938-57-1070-175,object,church,creator
+chndm_1945-6-4-2,object,du cerceau,creator
+chndm_1917-4-1332-b,object,"church, frederic edwin",creator
+chndm_1993-134-25-a_c,object, william arthur smith,creator
+chndm_1938-88-2996,object,"de caro, baldassare",creator
+chndm_1921-6-282-62,object,lespilliez,creator
+chndm_1977-110-1-36,object,ango,creator
+chndm_1954-18-30,object, jan,creator
+chndm_1962-198-31,object,drentwet,creator
+chndm_1981-28-423,object,gonzalez,creator
+chndm_1938-88-473,object,"toselli, angelo",creator
+chndm_1979-91-438,object,janeway & co. inc.,creator
+chndm_1981-56-9,object,j. & j. g. low art tile works,creator
+chndm_1942-50-271,object,"huntington, daniel",creator
+chndm_1948-118-19,object,"bellandi, antonio",creator
+chndm_1992-156-18,object,"desfossé, jules",creator
+chndm_1938-88-284,object, alessandro,creator
+chndm_1952-166-109,object, thomas,creator
+chndm_1917-4-34-b,object,"church, frederic edwin",creator
+chndm_1938-88-3313,object,"manno, francesco",creator
+chndm_1938-88-3498,object, giuseppe,creator
+chndm_1960-249-1,object,"garton, j. g.",creator
+chndm_1940-76-20,object,"hassam, childe",creator
+chndm_2013-21-40,object, sara,creator
+chndm_1951-103-54,object,morris & co.,creator
+chndm_1901-39-632,object,"marchionni, carlo",creator
+chndm_1966-55-30,object,"tiffany, louis comfort",creator
+chndm_1896-3-347,object,woollett,creator
+chndm_1998-75-103-a_b,object,"réveillon, jean-baptiste",creator
+chndm_1938-88-270,object, romolo achille,creator
+chndm_1999-17-1-2,object, johann jakob,creator
+chndm_1945-3-7,object, inc.,creator
+chndm_1962-65-2,object,liberty paper & bag co.,creator
+chndm_1969-121-44,object,"haseltine, william stanley",creator
+chndm_1959-49-11,object, anthony,creator
+chndm_1921-6-281-33,object, balthazar sigmund,creator
+chndm_1896-3-347,object, william,creator
+chndm_1985-19-106,object,gledhill wall paper co.,creator
+chndm_1904-16-125,object,"blum, robert frederick",creator
+chndm_1942-50-174,object,"huntington, daniel",creator
+chndm_1901-39-1073,object,"righetti, luigi",creator
+chndm_1938-88-7279,object,"solimena, francesco",creator
+chndm_1921-6-281-33,object, françois de,creator
+chndm_1941-11-2,object,"stevens, thomas",creator
+chndm_1921-6-123-1,object,"le pautre, jean",creator
+chndm_1904-16-45-c,object,"blum, robert frederick",creator
+chndm_1921-6-213-7,object, alexis,creator
+chndm_1959-26-4,object,"mccutcheon, john tinney",creator
+chndm_1911-28-437,object,"percier, charles",creator
+chndm_1921-41-29,object,allen,creator
+chndm_1942-50-4,object, sophie,creator
+chndm_1911-28-196,object,"de lavallée-poussin, etienne",creator
+chndm_1999-17-1-2,object, johann christoph,creator
+chndm_1917-4-158-b,object,"church, frederic edwin",creator
+chndm_1955-38-53-d,object,"vedder, elihu",creator
+chndm_1979-91-1081,object,m.h. birge & sons co.,creator
+chndm_1920-36-319,object,fabrique de saint ruf,creator
+chndm_1984-86-3-7,object,"cox, kenyon",creator
+chndm_1943-51-103,object,"warren, whitney",creator
+chndm_1921-6-285-38,object,cuvilliés,creator
+chndm_1981-28-424,object,coller,creator
+chndm_1921-6-212-66,object, juste-aurèle,creator
+chndm_1979-91-1127,object,janeway & co. inc.,creator
+chndm_1921-6-469-6,object,collaert,creator
+chndm_a-t-20,object, auguste,creator
+chndm_1977-31-2-a_g,object, john hen,creator
+chndm_1977-110-1-36,object,buonarroti simoni,creator
+chndm_1921-6-313-80,object,pasquier,creator
+chndm_1955-78-14-30,object,belin,creator
+chndm_1921-6-282-17,object,lespilliez,creator
+chndm_1917-4-284-a,object,"church, frederic edwin",creator
+chndm_1914-38-56,object,"lathrop, francis augustus",creator
+chndm_2009-18-24-a_b,object, theophil,creator
+chndm_1920-36-179,object, jean-baptiste,creator
+chndm_1977-110-1-5,object,"ango, jean-robert",creator
+chndm_1972-42-214-a_f,object,dauptain,creator
+chndm_1958-143-3,object,"creti, donato",creator
+chndm_1949-101-1,object,"chippendale, thomas",creator
+chndm_1955-78-14-38,object, e.,creator
+chndm_1938-57-1070-19,object,tenney,creator
+chndm_1951-103-25,object,morris & co.,creator
+chndm_1961-1-37,object,"van leyden, lucas",creator
+chndm_1981-28-59,object,"andrew, elizabeth",creator
+chndm_1898-21-5-e,object,lafosse,creator
+chndm_1981-28-423,object, mate,creator
+chndm_1921-6-94-3,object,"le pautre, jean",creator
+chndm_1974-72-10,object,"handley, s.",creator
+chndm_1901-39-2466,object,"giani, felice",creator
+chndm_1901-39-2673,object,"van der straet, jan",creator
+chndm_1896-3-347,object, richard,creator
+chndm_1977-110-1-11,object, jean-robert,creator
+chndm_1898-6-73,object,elliott,creator
+chndm_1938-88-4458,object,"vanvitelli, luigi",creator
+chndm_1917-4-1318,object,"church, frederic edwin",creator
+chndm_1952-166-109,object, josiah,creator
+chndm_1955-78-14-30,object, b. p.,creator
+chndm_1979-91-647,object,w.h. mairs & co.,creator
+chndm_1921-6-212-7-a,object,meissonnier,creator
+chndm_a-t-20,object,malpertuy,creator
+chndm_1938-88-8417,object,galle,creator
+chndm_1948-118-6,object,bianconi,creator
+chndm_1921-6-97-2,object,"le pautre, jean",creator
+chndm_1921-6-281-33,object,setlezky,creator
+chndm_1941-69-233,object,"del sol, estefana",creator
+chndm_1938-58-1092,object,"hewitt, john",creator
+chndm_1942-50-4,object, daniel,creator
+chndm_1955-78-14-13,object,le tellier,creator
+chndm_1952-80-5-h,object,"huet, jean-baptiste marie",creator
+chndm_1921-6-285-38,object, karl albert,creator
+chndm_1979-91-1203,object,janeway & co. inc.,creator
+chndm_1921-6-212-66,object, gabriel,creator
+chndm_1896-3-190,object,"van rijn, rembrandt harmensz",creator
+chndm_1938-88-270,object,liverani,creator
+chndm_1957-30-6,object,"hirschvogel, augustin",creator
+chndm_1921-6-282-17,object,cuvilliés,creator
+chndm_1942-50-267,object,"huntington, daniel",creator
+chndm_1920-36-43,object,favel,creator
+chndm_1921-6-205,object,imprimerie de ballard,creator
+chndm_1953-48-15,object, ernest clifford,creator
+chndm_1960-83-427,object,"cox, kenyon",creator
+chndm_1953-48-15,object,charles scribner's sons,creator
+chndm_1981-56-79,object,j. & j. g. low art tile works,creator
+chndm_1951-103-54,object,morris,creator
+chndm_1914-38-186,object,"lathrop, francis augustus",creator
+chndm_1938-88-284,object,liverani,creator
+chndm_1921-6-285-95,object,"cuvilliés, françois de",creator
+chndm_1896-3-216,object,mignard,creator
+chndm_1975-81-2,object,"mercer, elizabeth",creator
+chndm_1921-6-231-27,object, jacques,creator
+chndm_1896-3-358,object,kauffmann,creator
+chndm_1981-56-5,object,j. & j. g. low art tile works,creator
+chndm_1921-41-29,object, anne,creator
+chndm_1938-57-1028,object, albert,creator
+chndm_1921-6-326-25,object, gabriel,creator
+chndm_1901-39-2056,object,barberi,creator
+chndm_1931-41-25-a_b,object,frankenthal porcelain manufactory,creator
+chndm_1901-39-2482,object, jan,creator
+chndm_1931-94-186,object,"lubin, jacques",creator
+chndm_1979-91-920,object,wm. campbell wall paper company,creator
+chndm_1938-57-1518,object,"chifflart, françois-nicolas",creator
+chndm_1938-88-284,object, romolo achille,creator
+chndm_1911-28-9,object,"babel, pierre edme",creator
+chndm_1945-3-7,object,crevel,creator
+chndm_1942-50-322,object,"huntington, daniel",creator
+chndm_1940-90-18,object,janeway & carpender,creator
+chndm_1957-46-61,object,"dubois, louis-albert",creator
+chndm_2009-18-24-a_b,object,j. & l. lobmeyr gmbh,creator
+chndm_1921-6-282-74,object,cuvilliés,creator
+chndm_1921-6-231-13,object, pierre edme,creator
+chndm_1967-10-3-a,object,schwartz-huguenin,creator
+chndm_1968-101-30-13,object,"blackstone, harriet",creator
+chndm_1948-47-338,object,"brunner, arnold william",creator
+chndm_1955-78-14-38,object,belin,creator
+chndm_1977-110-1-11,object,ango,creator
+chndm_1953-178-42,object,tiffany & company,creator
+chndm_1911-31-7,object,"schirsand, joseph a.",creator
+chndm_1984-86-18,object,"blum, robert frederick",creator
+chndm_1943-51-324,object,"warren, whitney",creator
+chndm_2000-69-74,object,a.n. davenport co.,creator
+chndm_1938-82-106-a_d,object,"elsberg, herman a.",creator
+chndm_1995-50-199,object,"wyngaert, philippe",creator
+chndm_1972-42-214-a_f,object, m. victor,creator
+chndm_1921-6-282-74,object, nicolas jean-baptiste,creator
+chndm_1979-91-499,object,janeway & co. inc.,creator
+chndm_2013-21-40,object,rookwood potte,creator
+chndm_1921-6-213-7,object,peyrotte,creator
+chndm_2017-41-3,object, frederick s.,creator
+chndm_1907-7-10,object,frey,creator
+chndm_1921-6-285-84,object, de,creator
+chndm_2000-69-220,object,a.n. davenport co.,creator
+chndm_1921-6-11-1,object,"bonnet, louis-marin",creator
+chndm_1917-4-245,object,"church, frederic edwin",creator
+chndm_1984-84-13,object, maria longworth,creator
+chndm_1938-57-1070-37,object, dudley,creator
+chndm_1979-91-580,object,imperial wallcoverings inc.,creator
+chndm_1940-76-15,object,"hassam, childe",creator
+chndm_1955-78-14-30,object, e.,creator
+chndm_1898-6-73,object, frederick w.,creator
+chndm_1952-37-18,object,van der straet,creator
+chndm_1968-111-87,object,desfossé et karth,creator
+chndm_1921-22-348,object,demarteau,creator
+chndm_1938-88-4616,object,"marchionni, filippo",creator
+chndm_1953-48-15,object,peixotto,creator
+chndm_1921-6-212-7-a,object, juste-aurèle,creator
+chndm_1957-58-31,object,"hitchcock, george",creator
+chndm_1901-39-1593,object,"palazzi, giuseppe",creator
+chndm_1920-36-218,object,fabrique de saint ruf,creator
+chndm_1917-4-516,object,"church, frederic edwin",creator
+chndm_2000-69-54,object,a.n. davenport co.,creator
+chndm_1940-110-3,object,scheuchzer,creator
+chndm_1948-118-6,object,ferri,creator
+chndm_2000-69-168,object,a.n. davenport co.,creator
+chndm_1931-73-295,object,"pinelli, bartolomeo",creator
+chndm_1971-79-2-a_b,object,bannister hall printworks,creator
+chndm_1912-12-52,object,"homer, winslow",creator
+chndm_1942-50-412,object,"huntington, daniel",creator
+chndm_1995-50-8,object,petitpierre et cie,creator
+chndm_1904-16-242,object,"blum, robert frederick",creator
+chndm_1938-57-1028,object, alfonse,creator
+chndm_1960-83-155,object,"cox, kenyon",creator
+chndm_1938-57-321,object,sèvres porcelain manufactory,creator
+chndm_1911-28-361,object,"seethaler, joseph anton",creator
+chndm_1920-3-2-a_b,object,fortunato pio castellani & sons,creator
+chndm_1901-39-3217,object,"giani, felice",creator
+chndm_1946-68-5,object,harper's weekly,creator
+chndm_1901-39-994,object,"belli, giovacchino",creator
+chndm_1979-91-521,object,williamson,creator
+chndm_1955-38-12-a,object,"vedder, elihu",creator
+chndm_1917-4-366-a,object,"church, frederic edwin",creator
+chndm_1952-166-98,object,bateman,creator
+chndm_1921-6-469-6,object,galle,creator
+chndm_1999-42-6,object,henry alcock & co.,creator
+chndm_1921-6-231-27,object,chéreau,creator
+chndm_1898-6-73,object,halpin,creator
+chndm_1938-57-1028,object, abraham,creator
+chndm_1945-6-4-2,object, jacques androuet,creator
+chndm_1962-59-1,object,"bony, jean-françois",creator
+chndm_1952-37-18,object,galle,creator
+chndm_1955-38-25,object,"vedder, elihu",creator
+chndm_1984-86-4-56,object,"cox, kenyon",creator
+chndm_1984-84-26,object, jacques,creator
+chndm_1921-6-313-80,object, jacques jean,creator
+chndm_1998-59-2,object,dresser,creator
+chndm_1938-88-570,object,"belli, pietro",creator
+chndm_1907-17-27,object,"dubois, jean joseph",creator
+chndm_1931-94-39,object,le meunnié,creator
+chndm_1955-78-14-13,object,grimaud,creator
+chndm_1938-88-1005,object,"valadier, giuseppe",creator
+chndm_1955-163-12,object,chelsea porcelain manufactory,creator
+chndm_2017-41-3,object,shirley,creator
+chndm_1919-30-11,object,"zocchi, giuseppe",creator
+chndm_1962-198-31,object,schifflen,creator
+chndm_1977-110-3-19,object,"ango, jean-robert",creator
+chndm_1977-31-2-a_g,object,morris & co.,creator
+chndm_1945-3-7,object,nancy mcclelland,creator
+chndm_1912-12-252,object,"homer, winslow",creator
+chndm_1981-28-424,object,montero,creator
+chndm_1999-17-1-2,object,weigels,creator
+chndm_1901-39-1702,object,"buffagnotti, carlo antonio",creator
+chndm_1940-110-3,object,füssli,creator
+chndm_1942-50-79,object,"huntington, daniel",creator
+chndm_1938-88-7057,object,"tesi, mauro antonio",creator
+chndm_1952-37-18,object, philip,creator
+chndm_1931-94-139,object, gerard,creator
+chndm_1991-156-1,object,"wright, frank lloyd",creator
+chndm_1938-88-3498,object,bigari,creator
+chndm_1921-6-282-62,object, françois de,creator
+chndm_1938-88-8417,object,van der straet,creator
+chndm_1997-133-1,object,"hunzinger, george jakob",creator
+chndm_1957-162-22,object,"jamnitzer, christoph",creator
+chndm_1901-39-1361,object,"giani, felice",creator
+chndm_1931-94-177,object,"guttierez, nicolaus",creator
+chndm_1911-28-19-3,object,"cauvet, gilles paul",creator
+chndm_1952-37-18,object, jan,creator
+chndm_1901-39-2489,object,"giani, felice",creator
+chndm_1962-198-31,object,wolff,creator
+chndm_1911-28-266,object,"ranson, pierre",creator
+chndm_1938-57-1070-19,object, dudley,creator
+chndm_1948-40-154,object,"crace, frederick",creator
+chndm_1931-94-139,object,edelinck,creator
+chndm_1981-28-82,object,"muns, elizabeth",creator
+chndm_1931-71-83,object,"ransonnette, charles nicolas",creator
+chndm_1896-16-9,object,"alfarren, miguel",creator
+chndm_1950-5-25,object, hans,creator
+chndm_1937-38-2-b,object,maj.,creator
+chndm_1941-31-250,object,"hiroshige, ando",creator
+chndm_1960-126-1-a,object,"wolf, john c.",creator
+chndm_1904-16-16-b,object,"blum, robert frederick",creator
+chndm_1911-28-376,object,"seethaler, joseph anton",creator
+chndm_1967-10-17-b,object,schwartz-huguenin,creator
+chndm_1942-50-1,object,"cheney, seth wells",creator
+chndm_1962-143-121-61,object,"verien, nicolas",creator
+chndm_1901-39-2482,object,pliny,creator
+chndm_1953-179-85-31,object,"richards, william trost",creator
+chndm_1896-3-281,object, giovanni francesco,creator
+chndm_1901-39-3066,object,"passeri, giuseppe",creator
+chndm_1931-94-79,object,"rowse, samuel worcester",creator
+chndm_1938-88-8417,object, jan,creator
+chndm_1921-6-313-80,object, pierre,creator
+chndm_1984-86-3-42,object,"cox, kenyon",creator
+chndm_1995-50-122,object,favre petitpierre,creator
+chndm_1979-91-959,object,standard wall-paper company,creator
+chndm_1948-47-319,object,"brunner, arnold william",creator
+chndm_1921-6-212-41,object,huquier,creator
+chndm_1938-57-1070-198,object, frederick stuart,creator
+chndm_1936-13-16-a_b,object,vieillard,creator
+chndm_1995-50-81,object,oberkampf & cie.,creator
+chndm_1981-28-31,object,"votier, madeleine",creator
+chndm_1921-6-42-8,object, henri,creator
+chndm_1962-192-8,object,"leclerc, sebastien",creator
+chndm_1938-88-3498,object, vittorio maria,creator
+chndm_1947-4-30,object,harper's weekly,creator
+chndm_1979-91-274,object,"maxwell & co., s.a.",creator
+chndm_1947-131-114,object,genoels,creator
+chndm_1907-17-8,object,"petit, louis michel",creator
+chndm_1947-4-30,object, winslow,creator
+chndm_1948-40-4,object,"crace, frederick",creator
+chndm_1921-6-282-74,object, françois de,creator
+chndm_1921-6-212-41,object, gabriel,creator
+chndm_1938-1-32,object,"daumier, honore",creator
+chndm_1901-39-3345,object,"giani, felice",creator
+chndm_1921-6-326-25,object,huquier,creator
+chndm_1901-39-623,object,"marchionni, filippo",creator
+chndm_1938-88-467,object,"barberi, giuseppe",creator
+chndm_1977-110-1-36,object, michelangelo di lodovico,creator
+chndm_1921-6-282-62,object, carl albert von,creator
+chndm_1952-166-109,object,bentley,creator
+chndm_1931-73-298,object,"pinelli, bartolomeo",creator
+chndm_1921-6-231-27,object,babel,creator
+chndm_1923-6-25,object,"cox, kenyon",creator
+chndm_1914-38-323,object,"lathrop, francis augustus",creator
+chndm_1898-21-5-e,object,desrais,creator
+chndm_1963-9-245,object,"vico, enea",creator
+chndm_1938-57-1070-230,object,tenney,creator
+chndm_1989-80-34-a_g,object,orinoka mills,creator
+chndm_1921-22-348,object, gilles,creator
+chndm_1921-6-285-84,object, karl albert,creator
+chndm_1979-91-951,object,"maxwell & co., s.a.",creator
+chndm_1917-4-534,object,"church, frederic edwin",creator
+chndm_1921-22-348,object,huët,creator
+chndm_1921-6-469-6,object, philip,creator
+chndm_1931-94-39,object, c.,creator
+chndm_1896-3-87,object,"aldegrever, heinrich",creator
+chndm_1921-6-313-80,object,germain,creator
+chndm_2000-69-205,object,a.n. davenport co.,creator
+chndm_1993-134-25-a_c,object,w.a.s. benson ltd.,creator
+chndm_1984-84-26,object,sicard,creator
+chndm_1955-78-14-30,object,grimaud,creator
+chndm_1979-91-1317,object,"maxwell & co., s.a.",creator
+chndm_1941-11-5,object,"stevens, thomas",creator
+chndm_1897-9-8,object,nahl,creator
+chndm_1921-6-97-1,object,"le pautre, jean",creator
+chndm_1941-69-86,object,"adams, betsy",creator
+chndm_1970-28-25,object,"phillips, dinah",creator
+chndm_1979-91-570,object,york card & paper co.,creator
+chndm_1955-163-11,object,chelsea porcelain manufactory,creator
+chndm_1938-57-1070-19,object,church,creator
+chndm_1938-57-1070-37,object,tenney,creator
+chndm_1931-41-25-a_b,object, edmé et cie porcelain manufacto,creator
+chndm_1924-15-134,object, gabriel,creator
+chndm_1938-57-1028,object, daniel,creator
+chndm_1901-39-2056,object, giuseppe,creator
+chndm_1956-23-6-4,object, rené,creator
+chndm_1937-38-2-b,object,engelbrecht,creator
+chndm_1921-6-285-38,object,poilly family,creator
+chndm_1943-51-133,object,"warren, whitney",creator
+chndm_1983-3-1,object,"de bry, theodor",creator
+chndm_1956-23-6-4,object,boyvin,creator
+chndm_1938-57-1070-198,object,tenney,creator
+chndm_1923-41-7,object,"smith, francis hopkinson",creator
+chndm_1941-69-243,object,"adams, abigail",creator
+chndm_1984-86-4-39,object,"cox, kenyon",creator
+chndm_1969-121-40,object,"haseltine, william stanley",creator
+chndm_1938-57-1070-198,object, dudley,creator
+chndm_1931-73-7,object,"della gatta, saverio",creator
+chndm_2000-69-227,object,a.n. davenport co.,creator
+chndm_1921-6-282-74,object,poilly,creator
+chndm_1956-23-6-4,object,houve,creator
+chndm_1921-6-326-25,object, jacques,creator
+chndm_1961-148-49,object,"pennell, joseph",creator
+chndm_1917-4-157,object,"church, frederic edwin",creator
+chndm_1984-86-6-21,object,"cox, kenyon",creator
+chndm_1955-78-14-13,object, b. p.,creator
+chndm_1896-3-358,object,delattre,creator
+chndm_1901-39-1063,object,"giani, felice",creator
+chndm_1948-47-211,object,"brunner, arnold william",creator
+chndm_2006-32-1,object,w. ridgway & company,creator
+chndm_1986-113-8,object,gorham manufacturing company,creator
+chndm_1992-5-60-a_b,object,carl thieme potschappel porcelain manufactory,creator
+chndm_1901-39-2482,object,van der straet,creator
+chndm_1914-21-121,object,fabrique de saint ruf,creator
+chndm_1896-3-358,object, angelic,creator
+chndm_2009-18-23,object, theophil,creator
+chndm_1947-131-114,object, abraham,creator
+chndm_1938-57-418-e,object,wedgwood,creator
+chndm_1901-39-1392,object,"giani, felice",creator
+chndm_1924-15-134,object, françois,creator
+chndm_1976-48-61-2,object,"draper, jeremiah",creator
+chndm_1921-6-212-7-a,object,laureolli,creator
+chndm_1947-131-114,object,van der meulen,creator
+chndm_1952-166-98,object, peter,creator
+chndm_1940-110-3,object,christian ulrich wagner,creator
+chndm_1921-6-282-62,object,poilly,creator
+chndm_1907-7-10,object, jakob,creator
+chndm_1979-91-312,object,"maxwell & co., s.a.",creator
+chndm_1984-86-5-45,object,"cox, kenyon",creator
+chndm_1914-38-208,object,"lathrop, francis augustus",creator
+chndm_1946-68-5,object, winslow,creator
+chndm_1954-94-1,object,"dürer, albrecht",creator
+chndm_1921-6-212-7-a,object,huquier,creator
+chndm_1979-91-915,object,"warren, fuller and co.",creator
+chndm_1924-15-134,object,huquier,creator
+chndm_1942-50-138,object,"huntington, daniel",creator
+chndm_1948-40-12,object,"crace, frederick",creator
+chndm_1938-57-1070-175,object, frederick stuart,creator
+chndm_1901-39-2179,object,"marchionni, carlo",creator
+chndm_1998-62-7,object,dufour et leroy,creator
+chndm_1972-42-214-a_f,object, jules,creator
+chndm_1943-33-1-34,object,"morse, alice cordelia",creator
+chndm_1998-59-2,object, christophe,creator
+chndm_1962-59-2,object,"bony, jean-françois",creator
+chndm_1960-78-1-1_102,object,"sears, roebuck and co.",creator
+chndm_1952-166-98,object, ann,creator
+chndm_1954-18-30,object, simon weynouts,creator
+chndm_1943-51-402,object,"warren, whitney",creator
+chndm_1942-50-426-a,object,"huntington, daniel",creator
+chndm_1981-28-423,object,fernandez,creator
+chndm_1938-88-2948,object,"novelli, pietro antonio",creator
+chndm_1912-16-33,object,"shirlaw, walter",creator
+chndm_1896-3-281,object, francesco,creator
+chndm_1984-133-10-a_b,object,asprey & son co.,creator
+chndm_2000-69-248,object,a.n. davenport co.,creator
+chndm_1948-118-6,object, angelo,creator
+chndm_1980-73-10,object,jeffrey & company,creator
+chndm_1938-57-1028,object,gallatin,creator
+chndm_1931-94-39,object, richard,creator
+chndm_1921-6-205,object, charles-nicolas,creator
+chndm_1999-42-10,object,gildea & walker,creator
+chndm_1995-50-8,object,petitpierre freres,creator
+chndm_1937-38-2-b,object, c. p.,creator
+chndm_1921-22-359,object,"chodowiecki, daniel nikolaus",creator
+chndm_1914-21-14,object,"della bella, stefano",creator
+chndm_1931-94-232,object,"maffei, niccolò francesco",creator
+chndm_1948-47-339,object,"brunner, arnold william",creator
+chndm_1985-68-7-a,object,"deerfield society of blue and white needlework (american, 1896–1926)",creator
+chndm_1911-28-64,object,"delafosse, jean-charles",creator
+chndm_2007-53-1,object,"bordeaux, adolph",creator
+chndm_1907-7-10,object,passari,creator
+chndm_1917-4-173,object,"church, frederic edwin",creator
+chndm_1959-49-11,object,neeffs,creator
+chndm_1998-59-2,object,minton's art pottery studio,creator
+chndm_1901-39-1258,object,"da caravaggio, polidoro",creator
+chndm_1939-84-42-c,object,"germer, george e",creator
+chndm_1917-4-825,object,"church, frederic edwin",creator
+chndm_1948-47-240,object,"brunner, arnold william",creator
+chndm_1931-94-260,object,"chanler, robert winthrop",creator
+chndm_1921-6-285-84,object, françois de,creator
+chndm_1901-30-33,object,"poilly, de, nicolas jean-baptiste",creator
+chndm_2000-69-286,object,a.n. davenport co.,creator
+chndm_1979-91-1276,object,cresswell & washburn ltd,creator
+chndm_1994-3-3,object,"angell, joseph",creator
+chndm_1938-57-736-c,object,meissen porcelain manufactory,creator
+chndm_1921-6-212-66,object,huquier,creator
+chndm_1948-47-189,object,"brunner, arnold william",creator
+chndm_1955-78-14-30,object,le tellier,creator
+chndm_1896-3-24,object,"dürer, albrecht",creator
+chndm_1938-88-2797,object,"rossi, giacomo",creator
+chndm_1896-3-216,object, nicholas,creator
+chndm_1921-6-472-6,object,"birckenhultz, paul",creator
+chndm_1962-218-12,object,chelsea porcelain manufactory,creator
+chndm_1984-86-5-32,object,"cox, kenyon",creator
+chndm_1921-6-282-62,object, nicolas jean-baptiste,creator
+chndm_1917-14-4,object,"homer, winslow",creator
+chndm_1948-47-244,object,"brunner, arnold william",creator
+chndm_1981-28-80,object,"brown, mary",creator
+chndm_1959-49-11,object,van dyck,creator
+chndm_1931-94-139,object,nanteuil,creator
+chndm_1975-86-4,object,"bosworth, olive",creator
+chndm_1931-94-39,object,de lalonde,creator
+chndm_1917-4-15-b,object,"church, frederic edwin",creator
+chndm_1981-28-424,object, maria,creator
+chndm_1897-9-8,object, johann august,creator
+chndm_1942-50-131,object,"huntington, daniel",creator
+chndm_1912-12-41,object,"homer, winslow",creator
+chndm_1898-6-73,object, asher brown,creator
+chndm_1912-12-142,object,"homer, winslow",creator
+chndm_1954-18-30,object,van de velde,creator
+chndm_1921-6-99,object,"le pautre, jean",creator
+chndm_1984-84-26,object,weller potte,creator
+chndm_1948-134-53,object,"hiroshige, ando",creator
+chndm_1896-3-216,object, antoine,creator
+chndm_1977-110-1-36,object, jean-robert,creator
+chndm_1938-88-4620,object,"marchionni, filippo",creator
+chndm_1901-39-2681,object,"van der straet, jan",creator
+chndm_2000-69-79,object,a.n. davenport co.,creator
+chndm_1981-28-424,object, francisc,creator
+chndm_1993-134-25-a_c,object,benson,creator
+chndm_1985-14-54,object,noritake,creator
+chndm_1956-23-6-4,object, paul de la,creator
+chndm_1897-9-8,object,romano,creator
+chndm_1921-41-29,object,pillement,creator
+chndm_1959-49-11,object, jacobus,creator
+chndm_1973-51-138,object,oberkampf & cie.,creator
+chndm_1938-88-3498,object, giovanni,creator
+chndm_1938-88-270,object,sanquirico,creator
+chndm_1948-134-3,object,"hiroshige, ando",creator
+chndm_1950-5-25,object,springinklee,creator
+chndm_1941-99-14,object,"butler, howard russell",creator
+chndm_1942-50-207,object,"huntington, daniel",creator
+chndm_1957-58-72,object,"de thulstrup, thure",creator
+chndm_1931-66-2,object,"esterbrook, william",creator
+chndm_1979-91-886,object,york card & paper co.,creator
+chndm_1951-103-54,object, william,creator
+chndm_1897-9-8,object, giulio,creator
+chndm_1938-57-1070-230,object, dudley,creator
+chndm_1921-6-282-62,object,cuvilliés,creator
+chndm_1992-92-1-7,object,"diederich, william hunt",creator
+chndm_1938-57-1070-19,object, frederick stuart,creator
+chndm_1921-6-282-74,object, françois,creator
+chndm_1921-6-212-41,object, juste-aurèle,creator
+chndm_1921-6-212-41,object,meissonnier,creator
+chndm_1979-91-703,object,standard wall-paper company,creator
+chndm_1955-78-14-38,object,le tellier,creator
+chndm_1917-4-365-a,object,"church, frederic edwin",creator
+chndm_1912-12-260,object,"homer, winslow",creator
+chndm_1972-5-3-a,object,gorham manufacturing company,creator
+chndm_1984-125-72,object,r.c. fisher and co.,creator
+chndm_1942-50-513,object,"huntington, daniel",creator
+chndm_1951-90-12,object,"appian, adolphe",creator
+chndm_1896-3-90,object,"wierix, johan",creator
+chndm_1960-83-423,object,"cox, kenyon",creator
+chndm_1945-6-4-2,object,bertelli,creator
+chndm_1950-131-64,object,"beham, hans sebald",creator
+chndm_1942-50-227,object,"huntington, daniel",creator
+chndm_1921-6-282-17,object, carl albert von,creator
+chndm_1942-50-13,object,"huntington, daniel",creator
+chndm_1938-88-3090,object,"giani, felice",creator
+chndm_1914-38-352,object,"lathrop, francis augustus",creator
+chndm_1945-6-4-2,object, luca,creator
+chndm_1901-39-3343,object,"giani, felice",creator
+chndm_1923-6-44,object,"cox, kenyon",creator
+chndm_1921-6-504-11,object, françois,creator
+chndm_1921-6-450-154,object,"chippendale, thomas",creator
+chndm_1917-4-537,object,"church, frederic edwin",creator
+chndm_1946-68-5,object,homer,creator
+chndm_1921-6-281-33,object,cuvilliés,creator
+chndm_1984-86-7-3,object,"cox, kenyon",creator
+chndm_1938-57-1070-37,object, frederick stuart,creator
+chndm_1940-110-3,object, johann melchior,creator
+chndm_1979-91-1160,object,williamson,creator
+chndm_1959-49-229,object,"pennell, joseph",creator
+chndm_1921-6-42-8,object,sallembier,creator
+chndm_1921-6-285-84,object,cuvilliés,creator
+chndm_1979-91-283,object,"maxwell & co., s.a.",creator
+chndm_1921-6-504-11,object,boucher,creator
+chndm_1917-4-296-b,object,"church, frederic edwin",creator
+chndm_1953-179-88-68,object,"richards, william trost",creator
+chndm_1948-118-6,object, carlo,creator
+chndm_1940-110-3,object, johann jakob,creator
+chndm_1921-6-282-62,object, de,creator
+chndm_1920-36-318,object,montalent,creator
+chndm_2017-41-3,object,mt. washington glassworks,creator
+chndm_1931-64-279,object,"lallemand, jean-baptiste",creator
+chndm_1962-198-31,object, jeremias,creator
+chndm_1948-47-346,object,"brunner, arnold william",creator
+chndm_1921-6-504-11,object,chez le pere et avaulez,creator
+chndm_1956-23-6-4,object,thiry,creator
+chndm_1948-118-41,object,"bononi, carlo",creator
+chndm_1981-56-41,object,j. & j. g. low art tile works,creator
+chndm_1901-39-2801,object,"giani, felice",creator
+chndm_1921-6-282-74,object, de,creator
+chndm_1953-179-84-10,object,"richards, william trost",creator
+chndm_1938-57-1070-37,object,church,creator
+chndm_1917-4-203,object,"church, frederic edwin",creator
+chndm_1938-57-108,object,"guys, constantin",creator
+chndm_1938-57-730-l,object,meissen porcelain manufactory,creator
+chndm_1914-38-339,object,"lathrop, francis augustus",creator
+chndm_1947-4-30,object,homer,creator
+chndm_1984-125-72,object, frederick,creator
+chndm_2009-18-24-a_b,object,hansen,creator
+chndm_1921-6-285-84,object,von lespilliez,creator
+chndm_1921-6-285-38,object, françois de,creator
+chndm_1981-28-423,object, matilda,creator
+chndm_1921-6-40-4,object,"stapff, johann ulrich",creator
+chndm_1914-38-154,object,"lathrop, francis augustus",creator
+chndm_1917-4-115,object,"church, frederic edwin",creator
+chndm_1953-179-87-8,object,"richards, william trost",creator
+chndm_1948-89-9,object,"reynolds, george",creator
+chndm_1980-73-10,object, walte,creator
+chndm_1914-38-60,object,"lathrop, francis augustus",creator
+chndm_1962-198-31,object, abraham,creator
+chndm_1898-21-5-e,object, claude-louis,creator
+chndm_1977-110-1-11,object,buonarroti simoni,creator
+chndm_1938-88-284,object,sanquirico,creator
+chndm_1921-6-285-38,object,von lespilliez,creator
+chndm_1912-16-64,object,"shirlaw, walter",creator
+chndm_1921-6-285-84,object,poilly,creator
+chndm_1948-39-3,object,"muller, jan harmensz",creator
+chndm_1912-16-1,object,"shirlaw, walter",creator
+chndm_1917-4-363,object,"church, frederic edwin",creator
+chndm_1901-39-3311,object,"giani, felice",creator
+chndm_1943-33-1-15,object,"morse, alice cordelia",creator
+chndm_1938-57-1070-175,object, dudley,creator
+chndm_1955-38-19,object,"vedder, elihu",creator
+chndm_1931-64-169,object,"huët, jean-baptiste",creator
+chndm_1954-18-30,object,frisius,creator
+chndm_1982-23-1139,object,george unite,creator
+chndm_1938-57-1070-198,object,church,creator
+chndm_1952-105-27,object,"wilcock, arthur",creator
+chndm_1967-84-6,object,sèvres porcelain manufactory,creator
+chndm_1921-6-285-84,object, nicolas jean-baptiste,creator
+chndm_1920-36-179,object,pillement,creator
+chndm_1997-136-1-1_145,object,cobban brothers,creator
+chndm_1969-40-41,object,fortunato pio castellani & sons,creator
+chndm_1901-39-2824,object,"bison, giuseppe bernardino",creator
+chndm_1914-38-90,object,"lathrop, francis augustus",creator
+chndm_1921-6-504-11,object,bouchet,creator
+chndm_1901-39-2056,object,valadier,creator
+chndm_1938-88-88,object,"albergotti, g.",creator
+chndm_1980-73-10,object,crane,creator
+chndm_1950-5-25,object, albrecht,creator
+chndm_1901-39-83,object,"calamatta, luigi",creator
+chndm_1980-33-11,object,oberkampf & cie.,creator
+chndm_1921-41-29,object, jean-baptiste,creator
+chndm_1955-28-2,object,"dürer, albrecht",creator
+chndm_1938-88-270,object, alessandro,creator
+chndm_a-t-20,object,furnion père & fils ainé,creator
+chndm_1972-42-214-a_f,object,poterlet,creator
+chndm_2007-27-26,object,"delamotte, william alfred",creator
+chndm_1938-88-3540,object,"marchionni, carlo",creator
+chndm_1948-47-297,object,"brunner, arnold william",creator
+chndm_1981-28-444,object,"herzog, ludmilla",creator
+chndm_1938-57-1028,object,huntington,creator
+chndm_1979-91-220,object,imperial wallcoverings inc.,creator
+chndm_1958-39-1-b_d,object,mennecy porcelain factory,creator
+chndm_1917-4-497,object,"church, frederic edwin",creator
+chndm_1898-6-73,object, charles loring,creator
+chndm_1931-41-25-a_b,object,samson,creator
+chndm_1914-38-239,object,"lathrop, francis augustus",creator
+chndm_1985-14-17,object,noritake,creator
+chndm_1908-15-6,object,nampei,creator
+chndm_1941-31-215,object,"hiroshige, ando",creator
+chndm_1941-49-1,object,"warren, whitney",creator
+chndm_1921-22-348,object, jean-baptiste,creator
+chndm_2009-18-23,object,hansen,creator
+chndm_1904-16-302,object,"blum, robert frederick",creator
+chndm_1921-6-231-13,object,babel,creator
+chndm_1921-6-147-3,object,"della bella, stefano",creator
+chndm_1917-4-1363,object,"church, frederic edwin",creator
+chndm_1955-78-14-13,object,belin,creator
+chndm_1940-21-37,object,"pazzi, andrea",creator
+chndm_1914-38-140,object,"lathrop, francis augustus",creator
+chndm_1901-39-1541,object,"giani, felice",creator
+chndm_1901-39-2217,object,"marchionni, carlo",creator
+chndm_1956-23-6-4,object, giovanni battista,creator
+chndm_1984-125-72,object,krieg,creator
+chndm_1921-6-231-27,object, pierre edme,creator
+chndm_1950-30-4,object,"dürer, albrecht",creator
+chndm_1942-50-4,object,huntington,creator
+chndm_1944-36-2-3,object,"du cerceau, jacques androuet",creator
+chndm_1931-86-152-a_b,object,"sautter, jeremias",creator
+chndm_1939-85-22,object,"colman, samuel",creator
+chndm_1912-12-66,object,"homer, winslow",creator
+chndm_1972-42-214-a_f,object,desfossé,creator
+chndm_1917-4-353-b,object,"church, frederic edwin",creator
+chndm_1956-23-6-4,object, léonard,creator
+chndm_1917-4-464-a,object,"church, frederic edwin",creator
+chndm_1948-125-4-30,object,"hyde, james hazen",creator
+chndm_1901-39-316,object,"mattioli, girolamo",creator
+chndm_1923-41-5,object,"smith, francis hopkinson",creator
+chndm_1914-38-194,object,"lathrop, francis augustus",creator
+chndm_1921-6-42-8,object, jacques,creator
+chndm_1923-51-1,object,"lópez y portaña, vicente",creator
+chndm_1938-88-3498,object,bettati,creator
+chndm_1936-13-16-a_b,object,sèvres porcelain manufacto,creator
+chndm_1962-198-31,object, georg heinrich,creator
+chndm_1953-179-89-70,object,"richards, william trost",creator
+chndm_1937-38-2-b,object, martin,creator
+chndm_1921-6-42-8,object,juillet,creator
+chndm_1945-3-7,object, rené,creator
+chndm_1981-28-387,object,"sepeda, teresa",creator
+chndm_1955-78-14-38,object, b. p.,creator
+chndm_1938-57-1070-230,object,church,creator
+chndm_1896-3-216,object,masson,creator
+chndm_1921-6-231-13,object, jacques,creator
+chndm_2009-18-23,object,j. & l. lobmeyr gmbh,creator
+chndm_1941-69-60,object,"tanner, alls",creator
+chndm_1931-94-139,object, robert,creator
+chndm_1938-88-4310,object,"bigari, vittorio maria",creator
+chndm_1931-67-65-a,object,"tiepolo, giovanni battista",creator
+chndm_1898-21-5-e,object, lionnet et médard,creator
+chndm_1938-57-102,object,"de beaumont, edouard",creator
+chndm_1909-2-193,object,france,country
+chndm_2009-18-23,object,austria,country
+chndm_1938-88-687,object,italy,country
+chndm_1954-166-2-a_b,object,italy,country
+chndm_1959-140-11,object,sweden,country
+chndm_1979-91-214,object,usa,country
+chndm_1931-86-53,object,france,country
+chndm_1931-94-79,object,usa,country
+chndm_1901-39-1073,object,italy,country
+chndm_1938-88-3647,object,italy,country
+chndm_1921-6-282-62,object,france,country
+chndm_1926-43-5-432,object,holland,country
+chndm_1960-164-9,object,england,country
+chndm_1903-11-24,object,flanders,country
+chndm_1896-16-19,object,usa,country
+chndm_1979-91-521,object,usa,country
+chndm_1985-103-137-c,object,netherlands,country
+chndm_1935-2-7,object,netherlands,country
+chndm_1984-86-3-7,object,usa,country
+chndm_1931-4-81,object,china,country
+chndm_1940-21-37,object,italy,country
+chndm_1909-13-26,object,france,country
+chndm_1917-4-221,object,ecuador,country
+chndm_1931-80-95,object,england,country
+chndm_1985-19-107,object,usa,country
+chndm_1981-28-419,object,spain,country
+chndm_1904-16-157,object,usa,country
+chndm_1962-56-13-a_b,object,spain,country
+chndm_1941-69-35,object,netherlands,country
+chndm_1948-47-240,object,usa,country
+chndm_1901-39-777,object,italy,country
+chndm_1981-28-82,object,england,country
+chndm_1920-36-218,object,france,country
+chndm_1971-50-77,object,spain,country
+chndm_1938-88-1005,object,ital,country
+chndm_1898-21-5-e,object,france,country
+chndm_1952-166-43-a_b,object,italy,country
+chndm_1984-86-4-39,object,usa,country
+chndm_1972-5-3-a,object,usa,country
+chndm_1958-30-1,object,england,country
+chndm_1926-43-6-a-135,object,holland,country
+chndm_1938-88-7057,object,italy,country
+chndm_1968-116-2-a,object,england,country
+chndm_1901-39-1925,object,italy,country
+chndm_1931-71-83,object,france,country
+chndm_1921-6-282-17,object,germany,country
+chndm_1917-4-245,object,colombi,country
+chndm_1963-9-245,object,italy,country
+chndm_1977-110-1-36,object,france,country
+chndm_1944-65-1,object,peru,country
+chndm_1971-50-103,object,italy,country
+chndm_1926-43-6-b-252,object,netherlands,country
+chndm_1947-113-1,object,usa,country
+chndm_1948-118-19,object,italy,country
+chndm_1955-38-19,object,usa,country
+chndm_1959-170-8,object,france,country
+chndm_1901-39-2681,object,netherlands,country
+chndm_1972-42-137-a_d,object,france,country
+chndm_1947-4-30,object,usa,country
+chndm_1904-16-16-b,object,usa,country
+chndm_1938-88-8164,object,italy,country
+chndm_1962-143-121-61,object,france,country
+chndm_1896-3-281,object,italy,country
+chndm_1938-88-4310,object,italy,country
+chndm_1938-88-88,object,italy,country
+chndm_1961-115-15,object,indonesia,country
+chndm_1926-43-5-551,object,netherlands,country
+chndm_1938-62-28,object,usa,country
+chndm_1921-6-282-74,object,german,country
+chndm_1926-22-184,object,china,country
+chndm_1909-13-127,object,france,country
+chndm_2009-18-24-a_b,object,austria,country
+chndm_1958-148-11-a_d,object,france,country
+chndm_1994-3-3,object,england,country
+chndm_1935-2-7,object,england,country
+chndm_1896-2-41,object,england,country
+chndm_1949-151-14,object,canada,country
+chndm_1951-134-6,object,france,country
+chndm_1951-158-6,object,france,country
+chndm_1901-39-2773,object,italy,country
+chndm_1938-88-1005,object,italy,country
+chndm_1931-4-9,object,italy,country
+chndm_1960-233-3-a_h,object,china,country
+chndm_1960-128-3-8,object,mexico,country
+chndm_1953-178-42,object,usa,country
+chndm_1913-45-9-a_b,object,usa,country
+chndm_1923-41-7,object,usa,country
+chndm_1904-16-45-c,object,usa,country
+chndm_1925-2-21-a,object,england,country
+chndm_1951-111-59,object,n. europe,country
+chndm_1921-6-282-62,object,german,country
+chndm_1926-43-6-b-155,object,holland,country
+chndm_1921-6-472-6,object,germany,country
+chndm_1950-102-8,object,usa,country
+chndm_1926-43-5-104,object,netherlands,country
+chndm_1969-121-40,object,usa,country
+chndm_1901-39-560,object,italy,country
+chndm_2006-20-17,object,france,country
+chndm_1974-100-23,object,england,country
+chndm_1959-66-46,object,france,country
+chndm_1938-88-2476,object,ital,country
+chndm_1955-78-14-30,object,france,country
+chndm_1937-38-2-b,object,germany,country
+chndm_1917-4-1363,object,usa,country
+chndm_1985-103-172,object,germany,country
+chndm_1916-33-49-a_b,object,usa,country
+chndm_1901-39-2489,object,ital,country
+chndm_1901-39-1549,object,italy,country
+chndm_1921-6-123-1,object,france,country
+chndm_1917-4-1332-b,object,usa,country
+chndm_1984-84-13,object,usa,country
+chndm_1942-7-17,object,india,country
+chndm_1950-121-51,object,switzerland,country
+chndm_1912-16-64,object,usa,country
+chndm_1910-45-2-a,object,germany,country
+chndm_1911-28-400,object,france,country
+chndm_1938-88-7160,object,italy,country
+chndm_1972-42-194,object,france,country
+chndm_1962-50-64,object,france,country
+chndm_1969-121-44,object,usa,country
+chndm_1950-121-51,object,german,country
+chndm_1979-91-1276,object,usa,country
+chndm_1973-51-24-a_c,object,india,country
+chndm_1902-10-2,object,france,country
+chndm_1937-96-2,object,netherlands,country
+chndm_1917-4-365-a,object,canada,country
+chndm_1999-42-6,object,england,country
+chndm_1931-45-75,object,france,country
+chndm_1950-121-55,object,germany,country
+chndm_1977-65-2,object,england,country
+chndm_1921-41-29,object,france,country
+chndm_1967-10-6-a,object,france,country
+chndm_1907-17-27,object,france,country
+chndm_1959-172-1,object,india,country
+chndm_1942-50-138,object,italy,country
+chndm_1955-28-2,object,german,country
+chndm_1979-91-920,object,usa,country
+chndm_1938-57-1219-b,object,japan,country
+chndm_1951-106-2,object,switzerland,country
+chndm_1938-9-2,object,belgium,country
+chndm_1941-31-250,object,japan,country
+chndm_1980-33-11,object,france,country
+chndm_1942-50-322,object,ital,country
+chndm_1939-27-21,object,usa,country
+chndm_1968-135-16-a,object,france,country
+chndm_1984-86-5-32,object,usa,country
+chndm_1926-43-4-435,object,holland,country
+chndm_1941-69-86,object,usa,country
+chndm_1931-40-47-a_b,object,england,country
+chndm_1917-4-353-b,object,usa,country
+chndm_1979-91-274,object,usa,country
+chndm_1997-136-1-1_145,object,usa,country
+chndm_1957-58-72,object,usa,country
+chndm_1948-128-71,object,japan,country
+chndm_1926-22-65-a,object,england,country
+chndm_1926-43-5-432,object,netherlands,country
+chndm_1977-80-1,object,iran,country
+chndm_1981-28-118,object,england,country
+chndm_1947-63-1-b,object,france,country
+chndm_1902-1-296,object,italy,country
+chndm_1926-37-169,object,usa,country
+chndm_1974-52-69,object,belgium,country
+chndm_1978-146-6,object,usa,country
+chndm_1921-6-326-25,object,france,country
+chndm_1904-16-125,object,usa,country
+chndm_1928-16-2,object,france,country
+chndm_1926-43-6-b-3,object,netherlands,country
+chndm_1981-56-79,object,usa,country
+chndm_2018-33-4,object,france,country
+chndm_1921-22-359,object,germany,country
+chndm_1934-12-1,object,japan,country
+chndm_1985-103-43-a_b,object,turke,country
+chndm_1950-121-40,object,italy,country
+chndm_1979-91-631,object,usa,country
+chndm_1971-50-302,object,italy,country
+chndm_1962-56-26-d,object,france,country
+chndm_1943-46-30,object,spain,country
+chndm_1926-43-7-d-45,object,netherlands,country
+chndm_1901-39-994,object,europe and usa,country
+chndm_1973-76-21-a,object,egypt,country
+chndm_1986-61-178-a_b,object,ireland,country
+chndm_1953-48-15,object,usa,country
+chndm_1975-81-2,object,usa,country
+chndm_1956-23-6-4,object,france,country
+chndm_2006-32-1,object,england,country
+chndm_1955-133-19,object,uzbekistan,country
+chndm_1948-47-244,object,usa,country
+chndm_1901-39-2179,object,italy,country
+chndm_1926-43-7-b-118,object,holland,country
+chndm_1926-43-5-458,object,netherlands,country
+chndm_1998-59-2,object,england,country
+chndm_1943-51-324,object,usa,country
+chndm_1904-16-242,object,usa,country
+chndm_1958-143-27,object,italy,country
+chndm_1941-11-2,object,england,country
+chndm_1955-163-12,object,england,country
+chndm_1985-68-7-d,object,usa,country
+chndm_1984-86-7-3,object,usa,country
+chndm_1967-10-3-a,object,france,country
+chndm_1899-2-7,object,france,country
+chndm_1920-3-2-a_b,object,italy,country
+chndm_1917-4-825,object,ecuador,country
+chndm_1968-107-14,object,france,country
+chndm_1926-43-6-a-75,object,netherlands,country
+chndm_1901-39-1702,object,italy,country
+chndm_1931-45-88,object,usa,country
+chndm_1917-4-157,object,italy,country
+chndm_1921-6-97-1,object,france,country
+chndm_1931-59-446-a_b,object,france,country
+chndm_1938-88-736,object,austria,country
+chndm_1934-12-1,object,usa,country
+chndm_1923-7-48,object,france,country
+chndm_1931-66-160,object,italy,country
+chndm_1921-6-99,object,france,country
+chndm_1970-26-21,object,france,country
+chndm_1938-88-4616,object,italy,country
+chndm_1921-6-450-154,object,england,country
+chndm_1900-4-2,object,greece,country
+chndm_1979-91-647,object,usa,country
+chndm_1953-179-85-31,object,usa,country
+chndm_1980-33-11,object,england,country
+chndm_1911-7-5,object,england,country
+chndm_1938-88-733,object,austria,country
+chndm_1926-43-5-345,object,netherlands,country
+chndm_1943-69-10,object,spain,country
+chndm_1902-1-187,object,german,country
+chndm_1896-3-190,object,netherlands,country
+chndm_1906-15-35-a_b,object,france,country
+chndm_1921-22-286,object,france,country
+chndm_1904-16-338,object,usa,country
+chndm_1931-94-39,object,france,country
+chndm_1958-140-7,object,france,country
+chndm_1978-4-1,object,france,country
+chndm_1967-20-43,object,usa,country
+chndm_1938-57-418-e,object,england,country
+chndm_1931-86-152-a_b,object,austria,country
+chndm_1926-43-4-625,object,holland,country
+chndm_1901-39-83,object,italy,country
+chndm_1967-46-45,object,belgium,country
+chndm_1942-50-131,object,usa,country
+chndm_1939-85-22,object,usa,country
+chndm_1951-134-6,object,spain,country
+chndm_1960-83-427,object,usa,country
+chndm_1926-43-5-211,object,netherlands,country
+chndm_1926-43-6-b-252,object,holland,country
+chndm_1981-28-444,object,hungary,country
+chndm_1926-43-5-217,object,holland,country
+chndm_1917-4-245,object,ecuador,country
+chndm_1940-110-3,object,germany,country
+chndm_1935-2-6,object,france,country
+chndm_1972-42-35,object,france,country
+chndm_1909-2-5,object,france,country
+chndm_1931-66-2,object,england,country
+chndm_1946-4-1,object,germany,country
+chndm_1940-76-15,object,usa,country
+chndm_1901-39-2217,object,italy,country
+chndm_1962-50-262,object,ital,country
+chndm_1999-29-1,object,usa,country
+chndm_1979-91-312,object,usa,country
+chndm_1950-121-34,object,france,country
+chndm_1935-2-7,object,france,country
+chndm_1917-4-158-b,object,syria,country
+chndm_1948-128-18,object,japan,country
+chndm_1938-88-7161,object,italy,country
+chndm_1991-156-1,object,usa,country
+chndm_1971-50-428,object,netherlands,country
+chndm_1968-135-16-a,object,italy,country
+chndm_1907-7-10,object,italy,country
+chndm_1973-32-9,object,usa,country
+chndm_1938-57-1028,object,usa,country
+chndm_1972-81-10,object,italy,country
+chndm_1984-86-3-42,object,usa,country
+chndm_1908-13-15,object,france / england,country
+chndm_1940-94-6,object,italy,country
+chndm_1921-22-348,object,france,country
+chndm_1956-64-3,object,japan,country
+chndm_1953-179-88-34,object,usa,country
+chndm_1920-36-319,object,france,country
+chndm_1953-202-1,object,france,country
+chndm_1938-88-7279,object,italy,country
+chndm_1951-103-25,object,england,country
+chndm_1958-143-3,object,italy,country
+chndm_1913-17-26-a_b,object,usa,country
+chndm_1914-21-121,object,france,country
+chndm_1982-23-516,object,france,country
+chndm_1939-64-14-a_d,object,italy,country
+chndm_1908-17-2,object,italy,country
+chndm_1972-42-38-a_c,object,france,country
+chndm_1971-50-206,object,spain,country
+chndm_1995-50-189,object,france,country
+chndm_1938-88-3498,object,italy and germany,country
+chndm_1923-14-1,object,switzerland,country
+chndm_1921-6-504-11,object,france,country
+chndm_1952-161-37,object,spain,country
+chndm_1926-43-5-104,object,holland,country
+chndm_1896-1-119,object,france,country
+chndm_1914-38-239,object,usa,country
+chndm_1926-43-7-c-12,object,holland,country
+chndm_1902-1-240,object,spain,country
+chndm_1938-88-467,object,italy,country
+chndm_1931-88-40-a_b,object,spain,country
+chndm_1901-39-3311,object,italy,country
+chndm_1998-75-90,object,france,country
+chndm_1905-2-71,object,turkey,country
+chndm_1979-91-915,object,usa,country
+chndm_1962-8-1-d,object,belgium,country
+chndm_1975-86-15,object,england,country
+chndm_1921-6-231-27,object,france,country
+chndm_1931-59-90-b,object,france,country
+chndm_1942-50-412,object,usa,country
+chndm_1899-17-1-d,object,present-day iran,country
+chndm_1943-51-133,object,german,country
+chndm_1919-10-70,object,netherlands,country
+chndm_1991-156-1,object,german,country
+chndm_1969-40-41,object,italy,country
+chndm_1979-91-886,object,usa,country
+chndm_1938-1-32,object,france,country
+chndm_1971-82-10,object,usa,country
+chndm_1974-41-8,object,france,country
+chndm_1948-47-319,object,usa,country
+chndm_1901-39-3345,object,italy,country
+chndm_1901-39-51,object,italy,country
+chndm_1926-43-4-625,object,netherlands,country
+chndm_a-t-775,object,france,country
+chndm_1986-61-188,object,ireland,country
+chndm_1957-190-1,object,belgium,country
+chndm_1917-4-516,object,usa,country
+chndm_1908-15-6,object,japan,country
+chndm_1911-28-64,object,france,country
+chndm_1985-103-201,object,germany,country
+chndm_1962-50-65,object,italy,country
+chndm_1948-40-154,object,england,country
+chndm_1923-7-35-a_b,object,france,country
+chndm_1909-25-25,object,france,country
+chndm_1938-57-730-l,object,germany,country
+chndm_1942-50-271,object,usa,country
+chndm_1966-55-30,object,usa,country
+chndm_1931-45-92-a_b,object,usa,country
+chndm_1921-6-40-4,object,germany,country
+chndm_1938-57-736-c,object,germany,country
+chndm_1901-39-689,object,italy,country
+chndm_1973-51-110-a_b,object,france,country
+chndm_1983-3-1,object,germany,country
+chndm_1905-2-189-a_b,object,greece,country
+chndm_1909-22-4-31,object,italy,country
+chndm_1926-43-4-155,object,holland,country
+chndm_1935-2-1-a_b,object,netherlands,country
+chndm_1901-39-1593,object,italy,country
+chndm_1901-39-316,object,italy,country
+chndm_1938-88-321,object,italy,country
+chndm_1985-19-139,object,usa,country
+chndm_1941-99-14,object,usa,country
+chndm_1917-4-203,object,ecuador,country
+chndm_1979-91-319,object,usa,country
+chndm_1936-13-16-a_b,object,france,country
+chndm_1938-73-1,object,germany,country
+chndm_1921-6-212-66,object,france,country
+chndm_1926-43-4-435,object,netherlands,country
+chndm_1998-75-103-a_b,object,france,country
+chndm_1938-57-1070-37,object,usa,country
+chndm_1938-88-3313,object,italy,country
+chndm_1938-88-2966,object,ital,country
+chndm_a-w-240,object,usa,country
+chndm_1961-178-1,object,usa,country
+chndm_1951-185-33-i_k,object,north africa,country
+chndm_1926-43-5-300,object,netherlands,country
+chndm_1914-38-339,object,usa,country
+chndm_1941-76-1-pp,object,netherlands,country
+chndm_1984-86-5-45,object,usa,country
+chndm_1939-55-1,object,italy,country
+chndm_1938-88-699,object,italy,country
+chndm_1970-58-9,object,france,country
+chndm_1901-39-1987,object,italy,country
+chndm_1921-22-233,object,france,country
+chndm_1981-28-394,object,mexico,country
+chndm_1942-50-513,object,usa,country
+chndm_1931-82-12,object,france,country
+chndm_1938-88-3764,object,ital,country
+chndm_1934-12-1,object,england,country
+chndm_1962-50-120,object,belgium,country
+chndm_1957-67-1,object,france,country
+chndm_1969-62-8,object,italy,country
+chndm_1979-91-1317,object,usa,country
+chndm_1985-14-54,object,japan,country
+chndm_1917-4-1318,object,usa,country
+chndm_1947-131-114,object,netherlands,country
+chndm_1942-50-4,object,usa,country
+chndm_1912-12-260,object,usa,country
+chndm_1937-38-2-b,object,german,country
+chndm_1989-80-31-a_b,object,usa,country
+chndm_1901-30-33,object,france,country
+chndm_1973-51-30,object,india,country
+chndm_1995-50-150,object,france,country
+chndm_1941-69-60,object,england,country
+chndm_1981-28-31,object,france,country
+chndm_1999-17-1-2,object,germany,country
+chndm_1953-38-6,object,england,country
+chndm_1981-28-80,object,scotland,country
+chndm_1901-39-511,object,italy,country
+chndm_1938-57-1070-175,object,usa,country
+chndm_1934-13-5,object,usa,country
+chndm_1971-50-206,object,ital,country
+chndm_1941-45-1-a_b,object,france,country
+chndm_1917-9-1,object,italy,country
+chndm_1931-45-8,object,france,country
+chndm_1979-91-250,object,usa,country
+chndm_1950-58-11,object,england,country
+chndm_1901-39-2056,object,italy,country
+chndm_1931-44-17-a_b,object,england,country
+chndm_1939-66-12-b_c,object,france,country
+chndm_1908-26-96,object,netherlands,country
+chndm_1955-78-14-38,object,france,country
+chndm_1902-1-779,object,turkey,country
+chndm_1979-91-1073,object,usa,country
+chndm_1976-103-16,object,japan,country
+chndm_1896-16-9,object,spain,country
+chndm_1962-56-89,object,italy,country
+chndm_1932-1-7,object,france,country
+chndm_1949-101-1,object,england,country
+chndm_1915-11-4,object,greece,country
+chndm_1976-86-1-a_b,object,italy,country
+chndm_1971-79-2-a_b,object,england,country
+chndm_1912-16-1,object,usa,country
+chndm_1945-20-4-a_f,object,usa,country
+chndm_1941-76-1-pp,object,holland,country
+chndm_1926-43-4-379,object,netherlands,country
+chndm_1901-39-1361,object,italy,country
+chndm_1923-6-44,object,usa,country
+chndm_1948-47-189,object,usa,country
+chndm_1914-38-60,object,usa,country
+chndm_1968-107-22,object,france,country
+chndm_1926-43-6-b-84,object,netherlands,country
+chndm_1971-46-1-a_b,object,usa,country
+chndm_1938-82-106-a_d,object,france,country
+chndm_1953-179-89-70,object,usa,country
+chndm_1950-30-4,object,germany,country
+chndm_1947-49-12,object,peru,country
+chndm_1960-78-1-1_102,object,usa,country
+chndm_1995-50-81,object,france,country
+chndm_1971-50-288,object,italy,country
+chndm_1962-50-137,object,france,country
+chndm_1954-94-1,object,germany,country
+chndm_1900-25-9,object,germany,country
+chndm_1926-43-4-155,object,netherlands,country
+chndm_1957-66-1,object,central europe,country
+chndm_1975-86-4,object,usa,country
+chndm_1962-8-1-c,object,belgium,country
+chndm_1921-6-469-6,object,belgium,country
+chndm_1914-38-154,object,usa,country
+chndm_1917-4-173,object,yemen,country
+chndm_1990-48-2,object,usa,country
+chndm_1904-20-100,object,france,country
+chndm_1921-22-38,object,france,country
+chndm_1942-50-207,object,usa,country
+chndm_1897-8-140,object,belgium,country
+chndm_1921-6-313-80,object,france,country
+chndm_1959-49-11,object,netherlands,country
+chndm_1938-57-1070-19,object,usa,country
+chndm_1914-38-208,object,usa,country
+chndm_1897-8-189,object,italy,country
+chndm_1948-39-3,object,netherlands,country
+chndm_1931-61-15,object,italy,country
+chndm_1921-6-285-84,object,germany,country
+chndm_1974-101-23,object,ital,country
+chndm_1962-65-2,object,usa,country
+chndm_1945-3-7,object,france,country
+chndm_1926-43-4-95,object,netherlands,country
+chndm_1986-61-224-a_b,object,ireland,country
+chndm_1957-61-46-h,object,usa,country
+chndm_1921-6-212-41,object,france,country
+chndm_1918-52-1,object,france,country
+chndm_1979-91-1081,object,usa,country
+chndm_1917-4-497,object,usa,country
+chndm_1926-43-1-81,object,netherlands,country
+chndm_1931-59-238-d,object,france,country
+chndm_1931-94-186,object,france,country
+chndm_1896-3-23,object,germany,country
+chndm_1985-19-106,object,usa,country
+chndm_1942-8-5-a,object,france,country
+chndm_1902-1-187,object,spain,country
+chndm_1931-70-44,object,france,country
+chndm_1926-43-5-551,object,holland,country
+chndm_1976-86-1-a_b,object,egypt,country
+chndm_1953-179-87-8,object,usa,country
+chndm_1931-94-139,object,france,country
+chndm_1995-50-338,object,france,country
+chndm_1979-91-1287,object,usa,country
+chndm_1913-34-11,object,holland,country
+chndm_1970-28-25,object,england,country
+chndm_1970-26-4-cdd,object,usa,country
+chndm_1953-20-3,object,france,country
+chndm_1926-43-1-81,object,holland,country
+chndm_1995-50-217,object,france,country
+chndm_1977-31-2-a_g,object,england,country
+chndm_1951-103-54,object,england,country
+chndm_1942-50-227,object,usa,country
+chndm_1917-4-677,object,usa,country
+chndm_1909-26-2-a_b,object,england,country
+chndm_1943-46-26,object,italy,country
+chndm_1896-3-216,object,france,country
+chndm_1952-127-20,object,france,country
+chndm_1956-181-113,object,usa,country
+chndm_1952-161-37,object,ital,country
+chndm_1931-94-260,object,usa,country
+chndm_1962-50-136,object,italy,country
+chndm_1977-110-1-11,object,france,country
+chndm_1944-61-4,object,usa,country
+chndm_1901-39-1251,object,italy,country
+chndm_1940-66-2-a_d,object,italy,country
+chndm_1974-101-13,object,france,country
+chndm_1981-17-1-a_b,object,usa,country
+chndm_1958-148-2,object,usa,country
+chndm_1938-57-321,object,france,country
+chndm_1940-96-1-a_k,object,japan,country
+chndm_1944-36-2-3,object,france,country
+chndm_1917-4-363,object,canada,country
+chndm_1941-46-6,object,french canada,country
+chndm_1908-26-137,object,france,country
+chndm_1924-15-134,object,france,country
+chndm_1931-73-295,object,italy,country
+chndm_1938-58-1092,object,usa,country
+chndm_1979-91-438,object,usa,country
+chndm_1985-103-28,object,italy,country
+chndm_1938-88-4458,object,italy,country
+chndm_1935-2-1-a_b,object,france,country
+chndm_1911-7-5,object,usa,country
+chndm_1995-50-122,object,france,country
+chndm_1935-2-3-a,object,france,country
+chndm_1941-19-1,object,france,country
+chndm_1992-5-60-a_b,object,germany,country
+chndm_1957-30-6,object,germany,country
+chndm_1921-6-147-3,object,italy,country
+chndm_1899-17-1-d,object,india,country
+chndm_1985-103-139-a,object,netherlands,country
+chndm_1901-39-3066,object,italy,country
+chndm_1972-42-219-a_d,object,france,country
+chndm_1952-105-27,object,england,country
+chndm_1951-90-12,object,france,country
+chndm_1901-39-2824,object,italy,country
+chndm_1968-101-30-13,object,usa,country
+chndm_1909-22-1-25,object,italy,country
+chndm_1938-88-3540,object,italy,country
+chndm_1986-24-1,object,iran,country
+chndm_1902-1-78,object,egypt,country
+chndm_1926-43-4-45,object,holland,country
+chndm_1921-6-97-2,object,france,country
+chndm_1911-28-82-1,object,france,country
+chndm_1926-43-6-b-3,object,holland,country
+chndm_1953-176-1,object,usa,country
+chndm_1931-94-232,object,italy,country
+chndm_1938-88-4310,object,ital,country
+chndm_1938-88-4620,object,italy,country
+chndm_1985-19-47,object,usa,country
+chndm_1938-88-2601,object,italy,country
+chndm_1917-14-4,object,usa,country
+chndm_1912-12-41,object,england,country
+chndm_1926-22-118-b,object,china,country
+chndm_1909-13-4,object,france,country
+chndm_1940-110-3,object,switzerland,country
+chndm_1931-41-25-a_b,object,france,country
+chndm_1940-76-20,object,usa,country
+chndm_1906-15-31,object,france,country
+chndm_1912-12-66,object,usa,country
+chndm_1981-11-15,object,france,country
+chndm_1911-28-361,object,germany,country
+chndm_1962-218-12,object,england,country
+chndm_1948-40-12,object,england,country
+chndm_1917-4-353-b,object,jamaica,country
+chndm_1962-56-142,object,france,country
+chndm_a-a-29,object,france,country
+chndm_1982-23-1139,object,england,country
+chndm_1986-61-20-a_b,object,ireland,country
+chndm_1919-30-11,object,italy,country
+chndm_1977-110-3-19,object,france,country
+chndm_1896-3-90,object,netherlands,country
+chndm_1992-92-1-7,object,usa,country
+chndm_1962-50-320-c,object,italy,country
+chndm_1961-115-37,object,indonesia,country
+chndm_1955-28-2,object,germany,country
+chndm_1995-50-347-a_d,object,france,country
+chndm_1955-1-5,object,england,country
+chndm_1948-47-339,object,usa,country
+chndm_2013-21-40,object,usa,country
+chndm_1981-56-41,object,usa,country
+chndm_1911-28-9,object,france,country
+chndm_1979-91-1127,object,usa,country
+chndm_1981-28-387,object,mexico,country
+chndm_1917-4-284-a,object,usa,country
+chndm_1931-85-1,object,italy,country
+chndm_1898-18-2,object,france,country
+chndm_1901-39-3217,object,italy,country
+chndm_1993-134-25-a_c,object,england,country
+chndm_1926-43-6-b-78,object,holland,country
+chndm_1926-43-4-379,object,holland,country
+chndm_1974-101-11,object,iran,country
+chndm_1941-69-217,object,england,country
+chndm_1941-49-1,object,usa,country
+chndm_1917-4-15-b,object,canada,country
+chndm_1917-4-115,object,usa,country
+chndm_1992-92-1-7,object,france,country
+chndm_1968-87-1,object,indo-persia,country
+chndm_1926-43-6-b-78,object,netherlands,country
+chndm_1921-6-285-95,object,germany,country
+chndm_1986-113-8,object,usa,country
+chndm_1921-6-285-38,object,france,country
+chndm_1984-86-5-53,object,usa,country
+chndm_1921-6-205,object,france,country
+chndm_1914-38-228-a,object,usa,country
+chndm_1957-123-9,object,india,country
+chndm_1973-51-18-a_d,object,india,country
+chndm_1975-44-2,object,france,country
+chndm_1973-51-138,object,france,country
+chndm_1916-33-205-a_b,object,france,country
+chndm_1940-117-7,object,france,country
+chndm_1911-28-266,object,france,country
+chndm_1968-111-87,object,france,country
+chndm_1926-43-5-540,object,netherlands,country
+chndm_1948-89-9,object,usa,country
+chndm_1946-68-5,object,usa,country
+chndm_1914-38-56,object,usa,country
+chndm_1938-88-2996,object,italy,country
+chndm_1938-88-3090,object,italy,country
+chndm_1940-93-27,object,italy,country
+chndm_1905-2-100,object,italy,country
+chndm_1985-14-17,object,japan,country
+chndm_1926-43-4-550,object,netherlands,country
+chndm_1973-51-5-a_b,object,india,country
+chndm_1985-103-94,object,germany,country
+chndm_1959-49-229,object,usa,country
+chndm_2017-41-3,object,usa,country
+chndm_1995-50-8,object,france,country
+chndm_1971-50-77,object,ital,country
+chndm_a-t-20,object,france,country
+chndm_1970-26-4-ac,object,usa,country
+chndm_1979-91-1160,object,usa,country
+chndm_1926-43-6-a-135,object,netherlands,country
+chndm_1938-88-860,object,italy,country
+chndm_1904-21-19,object,france,country
+chndm_1962-50-262,object,spain,country
+chndm_1979-91-959,object,usa,country
+chndm_1947-15-1,object,italy,country
+chndm_1926-43-5-300,object,holland,country
+chndm_1972-42-214-a_f,object,france,country
+chndm_1901-39-2482,object,italy,country
+chndm_1954-18-30,object,netherlands,country
+chndm_1931-27-4,object,italy,country
+chndm_1957-92-21,object,afghanistan,country
+chndm_1955-38-25,object,usa,country
+chndm_1938-88-599,object,italy,country
+chndm_1917-4-15-b,object,canad,country
+chndm_1926-43-5-211,object,holland,country
+chndm_1985-68-7-a,object,usa,country
+chndm_1901-39-2785,object,italy,country
+chndm_1985-103-204,object,england,country
+chndm_1912-16-33,object,usa,country
+chndm_1921-6-213-7,object,france,country
+chndm_1912-12-52,object,usa,country
+chndm_1968-78-3-a,object,india,country
+chndm_1981-28-59,object,england,country
+chndm_1942-50-267,object,usa,country
+chndm_1948-47-297,object,usa,country
+chndm_1984-133-10-a_b,object,england,country
+chndm_1962-198-31,object,germany,country
+chndm_1901-39-1809,object,italy,country
+chndm_1917-4-534,object,usa,country
+chndm_1979-91-951,object,usa,country
+chndm_1898-6-73,object,usa,country
+chndm_1926-43-4-213,object,holland,country
+chndm_1901-39-1718,object,italy,country
+chndm_1981-28-324,object,germany,country
+chndm_1977-110-1-5,object,france,country
+chndm_1938-57-1070-230,object,usa,country
+chndm_1933-1-5,object,belgium,country
+chndm_1921-6-82,object,france,country
+chndm_1974-27-10,object,usa,country
+chndm_1979-91-858,object,usa,country
+chndm_1926-43-4-169,object,netherlands,country
+chndm_1938-88-284,object,italy,country
+chndm_1986-61-160,object,ireland,country
+chndm_1912-16-52,object,usa,country
+chndm_1985-103-91,object,germany,country
+chndm_1981-56-5,object,usa,country
+chndm_1901-39-1392,object,italy,country
+chndm_1901-39-414,object,italy,country
+chndm_1914-38-352,object,usa,country
+chndm_1915-16-8-a,object,italy,country
+chndm_1940-90-18,object,usa,country
+chndm_1904-16-302,object,usa,country
+chndm_1926-43-4-213,object,netherlands,country
+chndm_1911-28-396,object,france,country
+chndm_1926-43-4-50,object,netherlands,country
+chndm_1952-166-109,object,england,country
+chndm_1995-50-338,object,germany,country
+chndm_1956-181-38,object,usa,country
+chndm_1926-43-5-481,object,netherlands,country
+chndm_1981-28-325,object,germany,country
+chndm_1984-86-6-21,object,france,country
+chndm_1902-1-904,object,portugal,country
+chndm_1952-164-21,object,italy,country
+chndm_1906-21-222,object,france,country
+chndm_1924-38-167,object,france,country
+chndm_1981-56-9,object,usa,country
+chndm_1980-73-10,object,england,country
+chndm_1938-88-3129,object,italy,country
+chndm_1949-119-1,object,france,country
+chndm_1943-51-103,object,netherlands,country
+chndm_1974-27-5,object,usa,country
+chndm_1985-19-8,object,usa,country
+chndm_1948-134-53,object,japan,country
+chndm_1938-88-2966,object,italy,country
+chndm_1939-57-13,object,france,country
+chndm_1923-51-1,object,spain,country
+chndm_1923-41-5,object,usa,country
+chndm_1921-6-94-3,object,france,country
+chndm_1909-2-20,object,france,country
+chndm_1909-2-37,object,france,country
+chndm_1950-59-9,object,england,country
+chndm_1950-121-28-c,object,spain,country
+chndm_1970-26-4-ccc,object,usa,country
+chndm_1897-8-140,object,france,country
+chndm_1938-88-2948,object,italy,country
+chndm_1897-8-242,object,france,country
+chndm_1955-78-14-13,object,france,country
+chndm_1926-43-4-169,object,holland,country
+chndm_1945-6-4-2,object,france,country
+chndm_2007-53-1,object,france,country
+chndm_1914-38-90,object,usa,country
+chndm_1953-60-11,object,denmark,country
+chndm_1941-69-172,object,italy,country
+chndm_1976-48-61-2,object,europe and usa,country
+chndm_1939-84-42-c,object,usa,country
+chndm_1938-88-3764,object,italy,country
+chndm_1938-58-1424,object,belgium,country
+chndm_1921-6-212-7-a,object,france,country
+chndm_1921-6-282-74,object,france,country
+chndm_1953-179-84-10,object,usa,country
+chndm_1926-43-6-b-96,object,netherlands,country
+chndm_1962-59-2,object,france,country
+chndm_1972-81-22,object,egypt,country
+chndm_1962-59-1,object,france,country
+chndm_1926-43-6-b-155,object,netherlands,country
+chndm_1979-91-703,object,usa,country
+chndm_1960-126-1-a,object,usa,country
+chndm_1952-37-18,object,netherlands,country
+chndm_1901-39-2852,object,italy,country
+chndm_1953-206-6,object,france,country
+chndm_1907-5-27,object,england,country
+chndm_1992-5-7-a_b,object,england,country
+chndm_1959-56-1-f,object,england,country
+chndm_1993-1-1,object,china,country
+chndm_1952-164-35,object,japan,country
+chndm_1942-50-13,object,usa,country
+chndm_1951-106-2,object,france,country
+chndm_1931-70-38,object,france,country
+chndm_1931-4-62,object,japan,country
+chndm_1904-20-320,object,france,country
+chndm_1948-134-3,object,japan,country
+chndm_1911-28-376,object,germany,country
+chndm_1985-103-36,object,central europe,country
+chndm_1960-86-1,object,france,country
+chndm_1909-13-17,object,france,country
+chndm_1911-28-19-3,object,france,country
+chndm_1924-33-1-a_b,object,germany,country
+chndm_1967-46-31,object,italy,country
+chndm_1911-28-196,object,france,country
+chndm_1962-56-13-a_b,object,portugual,country
+chndm_1979-91-607-a_b,object,usa,country
+chndm_1926-43-6-b-153,object,holland,country
+chndm_1943-33-1-34,object,usa,country
+chndm_1932-1-41,object,france,country
+chndm_1940-120-37,object,austria,country
+chndm_1909-2-4,object,france,country
+chndm_1984-125-72,object,usa,country
+chndm_1942-50-117,object,italy,country
+chndm_1979-91-1203,object,usa,country
+chndm_1979-91-283,object,usa,country
+chndm_1948-40-4,object,england,country
+chndm_1931-67-65-a,object,italy,country
+chndm_1962-50-76,object,europe,country
+chndm_1941-69-243,object,usa,country
+chndm_1917-4-173,object,saudi arabia,country
+chndm_1957-58-31,object,usa,country
+chndm_1934-12-1,object,france,country
+chndm_1958-148-2,object,france,country
+chndm_1926-43-5-217,object,netherlands,country
+chndm_1937-22-10,object,usa,country
+chndm_1962-192-8,object,france,country
+chndm_1921-6-11-1,object,france,country
+chndm_1926-43-7-b-118,object,netherlands,country
+chndm_1932-1-50,object,france,country
+chndm_1926-43-6-b-153,object,netherlands,country
+chndm_1995-165-13,object,usa,country
+chndm_1941-51-1,object,france,country
+chndm_1921-6-231-13,object,france,country
+chndm_1896-1-103,object,italy,country
+chndm_1917-4-366-a,object,canada,country
+chndm_1976-1-55,object,switzerland,country
+chndm_1901-39-1258,object,italy,country
+chndm_1995-50-198,object,france,country
+chndm_1924-15-43-b,object,france,country
+chndm_1920-36-295,object,france,country
+chndm_1959-66-306-e,object,england,country
+chndm_1980-73-18,object,france,country
+chndm_1920-36-170,object,france,country
+chndm_1901-39-2489,object,italy,country
+chndm_1917-4-178,object,yemen [or saudi arabia],country
+chndm_1981-28-389,object,mexico,country
+chndm_1931-45-41,object,france,country
+chndm_1929-1-7-a_b,object,france,country
+chndm_1938-62-21,object,usa,country
+chndm_1901-39-1760,object,italy,country
+chndm_1914-38-140,object,usa,country
+chndm_1960-249-1,object,usa,country
+chndm_1976-46-7,object,france,country
+chndm_1944-93-2,object,guyana,country
+chndm_1931-80-101,object,france,country
+chndm_1901-39-623,object,italy,country
+chndm_1950-121-51,object,austria,country
+chndm_1926-43-4-550,object,holland,country
+chndm_1920-15-28,object,spain,country
+chndm_1896-1-25,object,spain,country
+chndm_1961-148-49,object,usa,country
+chndm_1966-7-31,object,japan,country
+chndm_1985-103-201,object,france,country
+chndm_1905-2-135,object,italy,country
+chndm_1911-28-437,object,france,country
+chndm_1938-57-1518,object,france,country
+chndm_1938-57-489-a_b,object,france,country
+chndm_1942-50-322,object,usa,country
+chndm_1926-43-7-d-45,object,holland,country
+chndm_1950-5-25,object,germany,country
+chndm_1914-21-14,object,italy,country
+chndm_1901-39-632,object,italy,country
+chndm_1920-36-179,object,france,country
+chndm_1943-46-4,object,france,country
+chndm_1931-6-125,object,england,country
+chndm_1951-106-2,object,usa,country
+chndm_1939-7-3,object,holland,country
+chndm_1975-60-44-c,object,france,country
+chndm_1896-3-87,object,germany,country
+chndm_1938-88-8417,object,netherlands,country
+chndm_1942-50-1,object,italy,country
+chndm_1938-57-1070-198,object,usa,country
+chndm_1912-12-142,object,usa,country
+chndm_1942-50-79,object,usa,country
+chndm_1974-72-10,object,england,country
+chndm_1950-131-23,object,germany,country
+chndm_1926-43-4-50,object,holland,country
+chndm_1911-28-154,object,france,country
+chndm_1926-43-4-95,object,holland,country
+chndm_1948-47-338,object,usa,country
+chndm_1938-57-102,object,france,country
+chndm_1982-33-1,object,switzerland,country
+chndm_1931-64-279,object,france,country
+chndm_1901-39-2466,object,italy,country
+chndm_1926-43-4-45,object,netherlands,country
+chndm_1948-118-6,object,italy,country
+chndm_1911-28-377,object,germany,country
+chndm_1938-88-473,object,italy,country
+chndm_1926-43-6-a-75,object,holland,country
+chndm_1901-39-3343,object,italy,country
+chndm_1941-69-233,object,spain,country
+chndm_1991-17-5,object,france,country
+chndm_1938-88-2797,object,italy,country
+chndm_1973-51-27,object,india,country
+chndm_1984-84-26,object,usa,country
+chndm_1944-24-36-1,object,france,country
+chndm_1973-29-20,object,japan,country
+chndm_1911-31-7,object,czech republic,country
+chndm_1938-88-570,object,italy,country
+chndm_1997-133-1,object,usa,country
+chndm_1941-17-3,object,usa,country
+chndm_1926-43-6-b-84,object,holland,country
+chndm_1920-36-43,object,france,country
+chndm_1899-17-1-d,object,persi,country
+chndm_1926-43-6-b-135,object,holland,country
+chndm_1914-38-186,object,usa,country
+chndm_1978-146-765,object,usa,country
+chndm_1917-4-464-a,object,switzerland,country
+chndm_1931-94-177,object,italy,country
+chndm_1957-46-61,object,france,country
+chndm_1972-49-1,object,usa,country
+chndm_1976-103-229,object,japan,country
+chndm_1960-83-423,object,usa,country
+chndm_1926-43-5-458,object,holland,country
+chndm_1939-66-37,object,france,country
+chndm_1948-125-4-30,object,usa,country
+chndm_1926-43-7-c-12,object,netherlands,country
+chndm_1917-4-537,object,usa,country
+chndm_1928-5-35-a_b,object,usa,country
+chndm_1938-88-2621,object,italy,country
+chndm_1985-103-43-a_b,object,balkan region,country
+chndm_1914-38-194,object,usa,country
+chndm_1897-9-8,object,germany,country
+chndm_1904-20-431,object,italy,country
+chndm_1979-91-220,object,usa,country
+chndm_1998-62-7,object,france,country
+chndm_1931-73-298,object,italy,country
+chndm_1992-168-3,object,england,country
+chndm_1917-4-1313,object,usa,country
+chndm_1971-50-375,object,italy,country
+chndm_1907-17-8,object,france,country
+chndm_1995-50-199,object,france,country
+chndm_1917-4-296-b,object,canada,country
+chndm_1926-43-5-540,object,holland,country
+chndm_1931-59-219-b,object,france,country
+chndm_1906-15-21,object,france,country
+chndm_1914-38-323,object,usa,country
+chndm_1973-76-21-a,object,indi,country
+chndm_1973-42-23-a_b,object,usa,country
+chndm_1911-28-442,object,france,country
+chndm_1907-17-67,object,france,country
+chndm_1955-38-53-d,object,usa,country
+chndm_1983-29-9,object,usa,country
+chndm_1926-43-6-a-99,object,netherlands,country
+chndm_1904-20-431,object,france,country
+chndm_1955-89-1,object,france,country
+chndm_1999-42-10,object,england,country
+chndm_1909-13-39,object,france,country
+chndm_1917-4-34-b,object,usa,country
+chndm_1979-91-570,object,usa,country
+chndm_1955-38-12-a,object,usa,country
+chndm_1944-21-1,object,spain,country
+chndm_1931-95-12-a_c,object,france,country
+chndm_1938-88-3498,object,ital,country
+chndm_1961-1-37,object,netherlands,country
+chndm_1938-88-3090,object,ital,country
+chndm_1962-55-14-a_b,object,france,country
+chndm_1986-61-242,object,ireland,country
+chndm_1941-11-5,object,england,country
+chndm_1968-135-4,object,italy,country
+chndm_1995-50-338,object,switzerland,country
+chndm_1972-39-5,object,usa,country
+chndm_1948-65-15,object,england,country
+chndm_1985-21-2,object,ireland,country
+chndm_1926-43-5-345,object,holland,country
+chndm_1948-118-41,object,italy,country
+chndm_1981-28-424,object,spain,country
+chndm_1938-88-2476,object,italy,country
+chndm_1989-80-34-a_g,object,usa,country
+chndm_1984-86-18,object,usa,country
+chndm_1921-6-42-8,object,france,country
+chndm_1908-6-1,object,china,country
+chndm_1923-6-25,object,usa,country
+chndm_1923-51-15,object,spain,country
+chndm_1979-91-391,object,usa,country
+chndm_1901-39-1063,object,italy,country
+chndm_1953-179-88-68,object,usa,country
+chndm_1952-166-98,object,england,country
+chndm_1926-43-7-d-32,object,holland,country
+chndm_1926-43-6-a-99,object,holland,country
+chndm_1909-13-91,object,france,country
+chndm_1901-39-1541,object,italy,country
+chndm_1973-6-5,object,france,country
+chndm_1938-88-793,object,italy,country
+chndm_1968-135-87-a,object,usa,country
+chndm_1962-217-1,object,egypt,country
+chndm_1926-43-4-74,object,holland,country
+chndm_1992-156-18,object,france,country
+chndm_1957-162-22,object,germany,country
+chndm_1967-84-6,object,france,country
+chndm_1926-43-4-74,object,netherlands,country
+chndm_1938-88-746,object,italy,country
+chndm_1948-47-346,object,usa,country
+chndm_1953-143-33,object,n. europe,country
+chndm_1974-101-23,object,spain,country
+chndm_1942-50-426-a,object,usa,country
+chndm_1979-91-580,object,usa,country
+chndm_1959-26-4,object,usa,country
+chndm_1985-103-217,object,china,country
+chndm_1962-233-7,object,indonesia,country
+chndm_1947-121-1,object,germany,country
+chndm_1940-105-1,object,belgium,country
+chndm_1979-91-499,object,usa,country
+chndm_1957-180-73,object,greece,country
+chndm_1972-36-12,object,spain,country
+chndm_1952-80-5-h,object,france,country
+chndm_1981-28-80,object,england,country
+chndm_1948-47-211,object,usa,country
+chndm_1979-91-883,object,usa,country
+chndm_1931-64-169,object,france,country
+chndm_1926-43-5-481,object,holland,country
+chndm_1938-57-108,object,france,country
+chndm_1971-50-62-a_c,object,spain,country
+chndm_1941-31-215,object,japan,country
+chndm_1943-51-133,object,germany,country
+chndm_1973-29-22,object,japan,country
+chndm_1928-2-95,object,france,country
+chndm_1901-39-1270,object,italy,country
+chndm_1931-73-7,object,italy,country
+chndm_1979-91-919,object,usa,country
+chndm_1957-180-105,object,netherlands,country
+chndm_1984-86-4-56,object,usa,country
+chndm_1926-43-6-b-135,object,netherlands,country
+chndm_1943-51-402,object,usa,country
+chndm_1994-129-3,object,england,country
+chndm_1924-36-2,object,france,country
+chndm_1938-88-893,object,italy,country
+chndm_1952-166-46-b,object,france,country
+chndm_1938-88-270,object,italy,country
+chndm_1942-50-174,object,switzerland,country
+chndm_1950-121-21,object,france,country
+chndm_1981-28-423,object,spain,country
+chndm_1943-33-1-15,object,usa,country
+chndm_1938-88-416,object,italy,country
+chndm_1958-39-1-b_d,object,france,country
+chndm_1921-6-281-33,object,germany,country
+chndm_1901-39-2782,object,italy,country
+chndm_1923-46-117,object,italy,country
+chndm_1926-43-6-b-96,object,holland,country
+chndm_1896-17-28,object,france,country
+chndm_1921-6-450-36,object,england,country
+chndm_1953-20-3,object,england,country
+chndm_1931-59-141,object,france,country
+chndm_1912-12-252,object,usa,country
+chndm_1920-36-318,object,france,country
+chndm_1971-50-402,object,belgium,country
+chndm_1901-39-2673,object,netherlands,country
+chndm_1939-69-2,object,china,country
+chndm_1926-43-7-d-32,object,netherlands,country
+chndm_1960-83-155,object,usa,country
+chndm_1957-180-105,object,german,country
+chndm_1939-12-4,object,turkey,country
+chndm_1974-42-11,object,england,country
+chndm_1956-181-38,object,1956,acqYear
+chndm_1941-76-1-pp,object,1941,acqYear
+chndm_1980-73-10,object,1980,acqYear
+chndm_1909-2-5,object,1909,acqYear
+chndm_1984-86-18,object,1984,acqYear
+chndm_1911-28-154,object,1911,acqYear
+chndm_1898-21-5-e,object,1898,acqYear
+chndm_1955-78-14-38,object,1955,acqYear
+chndm_1912-16-52,object,1912,acqYear
+chndm_1942-50-207,object,1942,acqYear
+chndm_1992-5-60-a_b,object,1992,acqYear
+chndm_1960-83-427,object,1960,acqYear
+chndm_1974-112-17-a_h,object,1974,acqYear
+chndm_1939-85-22,object,1939,acqYear
+chndm_1998-75-103-a_b,object,1998,acqYear
+chndm_1901-39-3345,object,1901,acqYear
+chndm_1902-10-2,object,1902,acqYear
+chndm_1962-8-1-c,object,1962,acqYear
+chndm_1961-148-49,object,1961,acqYear
+chndm_1908-6-1,object,1908,acqYear
+chndm_1962-50-137,object,1962,acqYear
+chndm_1976-1-55,object,1976,acqYear
+chndm_1974-100-23,object,1974,acqYear
+chndm_1924-15-134,object,1924,acqYear
+chndm_1985-103-43-a_b,object,1985,acqYear
+chndm_1952-37-18,object,1952,acqYear
+chndm_1917-4-157,object,1917,acqYear
+chndm_1938-88-2996,object,1938,acqYear
+chndm_1942-50-322,object,1942,acqYear
+chndm_1978-146-6,object,1978,acqYear
+chndm_1971-50-402,object,1971,acqYear
+chndm_1962-56-142,object,1962,acqYear
+chndm_1896-2-41,object,1896,acqYear
+chndm_1948-47-346,object,1948,acqYear
+chndm_1983-29-9,object,1983,acqYear
+chndm_1995-50-189,object,1995,acqYear
+chndm_2000-69-168,object,2000,acqYear
+chndm_1958-143-27,object,1958,acqYear
+chndm_1946-42-9-a,object,1946,acqYear
+chndm_1917-4-221,object,1917,acqYear
+chndm_1959-49-229,object,1959,acqYear
+chndm_1901-39-3066,object,1901,acqYear
+chndm_1921-6-281-33,object,1921,acqYear
+chndm_1960-86-1,object,1960,acqYear
+chndm_1902-1-647-a_d,object,1902,acqYear
+chndm_1911-28-437,object,1911,acqYear
+chndm_1979-91-1317,object,1979,acqYear
+chndm_1940-94-6,object,1940,acqYear
+chndm_1962-50-262,object,1962,acqYear
+chndm_1977-110-1-36,object,1977,acqYear
+chndm_1959-49-11,object,1959,acqYear
+chndm_1952-80-5-h,object,1952,acqYear
+chndm_1948-65-15,object,1948,acqYear
+chndm_1950-5-25,object,1950,acqYear
+chndm_1973-51-30,object,1973,acqYear
+chndm_1931-61-15,object,1931,acqYear
+chndm_1962-56-89,object,1962,acqYear
+chndm_1920-36-43,object,1920,acqYear
+chndm_1981-28-394,object,1981,acqYear
+chndm_1958-140-7,object,1958,acqYear
+chndm_1960-249-1,object,1960,acqYear
+chndm_1938-88-3313,object,1938,acqYear
+chndm_1904-20-320,object,1904,acqYear
+chndm_1938-88-599,object,1938,acqYear
+chndm_1941-45-1-a_b,object,1941,acqYear
+chndm_1957-58-72,object,1957,acqYear
+chndm_1917-4-363,object,1917,acqYear
+chndm_1948-47-339,object,1948,acqYear
+chndm_1904-20-100,object,1904,acqYear
+chndm_1938-57-108,object,1938,acqYear
+chndm_1910-24-13,object,1910,acqYear
+chndm_1931-59-446-a_b,object,1931,acqYear
+chndm_1938-88-5386,object,1938,acqYear
+chndm_1975-85-4-3-a_e,object,1975,acqYear
+chndm_1926-43-6-a-99,object,1926,acqYear
+chndm_1956-181-113,object,1956,acqYear
+chndm_1911-28-19-3,object,1911,acqYear
+chndm_1911-28-82-1,object,1911,acqYear
+chndm_1938-88-4620,object,1938,acqYear
+chndm_1951-134-6,object,1951,acqYear
+chndm_1952-105-27,object,1952,acqYear
+chndm_1940-21-37,object,1940,acqYear
+chndm_1944-24-36-1,object,1944,acqYear
+chndm_1939-66-37,object,1939,acqYear
+chndm_1947-15-1,object,1947,acqYear
+chndm_1982-23-1139,object,1982,acqYear
+chndm_1995-50-347-a_d,object,1995,acqYear
+chndm_1972-42-219-a_d,object,1972,acqYear
+chndm_1967-20-43,object,1967,acqYear
+chndm_1915-16-8-a,object,1915,acqYear
+chndm_1977-80-1,object,1977,acqYear
+chndm_1921-6-282-74,object,1921,acqYear
+chndm_1931-59-402-a,object,1931,acqYear
+chndm_1911-7-5,object,1911,acqYear
+chndm_1907-5-27,object,1907,acqYear
+chndm_1992-5-7-a_b,object,1992,acqYear
+chndm_1955-38-12-a,object,1955,acqYear
+chndm_1967-84-6,object,1967,acqYear
+chndm_1950-121-51,object,1950,acqYear
+chndm_1926-43-7-c-12,object,1926,acqYear
+chndm_1932-1-50,object,1932,acqYear
+chndm_1979-91-1203,object,1979,acqYear
+chndm_1981-28-31,object,1981,acqYear
+chndm_1919-30-11,object,1919,acqYear
+chndm_1979-91-274,object,1979,acqYear
+chndm_1948-118-19,object,1948,acqYear
+chndm_1970-58-9,object,1970,acqYear
+chndm_1921-6-97-2,object,1921,acqYear
+chndm_1980-33-11,object,1980,acqYear
+chndm_1982-23-72,object,1982,acqYear
+chndm_1931-70-38,object,1931,acqYear
+chndm_1896-16-19,object,1896,acqYear
+chndm_1931-94-260,object,1931,acqYear
+chndm_1921-6-469-6,object,1921,acqYear
+chndm_1950-131-64,object,1950,acqYear
+chndm_1932-1-41,object,1932,acqYear
+chndm_1957-190-1,object,1957,acqYear
+chndm_1947-121-1,object,1947,acqYear
+chndm_1980-73-18,object,1980,acqYear
+chndm_1952-164-35,object,1952,acqYear
+chndm_1971-50-302,object,1971,acqYear
+chndm_1896-17-28,object,1896,acqYear
+chndm_1897-9-8,object,1897,acqYear
+chndm_1957-180-21,object,1957,acqYear
+chndm_1912-12-142,object,1912,acqYear
+chndm_1939-27-21,object,1939,acqYear
+chndm_2000-69-248,object,2000,acqYear
+chndm_1921-6-285-95,object,1921,acqYear
+chndm_1979-91-220,object,1979,acqYear
+chndm_1971-46-1-a_b,object,1971,acqYear
+chndm_1961-115-15,object,1961,acqYear
+chndm_1956-64-3,object,1956,acqYear
+chndm_1966-7-31,object,1966,acqYear
+chndm_1921-22-318,object,1921,acqYear
+chndm_1938-88-3764,object,1938,acqYear
+chndm_1938-88-2966,object,1938,acqYear
+chndm_1979-91-920,object,1979,acqYear
+chndm_1938-9-2,object,1938,acqYear
+chndm_1985-103-217,object,1985,acqYear
+chndm_1984-86-5-53,object,1984,acqYear
+chndm_1926-43-5-481,object,1926,acqYear
+chndm_1949-119-1,object,1949,acqYear
+chndm_1948-118-6,object,1948,acqYear
+chndm_1984-86-4-39,object,1984,acqYear
+chndm_1977-31-2-a_g,object,1977,acqYear
+chndm_1972-5-3-a,object,1972,acqYear
+chndm_1998-75-90,object,1998,acqYear
+chndm_1962-50-320-c,object,1962,acqYear
+chndm_1986-113-8,object,1986,acqYear
+chndm_1953-60-11,object,1953,acqYear
+chndm_1938-88-4616,object,1938,acqYear
+chndm_1907-7-10,object,1907,acqYear
+chndm_1901-30-33,object,1901,acqYear
+chndm_1960-83-155,object,1960,acqYear
+chndm_1896-3-216,object,1896,acqYear
+chndm_1950-121-34,object,1950,acqYear
+chndm_1914-38-339,object,1914,acqYear
+chndm_1931-59-219-b,object,1931,acqYear
+chndm_1967-10-17-b,object,1967,acqYear
+chndm_1985-19-106,object,1985,acqYear
+chndm_1938-88-7057,object,1938,acqYear
+chndm_1975-44-2,object,1975,acqYear
+chndm_1968-107-22,object,1968,acqYear
+chndm_1926-43-5-540,object,1926,acqYear
+chndm_1900-4-2,object,1900,acqYear
+chndm_2000-69-4,object,2000,acqYear
+chndm_1931-45-75,object,1931,acqYear
+chndm_1931-44-17-a_b,object,1931,acqYear
+chndm_1942-50-131,object,1942,acqYear
+chndm_1973-51-138,object,1973,acqYear
+chndm_1968-116-2-a,object,1968,acqYear
+chndm_1985-103-139-a,object,1985,acqYear
+chndm_1962-65-2,object,1962,acqYear
+chndm_1942-50-13,object,1942,acqYear
+chndm_1979-91-607-a_b,object,1979,acqYear
+chndm_1945-6-4-2,object,1945,acqYear
+chndm_1938-57-736-c,object,1938,acqYear
+chndm_1911-28-377,object,1911,acqYear
+chndm_1977-110-1-11,object,1977,acqYear
+chndm_1953-179-85-31,object,1953,acqYear
+chndm_1942-50-1,object,1942,acqYear
+chndm_1926-43-6-b-252,object,1926,acqYear
+chndm_1926-43-6-b-135,object,1926,acqYear
+chndm_1979-91-647,object,1979,acqYear
+chndm_1931-64-279,object,1931,acqYear
+chndm_1901-39-2466,object,1901,acqYear
+chndm_1914-21-121,object,1914,acqYear
+chndm_1906-15-35-a_b,object,1906,acqYear
+chndm_1960-233-3-a_h,object,1960,acqYear
+chndm_1977-110-3-19,object,1977,acqYear
+chndm_1962-218-12,object,1962,acqYear
+chndm_1940-117-7,object,1940,acqYear
+chndm_1976-48-61-2,object,1976,acqYear
+chndm_1926-43-4-95,object,1926,acqYear
+chndm_1999-42-10,object,1999,acqYear
+chndm_1948-40-4,object,1948,acqYear
+chndm_1905-2-135,object,1905,acqYear
+chndm_1952-164-21,object,1952,acqYear
+chndm_1914-21-14,object,1914,acqYear
+chndm_1931-94-177,object,1931,acqYear
+chndm_1948-118-41,object,1948,acqYear
+chndm_1982-33-1,object,1982,acqYear
+chndm_1920-36-319,object,1920,acqYear
+chndm_1909-13-17,object,1909,acqYear
+chndm_1947-4-30,object,1947,acqYear
+chndm_1938-88-7279,object,1938,acqYear
+chndm_1899-17-1-d,object,1899,acqYear
+chndm_1917-4-296-b,object,1917,acqYear
+chndm_1904-16-242,object,1904,acqYear
+chndm_1990-48-2,object,1990,acqYear
+chndm_1955-38-19,object,1955,acqYear
+chndm_1995-165-13,object,1995,acqYear
+chndm_1948-39-3,object,1948,acqYear
+chndm_1910-45-2-a,object,1910,acqYear
+chndm_1995-50-338,object,1995,acqYear
+chndm_1896-3-90,object,1896,acqYear
+chndm_1992-168-3,object,1992,acqYear
+chndm_1912-16-1,object,1912,acqYear
+chndm_1938-57-1070-19,object,1938,acqYear
+chndm_1960-126-1-a,object,1960,acqYear
+chndm_1957-162-22,object,1957,acqYear
+chndm_1908-26-96,object,1908,acqYear
+chndm_1921-22-359,object,1921,acqYear
+chndm_1951-111-59,object,1951,acqYear
+chndm_1970-26-4-ac,object,1970,acqYear
+chndm_1962-50-64,object,1962,acqYear
+chndm_1941-46-6,object,1941,acqYear
+chndm_1931-45-41,object,1931,acqYear
+chndm_1897-8-140,object,1897,acqYear
+chndm_1968-135-4,object,1968,acqYear
+chndm_1984-133-10-a_b,object,1984,acqYear
+chndm_1972-42-214-a_f,object,1972,acqYear
+chndm_1952-161-37,object,1952,acqYear
+chndm_1901-39-632,object,1901,acqYear
+chndm_1941-69-172,object,1941,acqYear
+chndm_1904-20-431,object,1904,acqYear
+chndm_1906-21-222,object,1906,acqYear
+chndm_1968-101-30-13,object,1968,acqYear
+chndm_1901-39-2489,object,1901,acqYear
+chndm_1909-2-4,object,1909,acqYear
+chndm_1905-2-100,object,1905,acqYear
+chndm_1981-28-389,object,1981,acqYear
+chndm_1999-17-1-2,object,1999,acqYear
+chndm_1921-6-212-7-a,object,1921,acqYear
+chndm_1920-3-2-a_b,object,1920,acqYear
+chndm_a-a-29,object,a-a-,acqYear
+chndm_1926-37-169,object,1926,acqYear
+chndm_1974-52-62,object,1974,acqYear
+chndm_1901-39-2773,object,1901,acqYear
+chndm_1953-179-89-70,object,1953,acqYear
+chndm_1957-123-9,object,1957,acqYear
+chndm_1932-1-7,object,1932,acqYear
+chndm_1948-134-3,object,1948,acqYear
+chndm_1935-2-3-a,object,1935,acqYear
+chndm_1931-80-101,object,1931,acqYear
+chndm_1982-23-516,object,1982,acqYear
+chndm_1992-156-18,object,1992,acqYear
+chndm_1940-93-27,object,1940,acqYear
+chndm_1989-80-31-a_b,object,1989,acqYear
+chndm_1953-202-1,object,1953,acqYear
+chndm_1957-180-73,object,1957,acqYear
+chndm_1983-3-1,object,1983,acqYear
+chndm_1962-156-1-10,object,1962,acqYear
+chndm_1956-23-6-4,object,1956,acqYear
+chndm_1986-61-178-a_b,object,1986,acqYear
+chndm_1901-39-689,object,1901,acqYear
+chndm_1958-148-11-a_d,object,1958,acqYear
+chndm_1969-62-8,object,1969,acqYear
+chndm_1914-38-90,object,1914,acqYear
+chndm_1953-178-42,object,1953,acqYear
+chndm_1941-69-243,object,1941,acqYear
+chndm_1995-50-217,object,1995,acqYear
+chndm_1985-103-204,object,1985,acqYear
+chndm_1931-4-62,object,1931,acqYear
+chndm_1975-86-4,object,1975,acqYear
+chndm_1921-6-282-17,object,1921,acqYear
+chndm_1979-91-886,object,1979,acqYear
+chndm_1986-61-242,object,1986,acqYear
+chndm_1981-28-424,object,1981,acqYear
+chndm_1917-4-203,object,1917,acqYear
+chndm_1901-39-994,object,1901,acqYear
+chndm_1967-16-8,object,1967,acqYear
+chndm_1981-28-306,object,1981,acqYear
+chndm_1979-91-570,object,1979,acqYear
+chndm_1961-178-1,object,1961,acqYear
+chndm_1945-3-7,object,1945,acqYear
+chndm_1940-66-2-a_d,object,1940,acqYear
+chndm_1972-42-38-a_c,object,1972,acqYear
+chndm_1950-121-55,object,1950,acqYear
+chndm_1981-28-80,object,1981,acqYear
+chndm_1992-92-1-7,object,1992,acqYear
+chndm_2000-69-286,object,2000,acqYear
+chndm_1904-16-16-b,object,1904,acqYear
+chndm_1938-57-1219-b,object,1938,acqYear
+chndm_1901-39-1925,object,1901,acqYear
+chndm_1931-95-12-a_c,object,1931,acqYear
+chndm_1912-12-52,object,1912,acqYear
+chndm_1926-43-6-a-75,object,1926,acqYear
+chndm_1926-43-1-81,object,1926,acqYear
+chndm_1923-22-28,object,1923,acqYear
+chndm_1939-64-14-a_d,object,1939,acqYear
+chndm_1921-6-94-3,object,1921,acqYear
+chndm_1939-55-1,object,1939,acqYear
+chndm_1926-43-4-50,object,1926,acqYear
+chndm_1979-91-1276,object,1979,acqYear
+chndm_1917-4-1332-b,object,1917,acqYear
+chndm_1955-163-11,object,1955,acqYear
+chndm_1950-59-9,object,1950,acqYear
+chndm_1940-120-37,object,1940,acqYear
+chndm_1896-3-358,object,1896,acqYear
+chndm_1985-103-94,object,1985,acqYear
+chndm_1931-59-238-d,object,1931,acqYear
+chndm_1933-1-5,object,1933,acqYear
+chndm_1941-69-35,object,1941,acqYear
+chndm_1984-86-5-32,object,1984,acqYear
+chndm_1968-107-14,object,1968,acqYear
+chndm_1938-88-2797,object,1938,acqYear
+chndm_1912-12-252,object,1912,acqYear
+chndm_1953-206-6,object,1953,acqYear
+chndm_1945-7-1-a,object,1945,acqYear
+chndm_1926-22-184,object,1926,acqYear
+chndm_1938-88-467,object,1938,acqYear
+chndm_1981-28-387,object,1981,acqYear
+chndm_1900-25-9,object,1900,acqYear
+chndm_1902-1-187,object,1902,acqYear
+chndm_1941-11-5,object,1941,acqYear
+chndm_1899-2-7,object,1899,acqYear
+chndm_1994-3-3,object,1994,acqYear
+chndm_1896-1-119,object,1896,acqYear
+chndm_1984-86-4-56,object,1984,acqYear
+chndm_1952-166-46-b,object,1952,acqYear
+chndm_1926-43-4-213,object,1926,acqYear
+chndm_1943-51-103,object,1943,acqYear
+chndm_1938-88-8164,object,1938,acqYear
+chndm_1997-133-1,object,1997,acqYear
+chndm_1901-39-511,object,1901,acqYear
+chndm_1926-22-65-a,object,1926,acqYear
+chndm_1908-13-15,object,1908,acqYear
+chndm_1974-41-8,object,1974,acqYear
+chndm_1984-125-72,object,1984,acqYear
+chndm_1926-43-6-b-3,object,1926,acqYear
+chndm_1985-68-7-a,object,1985,acqYear
+chndm_1970-28-25,object,1970,acqYear
+chndm_1942-50-412,object,1942,acqYear
+chndm_1931-66-2,object,1931,acqYear
+chndm_1951-106-2,object,1951,acqYear
+chndm_1993-1-1,object,1993,acqYear
+chndm_2007-27-26,object,2007,acqYear
+chndm_1897-8-242,object,1897,acqYear
+chndm_1938-88-570,object,1938,acqYear
+chndm_1901-39-2801,object,1901,acqYear
+chndm_1959-56-1-f,object,1959,acqYear
+chndm_1973-51-110-a_b,object,1973,acqYear
+chndm_1931-85-1,object,1931,acqYear
+chndm_1902-1-779,object,1902,acqYear
+chndm_1901-39-3217,object,1901,acqYear
+chndm_1926-43-6-b-84,object,1926,acqYear
+chndm_1920-36-170,object,1920,acqYear
+chndm_1942-50-4,object,1942,acqYear
+chndm_1962-50-65,object,1962,acqYear
+chndm_1916-33-49-a_b,object,1916,acqYear
+chndm_1951-158-6,object,1951,acqYear
+chndm_1953-48-15,object,1953,acqYear
+chndm_2006-20-17,object,2006,acqYear
+chndm_1953-106-82,object,1953,acqYear
+chndm_1939-69-2,object,1939,acqYear
+chndm_1911-28-361,object,1911,acqYear
+chndm_1896-1-103,object,1896,acqYear
+chndm_1926-43-6-b-78,object,1926,acqYear
+chndm_1926-43-7-d-45,object,1926,acqYear
+chndm_1987-96-3,object,1987,acqYear
+chndm_1974-72-10,object,1974,acqYear
+chndm_1971-50-77,object,1971,acqYear
+chndm_1971-50-103,object,1971,acqYear
+chndm_1979-91-883,object,1979,acqYear
+chndm_1917-4-284-a,object,1917,acqYear
+chndm_1926-43-5-551,object,1926,acqYear
+chndm_1901-39-2056,object,1901,acqYear
+chndm_1921-6-313-80,object,1921,acqYear
+chndm_1935-12-1-6,object,1935,acqYear
+chndm_1931-4-9,object,1931,acqYear
+chndm_1938-88-8417,object,1938,acqYear
+chndm_1901-39-623,object,1901,acqYear
+chndm_1942-50-138,object,1942,acqYear
+chndm_1942-50-513,object,1942,acqYear
+chndm_1981-28-59,object,1981,acqYear
+chndm_1901-39-1718,object,1901,acqYear
+chndm_1950-30-4,object,1950,acqYear
+chndm_1957-58-31,object,1957,acqYear
+chndm_1914-38-140,object,1914,acqYear
+chndm_1986-24-1,object,1986,acqYear
+chndm_1917-4-158-b,object,1917,acqYear
+chndm_1944-93-2,object,1944,acqYear
+chndm_1904-16-302,object,1904,acqYear
+chndm_1999-42-6,object,1999,acqYear
+chndm_1923-51-15,object,1923,acqYear
+chndm_1955-28-2,object,1955,acqYear
+chndm_1921-6-11-1,object,1921,acqYear
+chndm_1939-57-13,object,1939,acqYear
+chndm_1948-89-9,object,1948,acqYear
+chndm_1902-1-101,object,1902,acqYear
+chndm_1984-84-13,object,1984,acqYear
+chndm_1989-80-34-a_g,object,1989,acqYear
+chndm_1912-12-41,object,1912,acqYear
+chndm_1948-47-244,object,1948,acqYear
+chndm_1969-121-40,object,1969,acqYear
+chndm_1896-1-87,object,1896,acqYear
+chndm_1901-39-1987,object,1901,acqYear
+chndm_1901-39-3343,object,1901,acqYear
+chndm_1931-73-295,object,1931,acqYear
+chndm_1934-13-5,object,1934,acqYear
+chndm_1943-51-324,object,1943,acqYear
+chndm_1975-60-19-a,object,1975,acqYear
+chndm_1950-121-28-c,object,1950,acqYear
+chndm_1926-43-4-155,object,1926,acqYear
+chndm_1931-94-232,object,1931,acqYear
+chndm_1947-49-12,object,1947,acqYear
+chndm_1979-91-919,object,1979,acqYear
+chndm_1960-78-1-1_102,object,1960,acqYear
+chndm_1951-185-33-i_k,object,1951,acqYear
+chndm_1901-39-2852,object,1901,acqYear
+chndm_1940-76-15,object,1940,acqYear
+chndm_1909-22-1-25,object,1909,acqYear
+chndm_1960-158-1-a_c,object,1960,acqYear
+chndm_1924-15-43-b,object,1924,acqYear
+chndm_1938-88-3498,object,1938,acqYear
+chndm_1897-8-50,object,1897,acqYear
+chndm_1962-50-76,object,1962,acqYear
+chndm_1981-56-41,object,1981,acqYear
+chndm_1935-2-1-a_b,object,1935,acqYear
+chndm_1952-127-20,object,1952,acqYear
+chndm_1938-88-284,object,1938,acqYear
+chndm_1906-15-31,object,1906,acqYear
+chndm_1958-143-3,object,1958,acqYear
+chndm_1925-2-21-a,object,1925,acqYear
+chndm_1953-179-84-10,object,1953,acqYear
+chndm_1979-91-631,object,1979,acqYear
+chndm_2009-18-24-a_b,object,2009,acqYear
+chndm_1917-4-516,object,1917,acqYear
+chndm_1902-1-296,object,1902,acqYear
+chndm_1911-31-7,object,1911,acqYear
+chndm_1995-70-1-a_b,object,1995,acqYear
+chndm_1901-39-1809,object,1901,acqYear
+chndm_a-w-240,object,a-w-,acqYear
+chndm_1931-94-186,object,1931,acqYear
+chndm_1926-43-4-74,object,1926,acqYear
+chndm_1923-51-1,object,1923,acqYear
+chndm_1955-163-12,object,1955,acqYear
+chndm_1914-38-228-a,object,1914,acqYear
+chndm_1907-17-8,object,1907,acqYear
+chndm_1940-105-1,object,1940,acqYear
+chndm_1931-27-4,object,1931,acqYear
+chndm_1938-57-1070-37,object,1938,acqYear
+chndm_1971-50-428,object,1971,acqYear
+chndm_1979-91-703,object,1979,acqYear
+chndm_1909-2-193,object,1909,acqYear
+chndm_1926-43-5-217,object,1926,acqYear
+chndm_1904-21-19,object,1904,acqYear
+chndm_1949-101-1,object,1949,acqYear
+chndm_1921-6-450-36,object,1921,acqYear
+chndm_1991-17-5,object,1991,acqYear
+chndm_1941-69-60,object,1941,acqYear
+chndm_1948-40-12,object,1948,acqYear
+chndm_1951-103-25,object,1951,acqYear
+chndm_1917-4-677,object,1917,acqYear
+chndm_1917-4-366-a,object,1917,acqYear
+chndm_1939-12-4,object,1939,acqYear
+chndm_1948-47-240,object,1948,acqYear
+chndm_1973-51-5-a_b,object,1973,acqYear
+chndm_1971-79-2-a_b,object,1971,acqYear
+chndm_1958-39-1-b_d,object,1958,acqYear
+chndm_1926-43-5-432,object,1926,acqYear
+chndm_1981-28-325,object,1981,acqYear
+chndm_1902-1-1016,object,1902,acqYear
+chndm_1985-19-47,object,1985,acqYear
+chndm_1931-40-47-a_b,object,1931,acqYear
+chndm_1938-57-489-a_b,object,1938,acqYear
+chndm_1959-66-306-e,object,1959,acqYear
+chndm_1937-96-2,object,1937,acqYear
+chndm_1952-166-109,object,1952,acqYear
+chndm_1921-6-99,object,1921,acqYear
+chndm_1928-5-35-a_b,object,1928,acqYear
+chndm_1955-78-14-13,object,1955,acqYear
+chndm_1917-4-534,object,1917,acqYear
+chndm_1917-4-825,object,1917,acqYear
+chndm_1942-50-426-a,object,1942,acqYear
+chndm_1995-50-150,object,1995,acqYear
+chndm_1972-42-137-a_d,object,1972,acqYear
+chndm_1901-39-51,object,1901,acqYear
+chndm_1931-45-8,object,1931,acqYear
+chndm_1908-15-6,object,1908,acqYear
+chndm_1896-1-25,object,1896,acqYear
+chndm_1926-43-5-345,object,1926,acqYear
+chndm_1979-91-959,object,1979,acqYear
+chndm_1957-46-61,object,1957,acqYear
+chndm_1948-128-71,object,1948,acqYear
+chndm_1912-16-64,object,1912,acqYear
+chndm_1938-58-1424,object,1938,acqYear
+chndm_1973-25-8,object,1973,acqYear
+chndm_1939-84-42-c,object,1939,acqYear
+chndm_1901-39-1392,object,1901,acqYear
+chndm_1948-134-53,object,1948,acqYear
+chndm_1960-83-423,object,1960,acqYear
+chndm_1941-49-1,object,1941,acqYear
+chndm_1924-38-167,object,1924,acqYear
+chndm_2000-69-79,object,2000,acqYear
+chndm_1938-88-88,object,1938,acqYear
+chndm_1943-33-1-15,object,1943,acqYear
+chndm_1986-61-224-a_b,object,1986,acqYear
+chndm_1914-38-186,object,1914,acqYear
+chndm_1931-66-160,object,1931,acqYear
+chndm_1938-88-2601,object,1938,acqYear
+chndm_1902-1-424,object,1902,acqYear
+chndm_1923-7-35-a_b,object,1923,acqYear
+chndm_1909-2-37,object,1909,acqYear
+chndm_1913-17-26-a_b,object,1913,acqYear
+chndm_1901-39-2782,object,1901,acqYear
+chndm_1901-39-83,object,1901,acqYear
+chndm_2006-32-1,object,2006,acqYear
+chndm_1901-39-2673,object,1901,acqYear
+chndm_1973-76-21-a,object,1973,acqYear
+chndm_1926-43-6-b-155,object,1926,acqYear
+chndm_1975-86-15,object,1975,acqYear
+chndm_1938-58-1092,object,1938,acqYear
+chndm_1998-59-2,object,1998,acqYear
+chndm_1968-87-1,object,1968,acqYear
+chndm_1898-18-2,object,1898,acqYear
+chndm_1924-33-1-a_b,object,1924,acqYear
+chndm_1953-176-1,object,1953,acqYear
+chndm_1951-103-54,object,1951,acqYear
+chndm_1917-4-1313,object,1917,acqYear
+chndm_1923-46-117,object,1923,acqYear
+chndm_1954-18-30,object,1954,acqYear
+chndm_1940-110-3,object,1940,acqYear
+chndm_1938-57-1070-175,object,1938,acqYear
+chndm_1972-39-5,object,1972,acqYear
+chndm_1926-22-118-b,object,1926,acqYear
+chndm_1905-2-71,object,1905,acqYear
+chndm_1902-1-811,object,1902,acqYear
+chndm_1896-1-58,object,1896,acqYear
+chndm_1938-88-736,object,1938,acqYear
+chndm_1928-16-2,object,1928,acqYear
+chndm_1914-38-239,object,1914,acqYear
+chndm_1904-16-338,object,1904,acqYear
+chndm_a-t-20,object,a-t-,acqYear
+chndm_1921-6-450-154,object,1921,acqYear
+chndm_1920-36-218,object,1920,acqYear
+chndm_1902-1-197,object,1902,acqYear
+chndm_2000-69-205,object,2000,acqYear
+chndm_1902-1-240,object,1902,acqYear
+chndm_1896-3-24,object,1896,acqYear
+chndm_1941-31-215,object,1941,acqYear
+chndm_1974-27-5,object,1974,acqYear
+chndm_1931-41-25-a_b,object,1931,acqYear
+chndm_1979-91-312,object,1979,acqYear
+chndm_1917-4-1318,object,1917,acqYear
+chndm_1973-6-5,object,1973,acqYear
+chndm_1923-14-1,object,1923,acqYear
+chndm_1991-156-1,object,1991,acqYear
+chndm_1962-56-13-a_b,object,1962,acqYear
+chndm_1938-88-321,object,1938,acqYear
+chndm_1938-88-1005,object,1938,acqYear
+chndm_1911-28-196,object,1911,acqYear
+chndm_1962-192-8,object,1962,acqYear
+chndm_1979-91-858,object,1979,acqYear
+chndm_1901-39-1251,object,1901,acqYear
+chndm_1976-103-229,object,1976,acqYear
+chndm_1921-6-42-8,object,1921,acqYear
+chndm_1973-51-27,object,1973,acqYear
+chndm_1902-1-904,object,1902,acqYear
+chndm_1903-11-24,object,1903,acqYear
+chndm_1917-4-365-a,object,1917,acqYear
+chndm_1938-57-321,object,1938,acqYear
+chndm_1948-47-338,object,1948,acqYear
+chndm_1941-17-3,object,1941,acqYear
+chndm_1979-91-319,object,1979,acqYear
+chndm_1968-135-16-a,object,1968,acqYear
+chndm_1972-42-194,object,1972,acqYear
+chndm_1931-59-141,object,1931,acqYear
+chndm_1979-91-438,object,1979,acqYear
+chndm_1941-31-250,object,1941,acqYear
+chndm_1981-28-444,object,1981,acqYear
+chndm_1955-78-14-30,object,1955,acqYear
+chndm_1918-52-1,object,1918,acqYear
+chndm_1984-86-5-45,object,1984,acqYear
+chndm_1984-86-3-42,object,1984,acqYear
+chndm_1921-6-40-4,object,1921,acqYear
+chndm_1901-39-2217,object,1901,acqYear
+chndm_1970-26-4-cdd,object,1970,acqYear
+chndm_1961-115-37,object,1961,acqYear
+chndm_1921-6-282-62,object,1921,acqYear
+chndm_1901-39-2179,object,1901,acqYear
+chndm_1921-22-286,object,1921,acqYear
+chndm_1938-57-1070-230,object,1938,acqYear
+chndm_1923-41-5,object,1923,acqYear
+chndm_1901-39-2785,object,1901,acqYear
+chndm_1921-6-97-1,object,1921,acqYear
+chndm_1981-28-82,object,1981,acqYear
+chndm_1963-9-245,object,1963,acqYear
+chndm_1938-88-473,object,1938,acqYear
+chndm_1938-88-699,object,1938,acqYear
+chndm_1931-6-125,object,1931,acqYear
+chndm_1896-1-34,object,1896,acqYear
+chndm_1973-29-22,object,1973,acqYear
+chndm_1995-50-198,object,1995,acqYear
+chndm_1909-13-39,object,1909,acqYear
+chndm_1923-7-48,object,1923,acqYear
+chndm_1955-133-19,object,1955,acqYear
+chndm_1941-99-14,object,1941,acqYear
+chndm_1938-88-2948,object,1938,acqYear
+chndm_1901-39-1361,object,1901,acqYear
+chndm_1937-49-2,object,1937,acqYear
+chndm_1940-96-1-a_k,object,1940,acqYear
+chndm_1941-51-1,object,1941,acqYear
+chndm_1948-40-154,object,1948,acqYear
+chndm_1974-101-23,object,1974,acqYear
+chndm_1935-2-7,object,1935,acqYear
+chndm_1921-6-472-6,object,1921,acqYear
+chndm_1948-47-211,object,1948,acqYear
+chndm_1924-36-2,object,1924,acqYear
+chndm_1943-51-133,object,1943,acqYear
+chndm_1975-81-2,object,1975,acqYear
+chndm_1981-28-324,object,1981,acqYear
+chndm_1949-151-14,object,1949,acqYear
+chndm_1905-2-189-a_b,object,1905,acqYear
+chndm_1896-3-281,object,1896,acqYear
+chndm_1914-38-323,object,1914,acqYear
+chndm_1962-50-120,object,1962,acqYear
+chndm_1940-76-20,object,1940,acqYear
+chndm_1948-125-4-30,object,1948,acqYear
+chndm_1976-103-16,object,1976,acqYear
+chndm_1911-28-9,object,1911,acqYear
+chndm_1926-43-6-b-96,object,1926,acqYear
+chndm_1911-28-400,object,1911,acqYear
+chndm_1934-12-1,object,1934,acqYear
+chndm_1938-88-416,object,1938,acqYear
+chndm_1921-22-38,object,1921,acqYear
+chndm_a-t-775,object,a-t-,acqYear
+chndm_1936-13-16-a_b,object,1936,acqYear
+chndm_1977-110-1-5,object,1977,acqYear
+chndm_1945-20-4-a_f,object,1945,acqYear
+chndm_1994-129-3,object,1994,acqYear
+chndm_1921-6-82,object,1921,acqYear
+chndm_1953-20-3,object,1953,acqYear
+chndm_1979-91-214,object,1979,acqYear
+chndm_1985-103-36,object,1985,acqYear
+chndm_1917-4-115,object,1917,acqYear
+chndm_1957-61-46-h,object,1957,acqYear
+chndm_1917-4-1363,object,1917,acqYear
+chndm_1901-39-1063,object,1901,acqYear
+chndm_1920-15-28,object,1920,acqYear
+chndm_1979-91-951,object,1979,acqYear
+chndm_1921-41-29,object,1921,acqYear
+chndm_1940-90-18,object,1940,acqYear
+chndm_1937-38-2-b,object,1937,acqYear
+chndm_1942-50-79,object,1942,acqYear
+chndm_1926-43-5-104,object,1926,acqYear
+chndm_1967-10-6-a,object,1967,acqYear
+chndm_1938-88-687,object,1938,acqYear
+chndm_1942-50-174,object,1942,acqYear
+chndm_1986-61-20-a_b,object,1986,acqYear
+chndm_1957-30-6,object,1957,acqYear
+chndm_1948-47-319,object,1948,acqYear
+chndm_1947-131-114,object,1947,acqYear
+chndm_2018-33-4,object,2018,acqYear
+chndm_1901-39-1593,object,1901,acqYear
+chndm_1926-43-7-d-32,object,1926,acqYear
+chndm_2000-69-54,object,2000,acqYear
+chndm_1944-61-4,object,1944,acqYear
+chndm_1921-6-213-7,object,1921,acqYear
+chndm_1921-6-205,object,1921,acqYear
+chndm_1976-116-2,object,1976,acqYear
+chndm_1944-65-1,object,1944,acqYear
+chndm_1979-91-499,object,1979,acqYear
+chndm_1931-86-115-a_c,object,1931,acqYear
+chndm_1920-36-295,object,1920,acqYear
+chndm_1896-3-87,object,1896,acqYear
+chndm_1938-88-860,object,1938,acqYear
+chndm_1912-12-260,object,1912,acqYear
+chndm_1908-26-137,object,1908,acqYear
+chndm_1901-39-1549,object,1901,acqYear
+chndm_1953-143-33,object,1953,acqYear
+chndm_1946-68-5,object,1946,acqYear
+chndm_1917-4-537,object,1917,acqYear
+chndm_1955-89-1,object,1955,acqYear
+chndm_1983-29-14-a,object,1983,acqYear
+chndm_1938-88-3090,object,1938,acqYear
+chndm_1931-80-95,object,1931,acqYear
+chndm_1985-19-8,object,1985,acqYear
+chndm_1938-57-102,object,1938,acqYear
+chndm_1974-42-11,object,1974,acqYear
+chndm_1921-6-212-41,object,1921,acqYear
+chndm_1901-39-2482,object,1901,acqYear
+chndm_1912-16-33,object,1912,acqYear
+chndm_1973-51-24-a_c,object,1973,acqYear
+chndm_1931-45-88,object,1931,acqYear
+chndm_1896-3-190,object,1896,acqYear
+chndm_1943-46-4,object,1943,acqYear
+chndm_1985-19-107,object,1985,acqYear
+chndm_1931-82-12,object,1931,acqYear
+chndm_1953-179-88-68,object,1953,acqYear
+chndm_1974-101-11,object,1974,acqYear
+chndm_1917-4-34-b,object,1917,acqYear
+chndm_1948-128-18,object,1948,acqYear
+chndm_1911-28-376,object,1911,acqYear
+chndm_1917-4-464-a,object,1917,acqYear
+chndm_1938-57-730-l,object,1938,acqYear
+chndm_1997-136-1-1_145,object,1997,acqYear
+chndm_1943-33-1-34,object,1943,acqYear
+chndm_1999-29-1,object,1999,acqYear
+chndm_1931-64-169,object,1931,acqYear
+chndm_1931-94-39,object,1931,acqYear
+chndm_1917-4-353-b,object,1917,acqYear
+chndm_1913-34-11,object,1913,acqYear
+chndm_1909-13-91,object,1909,acqYear
+chndm_1921-6-212-66,object,1921,acqYear
+chndm_1920-36-318,object,1920,acqYear
+chndm_1959-26-4,object,1959,acqYear
+chndm_1971-50-288,object,1971,acqYear
+chndm_1909-13-127,object,1909,acqYear
+chndm_1973-51-18-a_d,object,1973,acqYear
+chndm_1937-22-10,object,1937,acqYear
+chndm_1917-4-173,object,1917,acqYear
+chndm_1967-46-31,object,1967,acqYear
+chndm_1901-39-777,object,1901,acqYear
+chndm_1904-16-125,object,1904,acqYear
+chndm_1911-28-396,object,1911,acqYear
+chndm_1926-43-6-a-135,object,1926,acqYear
+chndm_1959-172-1,object,1959,acqYear
+chndm_1981-56-5,object,1981,acqYear
+chndm_1907-17-67,object,1907,acqYear
+chndm_1958-30-1,object,1958,acqYear
+chndm_1973-42-23-a_b,object,1973,acqYear
+chndm_1968-78-3-a,object,1968,acqYear
+chndm_1911-28-332,object,1911,acqYear
+chndm_1957-66-1,object,1957,acqYear
+chndm_1938-82-106-a_d,object,1938,acqYear
+chndm_2009-18-23,object,2009,acqYear
+chndm_1984-86-3-7,object,1984,acqYear
+chndm_1909-2-20,object,1909,acqYear
+chndm_1938-88-2476,object,1938,acqYear
+chndm_1985-21-2,object,1985,acqYear
+chndm_1923-22-4,object,1923,acqYear
+chndm_1947-63-1-b,object,1947,acqYear
+chndm_1966-55-30,object,1966,acqYear
+chndm_1952-166-43-a_b,object,1952,acqYear
+chndm_1995-50-122,object,1995,acqYear
+chndm_1916-33-205-a_b,object,1916,acqYear
+chndm_2013-21-40,object,2013,acqYear
+chndm_1979-91-1081,object,1979,acqYear
+chndm_1938-1-32,object,1938,acqYear
+chndm_1977-65-2,object,1977,acqYear
+chndm_1919-10-70,object,1919,acqYear
+chndm_1942-7-17,object,1942,acqYear
+chndm_1969-121-44,object,1969,acqYear
+chndm_1942-50-271,object,1942,acqYear
+chndm_1935-2-6,object,1935,acqYear
+chndm_1959-170-8,object,1959,acqYear
+chndm_1979-91-1073,object,1979,acqYear
+chndm_1941-69-233,object,1941,acqYear
+chndm_1933-1-148,object,1933,acqYear
+chndm_1904-16-157,object,1904,acqYear
+chndm_1926-43-5-300,object,1926,acqYear
+chndm_1962-56-26-d,object,1962,acqYear
+chndm_1921-6-285-38,object,1921,acqYear
+chndm_1950-58-11,object,1950,acqYear
+chndm_1926-43-4-550,object,1926,acqYear
+chndm_1926-43-6-b-153,object,1926,acqYear
+chndm_1975-60-44-c,object,1975,acqYear
+chndm_1931-94-79,object,1931,acqYear
+chndm_1972-42-35,object,1972,acqYear
+chndm_1971-50-375,object,1971,acqYear
+chndm_1981-17-1-a_b,object,1981,acqYear
+chndm_1901-39-1270,object,1901,acqYear
+chndm_1902-1-186,object,1902,acqYear
+chndm_1985-103-172,object,1985,acqYear
+chndm_1985-68-7-d,object,1985,acqYear
+chndm_1915-11-4,object,1915,acqYear
+chndm_1962-217-1,object,1962,acqYear
+chndm_1969-34-18-a_b,object,1969,acqYear
+chndm_1953-179-87-8,object,1953,acqYear
+chndm_1944-36-2-3,object,1944,acqYear
+chndm_1914-38-352,object,1914,acqYear
+chndm_1959-66-46,object,1959,acqYear
+chndm_1931-86-152-a_b,object,1931,acqYear
+chndm_1979-91-1287,object,1979,acqYear
+chndm_1904-16-45-c,object,1904,acqYear
+chndm_1962-198-31,object,1962,acqYear
+chndm_1917-4-15-b,object,1917,acqYear
+chndm_1914-38-154,object,1914,acqYear
+chndm_1944-21-1,object,1944,acqYear
+chndm_1931-67-65-a,object,1931,acqYear
+chndm_1917-4-497,object,1917,acqYear
+chndm_1943-69-10,object,1943,acqYear
+chndm_1897-8-189,object,1897,acqYear
+chndm_1962-59-1,object,1962,acqYear
+chndm_1921-6-147-3,object,1921,acqYear
+chndm_1985-103-28,object,1985,acqYear
+chndm_1946-4-1,object,1946,acqYear
+chndm_1962-143-121-61,object,1962,acqYear
+chndm_1938-62-28,object,1938,acqYear
+chndm_1953-179-88-34,object,1953,acqYear
+chndm_1974-27-10,object,1974,acqYear
+chndm_1938-88-746,object,1938,acqYear
+chndm_1957-67-1,object,1957,acqYear
+chndm_1981-28-118,object,1981,acqYear
+chndm_1947-113-1,object,1947,acqYear
+chndm_1979-91-1160,object,1979,acqYear
+chndm_1952-166-98,object,1952,acqYear
+chndm_1901-39-316,object,1901,acqYear
+chndm_1898-6-73,object,1898,acqYear
+chndm_1928-2-95,object,1928,acqYear
+chndm_1971-50-206,object,1971,acqYear
+chndm_1973-32-9,object,1973,acqYear
+chndm_1969-40-41,object,1969,acqYear
+chndm_1938-57-1518,object,1938,acqYear
+chndm_1901-39-3311,object,1901,acqYear
+chndm_1901-39-414,object,1901,acqYear
+chndm_1896-3-347,object,1896,acqYear
+chndm_1938-57-418-e,object,1938,acqYear
+chndm_1931-4-81,object,1931,acqYear
+chndm_1985-14-54,object,1985,acqYear
+chndm_1970-26-21,object,1970,acqYear
+chndm_1917-9-1,object,1917,acqYear
+chndm_1931-45-92-a_b,object,1931,acqYear
+chndm_1911-28-266,object,1911,acqYear
+chndm_1941-11-2,object,1941,acqYear
+chndm_1921-6-231-27,object,1921,acqYear
+chndm_1914-38-60,object,1914,acqYear
+chndm_1954-94-1,object,1954,acqYear
+chndm_1986-61-188,object,1986,acqYear
+chndm_1968-135-87-a,object,1968,acqYear
+chndm_1950-121-40,object,1950,acqYear
+chndm_1926-43-4-45,object,1926,acqYear
+chndm_1907-17-27,object,1907,acqYear
+chndm_1985-14-17,object,1985,acqYear
+chndm_1981-11-15,object,1981,acqYear
+chndm_1942-50-267,object,1942,acqYear
+chndm_1914-38-56,object,1914,acqYear
+chndm_1938-73-1,object,1938,acqYear
+chndm_1938-88-793,object,1938,acqYear
+chndm_1959-140-11,object,1959,acqYear
+chndm_1920-36-179,object,1920,acqYear
+chndm_1938-88-3129,object,1938,acqYear
+chndm_1926-43-7-b-118,object,1926,acqYear
+chndm_1917-4-245,object,1917,acqYear
+chndm_1938-88-4458,object,1938,acqYear
+chndm_1923-41-7,object,1923,acqYear
+chndm_1912-12-66,object,1912,acqYear
+chndm_1950-121-21,object,1950,acqYear
+chndm_1950-102-8,object,1950,acqYear
+chndm_1979-91-283,object,1979,acqYear
+chndm_1926-43-4-435,object,1926,acqYear
+chndm_1979-91-580,object,1979,acqYear
+chndm_1960-128-3-8,object,1960,acqYear
+chndm_1995-50-199,object,1995,acqYear
+chndm_1993-134-25-a_c,object,1993,acqYear
+chndm_1974-101-13,object,1974,acqYear
+chndm_1948-47-189,object,1948,acqYear
+chndm_1901-39-1760,object,1901,acqYear
+chndm_1938-88-270,object,1938,acqYear
+chndm_1926-43-5-211,object,1926,acqYear
+chndm_1931-88-40-a_b,object,1931,acqYear
+chndm_1972-81-10,object,1972,acqYear
+chndm_1938-88-7160,object,1938,acqYear
+chndm_1938-88-3647,object,1938,acqYear
+chndm_1984-86-7-3,object,1984,acqYear
+chndm_1909-22-4-31,object,1909,acqYear
+chndm_1979-91-521,object,1979,acqYear
+chndm_1962-55-14-a_b,object,1962,acqYear
+chndm_1902-1-714,object,1902,acqYear
+chndm_1979-91-915,object,1979,acqYear
+chndm_1995-50-332,object,1995,acqYear
+chndm_1911-28-442,object,1911,acqYear
+chndm_1938-62-21,object,1938,acqYear
+chndm_1931-86-53,object,1931,acqYear
+chndm_1961-1-37,object,1961,acqYear
+chndm_1921-6-504-11,object,1921,acqYear
+chndm_1978-146-765,object,1978,acqYear
+chndm_1943-46-30,object,1943,acqYear
+chndm_1979-91-391,object,1979,acqYear
+chndm_2000-69-74,object,2000,acqYear
+chndm_1938-88-7161,object,1938,acqYear
+chndm_1955-38-53-d,object,1955,acqYear
+chndm_1902-1-555,object,1902,acqYear
+chndm_1921-22-348,object,1921,acqYear
+chndm_1972-49-1,object,1972,acqYear
+chndm_1917-14-4,object,1917,acqYear
+chndm_1958-148-2,object,1958,acqYear
+chndm_1931-71-83,object,1931,acqYear
+chndm_1981-56-79,object,1981,acqYear
+chndm_1923-6-25,object,1923,acqYear
+chndm_2017-41-3,object,2017,acqYear
+chndm_1901-39-1541,object,1901,acqYear
+chndm_1921-6-285-84,object,1921,acqYear
+chndm_1981-28-419,object,1981,acqYear
+chndm_1984-84-26,object,1984,acqYear
+chndm_1929-1-7-a_b,object,1929,acqYear
+chndm_1985-19-139,object,1985,acqYear
+chndm_1962-50-136,object,1962,acqYear
+chndm_1981-28-423,object,1981,acqYear
+chndm_1979-91-1127,object,1979,acqYear
+chndm_1901-39-560,object,1901,acqYear
+chndm_2000-69-220,object,2000,acqYear
+chndm_1955-1-5,object,1955,acqYear
+chndm_1972-36-12,object,1972,acqYear
+chndm_1941-19-1,object,1941,acqYear
+chndm_1931-94-139,object,1931,acqYear
+chndm_1902-1-153,object,1902,acqYear
+chndm_1971-50-62-a_c,object,1971,acqYear
+chndm_1970-26-4-ccc,object,1970,acqYear
+chndm_2007-53-1,object,2007,acqYear
+chndm_1938-57-1070-198,object,1938,acqYear
+chndm_1902-1-554,object,1902,acqYear
+chndm_1974-52-30,object,1974,acqYear
+chndm_1955-38-25,object,1955,acqYear
+chndm_1962-233-7,object,1962,acqYear
+chndm_1942-50-117,object,1942,acqYear
+chndm_1957-92-21,object,1957,acqYear
+chndm_1974-52-6,object,1974,acqYear
+chndm_1921-22-233,object,1921,acqYear
+chndm_1909-13-4,object,1909,acqYear
+chndm_1976-46-7,object,1976,acqYear
+chndm_1957-180-105,object,1957,acqYear
+chndm_1943-51-402,object,1943,acqYear
+chndm_1902-1-78,object,1902,acqYear
+chndm_1967-16-5,object,1967,acqYear
+chndm_1926-43-4-625,object,1926,acqYear
+chndm_1976-86-1-a_b,object,1976,acqYear
+chndm_1985-103-91,object,1985,acqYear
+chndm_1896-16-9,object,1896,acqYear
+chndm_1942-50-227,object,1942,acqYear
+chndm_1902-1-858,object,1902,acqYear
+chndm_1931-59-90-b,object,1931,acqYear
+chndm_1901-39-1073,object,1901,acqYear
+chndm_1926-43-5-458,object,1926,acqYear
+chndm_1942-8-5-a,object,1942,acqYear
+chndm_1901-39-2681,object,1901,acqYear
+chndm_1921-6-231-13,object,1921,acqYear
+chndm_1931-73-298,object,1931,acqYear
+chndm_1938-88-2621,object,1938,acqYear
+chndm_1896-4-4,object,1896,acqYear
+chndm_1978-4-1,object,1978,acqYear
+chndm_1974-52-69,object,1974,acqYear
+chndm_1979-91-250,object,1979,acqYear
+chndm_1972-81-22,object,1972,acqYear
+chndm_2000-69-227,object,2000,acqYear
+chndm_1941-69-86,object,1941,acqYear
+chndm_1906-15-21,object,1906,acqYear
+chndm_1995-50-8,object,1995,acqYear
+chndm_1909-26-2-a_b,object,1909,acqYear
+chndm_1931-70-44,object,1931,acqYear
+chndm_1909-25-25,object,1909,acqYear
+chndm_1967-46-45,object,1967,acqYear
+chndm_1931-73-7,object,1931,acqYear
+chndm_1923-6-44,object,1923,acqYear
+chndm_1917-4-178,object,1917,acqYear
+chndm_1973-29-20,object,1973,acqYear
+chndm_1911-28-64,object,1911,acqYear
+chndm_1941-69-217,object,1941,acqYear
+chndm_1938-88-893,object,1938,acqYear
+chndm_1901-39-1702,object,1901,acqYear
+chndm_1939-7-3,object,1939,acqYear
+chndm_1967-10-3-a,object,1967,acqYear
+chndm_1995-50-81,object,1995,acqYear
+chndm_1914-38-208,object,1914,acqYear
+chndm_1968-111-87,object,1968,acqYear
+chndm_1908-17-2,object,1908,acqYear
+chndm_1981-56-9,object,1981,acqYear
+chndm_1953-38-6,object,1953,acqYear
+chndm_1986-61-160,object,1986,acqYear
+chndm_1901-39-1258,object,1901,acqYear
+chndm_1913-45-9-a_b,object,1913,acqYear
+chndm_1971-82-10,object,1971,acqYear
+chndm_1960-164-9,object,1960,acqYear
+chndm_1901-39-2824,object,1901,acqYear
+chndm_1938-88-4310,object,1938,acqYear
+chndm_1939-66-12-b_c,object,1939,acqYear
+chndm_1985-103-137-c,object,1985,acqYear
+chndm_1948-47-297,object,1948,acqYear
+chndm_1951-90-12,object,1951,acqYear
+chndm_1998-62-7,object,1998,acqYear
+chndm_1896-3-23,object,1896,acqYear
+chndm_1926-43-4-379,object,1926,acqYear
+chndm_1921-6-326-25,object,1921,acqYear
+chndm_1985-103-201,object,1985,acqYear
+chndm_1984-86-6-21,object,1984,acqYear
+chndm_1943-46-26,object,1943,acqYear
+chndm_1950-131-23,object,1950,acqYear
+chndm_1954-166-2-a_b,object,1954,acqYear
+chndm_1938-88-733,object,1938,acqYear
+chndm_1921-6-123-1,object,1921,acqYear
+chndm_1938-57-1028,object,1938,acqYear
+chndm_1974-74-1-a_j,object,1974,acqYear
+chndm_1938-88-3540,object,1938,acqYear
+chndm_1914-38-194,object,1914,acqYear
+chndm_1926-43-4-169,object,1926,acqYear
+chndm_1962-59-2,object,1962,acqYear
+chndm_1909-13-26,object,1909,acqYear
+chndm_1962-8-1-d,object,1962,acqYear
