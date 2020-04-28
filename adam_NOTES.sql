@@ -1,0 +1,43 @@
+-- -- How to get neighbor counts (inner function)
+-- SELECT 1/LOG(COUNT(Neighbors))
+-- FROM (SELECT DISTINCT objectid, attributeid, attributetype
+--       FROM edge
+--       WHERE objectid='architecture'
+--          OR attributetype='architecture'
+--          OR attributeid='architecture') AS Neighbors;
+-- 
+-- -- Get neigbors shared between two nodes
+-- SELECT *
+-- FROM (SELECT DISTINCT objectid, attributeid, attributetype
+--       FROM edge
+--       WHERE objectid='architecture'
+--          OR attributetype='architecture'
+--          OR attributeid='architecture') AS Neighbors_1,
+--      (SELECT DISTINCT objectid, attributeid, attributetype
+--       FROM edge
+--       WHERE objectid='topic'
+--          OR attributetype='topic'
+--          OR attributeid='topic') AS Neighbors_2
+-- WHERE Neighbors_1.objectid=Neighbors_2.objectid
+--    OR Neighbors_1.attributeid=Neighbors_2.attributeid
+--    OR Neighbors_1.attributetype=Neighbors_2.attributetype;
+
+-- -- Grab all distinct neighbors
+-- SELECT DISTINCT t.* 
+-- FROM (SELECT objectid AS Nieghbors
+--       FROM edge
+--       WHERE objectid='architecture'
+--          OR attributetype='architecture'
+--          OR attributeid='architecture'
+--       UNION
+--       SELECT attributeid
+--       FROM edge
+--       WHERE objectid='architecture'
+--          OR attributetype='architecture'
+--          OR attributeid='architecture'
+--       UNION
+--       SELECT attributetype
+--       FROM edge
+--       WHERE objectid='architecture'
+--          OR attributetype='architecture'
+--          OR attributeid='architecture') AS t

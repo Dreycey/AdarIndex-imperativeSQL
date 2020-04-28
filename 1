@@ -1,0 +1,37 @@
+--SELECT freetext_date_content, 
+--		freetext_identifier_content, 
+--		freetext_physicaldescription_content, 
+--		descriptivenonrepeating_title_content,
+--		descriptivenonrepeating_title_sort,
+--		freetext_creditline_content,
+--		freetext_place_content,
+--		indexedstructured_date,
+--        indexedstructured_place,
+--		indexedstructured_topic,
+--		indexedstructured_name
+--FROM chndm_content;
+
+
+--SELECT *FROM edge;
+
+-- Evaluate the different node types
+-- atts: nodeid, nodetype
+--SELECT nodeid, nodetype 
+--FROM node
+--GROUP BY nodetype;
+
+-- Evaluate the different edge types
+-- atts: objectid, objecttype, attributeid, attributetype
+
+
+
+--SELECT objectid, attributeid, attributetype
+--FROM edge
+--GROUP BY attributetype;
+
+
+SELECT count(DISTINCT objectid, attributeid, attributetype)
+FROM edge
+WHERE objectid='architecture'
+   OR attributetype='architecture'
+   OR attributeid='architecture';
